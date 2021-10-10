@@ -1,19 +1,17 @@
-
 [build]
-    command = "hugo"
-    publish = "public"
-
+publish = "public"
+command = "hugo --gc --minify"
 
 [context.production.environment]
-    HUGO_VERSION = "0.87.0"
-    HUGO_ENV = "production"
-    HUGO_ENABLEGITINFO = "true"
+HUGO_VERSION = "0.87.0"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo"
 
 [context.split1.environment]
-HUGO_VERSION = "0.87.0"
+HUGO_VERSION = "0.88.1"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
@@ -36,5 +34,9 @@ from = "/npmjs/*"
 to = "/npmjs/"
 status = 200
 
+
 [build.environment]
     TZ = "Africa/Lagos"
+
+
+

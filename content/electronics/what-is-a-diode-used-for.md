@@ -9,8 +9,8 @@ author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
-draft: false
-wordcount: true
+draft: true
+wordcount: false
 ---
 
 Basically diode is an electronic device or component that every circuits that we might think of has, be it the circuit inside a radio, a lamp, or your smartphone etc.
