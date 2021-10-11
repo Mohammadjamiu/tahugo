@@ -1,0 +1,15 @@
+# comments in netlify redirect
+
+http://tooabstractive.netlify.app/*                                                     https://www.tooabstractive.com/:splat 301!
+https://tooabstractive.netlify.app/*                                                    https://www.tooabstractive.com/:splat 301!
+
+/more-resource/how-to-solve-equation-using-calculator.html                              /funmaths/how-to-solve-equation-using-calculator/
+/more-resource/cramers-rule.html                                                        /funmaths/what-is-crammers-rule/
+/post/lca-post/how-to-learn-circuit-analysis-basic.html                                 /lca-post/how-to-learn-circuit-analysis-basics/
+/post/em-post/learn-electromagnetics-theory-from-scratch-using-this-resources.html      /em-post/resources-to-help-you-learn-electromagnetics-from-scratch/
+/lca-content/what-is-voltage-current-resistance.html                                    /learnca/what-is-voltage-current-and-resistance/
+/lca-content/electronic-circuit-components.html                                         /learnca/electronics-circuit-components-explained/
+/lca-content/what-is-ohms-law.html                                                      /learnca/what-is-ohms-law/
+/lca-content/series-and-parallel-combination-of-resistor-and-how-to-identify-them.html  /learnca/series-and-parallel-resistor-and-how-to-identify-them/
+/lca-content/delta-and-star-connection-of-resistor.html                                 /learnca/delta-and-star-connection-of-resistors-explained/
+/post/pfe-post/skills-every-engineering-student-needs-to-learn.html                     /misce-post/skills-every-engineering-student-needs-to-learn/
