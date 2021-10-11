@@ -38,5 +38,88 @@ status = 200
 [build.environment]
     TZ = "Africa/Lagos"
 
+[[redirects]]
+    from = "http://tooabstractive.netlify.app/*"
+    to = "https://www.tooabstractive.com/:splat 301!"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "https://tooabstractive.netlify.app/*"
+    to = "https://www.tooabstractive.com/:splat 301!"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/more-resource/how-to-solve-equation-using-calculator.html"
+    to = "/funmaths/how-to-solve-equation-using-calculator/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/more-resource/cramers-rule.html"
+    to = "/funmaths/what-is-crammers-rule/"
+    status = 301
+    force = true
+                                                       
+
+[[redirects]]
+    from = "/post/lca-post/how-to-learn-circuit-analysis-basic.html "
+    to = "/lca-post/how-to-learn-circuit-analysis-basics/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/post/em-post/learn-electromagnetics-theory-from-scratch-using-this-resources.html"
+    to = "/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/lca-content/what-is-voltage-current-resistance.html"
+    to = "/learnca/what-is-voltage-current-and-resistance/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/lca-content/electronic-circuit-components.html"
+    to = "/learnca/electronics-circuit-components-explained/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/lca-content/what-is-ohms-law.html"
+    to = "/learnca/what-is-ohms-law/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/lca-content/series-and-parallel-combination-of-resistor-and-how-to-identify-them.html"
+    to = "/learnca/series-and-parallel-resistor-and-how-to-identify-them/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/lca-content/delta-and-star-connection-of-resistor.html"
+    to = "/learnca/delta-and-star-connection-of-resistors-explained/"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "/post/pfe-post/skills-every-engineering-student-needs-to-learn.html"
+    to = "/misce-post/skills-every-engineering-student-needs-to-learn/"
+    status = 301
+    force = true
+
+                                              
+                                                                       
+                                   
+                    
+
+                                                 
+
+                                
 
 
+                                                   
+                                                  
