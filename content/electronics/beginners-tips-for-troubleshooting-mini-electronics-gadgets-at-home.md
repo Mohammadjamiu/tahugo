@@ -1,17 +1,19 @@
 ---
 title: "Beginners Tips for Troubleshooting Mini Electronics Gadgets at Home"
 postdate: October 12, 2021
-image: ""
-description: ""
+image: "/images/electronicrepair.jpg"
+description: "Whenever you find out that your calculator is not working or it is malfunctioning, here are the few things you need to try"
 alt: ""
 weight: "6"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
-draft: true
-wordcount: true
+draft: false
+wordcount: false
 ---
+
+<img src="/images/electronicrepair.jpg" style="width: 55%" alt="credit to unsplash">
 
 Are you a nerd or electronics hobbyist that have some mini electronics gadget laying around. why not jump start and repair few of them using some of the tips I have found useful while troubleshooting or repairing my own gadgets.
 
