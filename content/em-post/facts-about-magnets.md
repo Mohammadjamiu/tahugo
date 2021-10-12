@@ -13,7 +13,7 @@ draft: false
 wordcount: false
 ---
 
-As human, we have once even by accident, played or saw a magnet and the only basic thing we know about it is that it attracts metal which is true but still there are more to magnets and what we can do with it.
+As human, we have once even by accident, played or saw a magnet and the only basic thing we know about it is that it attracts metal which is true but still, there are more to magnets and what we can do with it.
 
 So in this post we would be discussing few important facts that you need to know about a magnet.
 
@@ -31,7 +31,7 @@ Another definition of a magnet is that; it is a piece of material or an object t
 
 <img src="/images/repelandattract_2.jpg" alt="repulsion and attraction of magnets">
 
-3. The space between many magnets or around a magnet is referred to as a field. And since the field is caused by a magnet, it is called a {{< ste >}}magnetic field{{</ ste >}}.
+3. The space between two magnets or around a magnet is referred to as a field. And since the field is caused by a magnet, it is called a {{< ste >}}magnetic field{{</ ste >}}.
 
    And whatever passes through the field, if it is conductive, will experience some force trying to push it forward or backward.
 
