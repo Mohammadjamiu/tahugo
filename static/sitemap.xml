@@ -95,10 +95,6 @@
   </url>
   
   <url>
-    <loc>https://www.tooabstractive.com/learnca/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.tooabstractive.com/categories/maths-and-fun/</loc>
   </url>
   
@@ -108,6 +104,10 @@
   
   <url>
     <loc>https://www.tooabstractive.com/categories/productivity-and-guides/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.tooabstractive.com/em-post/the-easiest-way-to-study-electromagnetics/</loc>
   </url>
   
 </urlset>

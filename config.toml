@@ -14,10 +14,7 @@ paginate = 5
   author = "Mohammad Abdul"
   og_image = "/images/tabluelogopng.png"
  
-[taxonomies]
-    tag = ""
-    category = "categories"
-    
+
 [build.environment]
     TZ = "Africa/Lagos"
   
