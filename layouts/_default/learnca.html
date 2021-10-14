@@ -13,36 +13,35 @@
         <div class="posts">
       
     
-        {{range where .Pages.ByWeight "Layout" "eq" "learnca"  }} 
-       
-       
       
-        <a href="{{ .RelPermalink }}" class="post post-1">
-            <img class="lca-image" src="{{ .Params.image }}" alt="{{.Params.alt}}" />
-            <div class="box-index">{{.Params.Weight}}</div>
-            <h3>
-              {{.Title}}
-            </h3>
-          
-            <div class="post-1-more">
-              <svg xmlns="http://www.w3.org/2000/svg" width="13" height="15" viewBox="0 0 13 15">
-                <path id="Polygon_2" data-name="Polygon 2" d="M7.5,0,15,13H0Z" transform="translate(13) rotate(90)"
-                  fill="#2d79e4" />
-              </svg>
-            </div>
-          </a>
+          {{$pag :=  where $.Site.RegularPages.ByWeight "Layout" "eq" "learnca"  }} 
+  {{ range (.Paginate $pag).Pages }}
 
-
-         
+  <a href="{{ .RelPermalink }}" class="post post-1">
+    <img class="lca-image" src="{{ .Params.image }}" alt="{{.Params.alt}}" />
+    <div class="box-index">{{.Params.Weight}}</div>
+    <h3>
+      {{.Title}}
+    </h3>
+  
+    <div class="post-1-more">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="15" viewBox="0 0 13 15">
+        <path id="Polygon_2" data-name="Polygon 2" d="M7.5,0,15,13H0Z" transform="translate(13) rotate(90)"
+          fill="#2d79e4" />
+      </svg>
+    </div>
+  </a>
     
           {{end}}
     
+         
+          
            
-      
     </div>
     </div>
+    {{partial "pagination.html" . }}  
     </div> 
+ 
     </section>
  
 {{end}}
-

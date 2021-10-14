@@ -36,9 +36,11 @@
     <div class="posts">
     
   
-      {{range where .Site.RegularPages.ByWeight.Reverse ".Type" "eq" "posts" }} 
-
      
+
+
+      {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "posts"  }} 
+  {{ range (.Paginate $pag).Pages }}
      
     
       <a href="{{ .RelPermalink }}" class="post post-1">
@@ -55,11 +57,12 @@
           </div>
         </a>
   
-        {{end}}
-  
-         
+  {{end}}
+        
     
   </div>
+ <br>
+ {{partial "pagination.html" . }}
   </div>
 
        
@@ -104,13 +107,6 @@
 </div>
      
 </section>
-
-
-
-
-
-
-
 
 
 {{end}}
