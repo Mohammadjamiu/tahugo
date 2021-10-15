@@ -11,6 +11,7 @@ categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
 draft: false
+wordcount: false
 ---
 
 <div class="content-summary">
@@ -21,8 +22,11 @@ draft: false
 </li>
 <li>
     A resistor in series allows the <span class="text-emphasis">same current</span> to flow through
-    them but <span class="text-emphasis">different voltage</span> will be
-    dropped across them if their resistance value is different.
+    them.
+</li>
+<li>
+    But <span class="text-emphasis">different voltage</span> will be
+    dropped across them if their resistance value is different and also if the resistors are of the same value then <span class="text-emphasis">same voltage</span> will be dropped across them.
 </li>
 <li>
     Resistors in <span class="text-emphasis">parallel</span> are connected head to head and tail to
@@ -30,6 +34,9 @@ draft: false
     <li>
         A resistor in parallel have <span class="text-emphasis">same voltage</span> but <span class="text-emphasis">different current</span> will be
         flowing through each resistor depending on their resistance value.
+    </li>
+    <li>
+   When two or more resistors are put in parallel, the total resistance value is reduce as oppose to if resistors are connected in series which yields an increase in a total resistance value.
     </li>
 </ul>
 </div>
@@ -42,7 +49,7 @@ is 9v then, we need a resistor to reduce the current as well as cause a voltage 
 resistor so that the value of voltage at the output leg of the resistor will be 3v exactly or
 approximately.
 </p>
-<img src="/images/voltagetodrop.jpg" alt="">
+<img src="/images/voltagetodrop.jpg" alt="how to cause voltage drop">
 <p>
 The way to find the resistance value of the resistor is by using the formula shown above.
 </p>
@@ -54,7 +61,7 @@ gives us
 then R
 will be 120&#8486.
 </p>
-<img src="/images/120ohmsadd.jpg" alt="">
+<img src="/images/120ohmsadd.jpg" alt="adding 120ohms">
 
 <p>
 Now there is a problem still since if we go to the market to buy a resistor with a resistance value
@@ -67,7 +74,7 @@ which means we need to add these resistors up to get a total of 120&#8486.
 To do that is by joining them together <span class="text-emphasis">tail to head</span> (which we
 call <span class="text-emphasis">series connection</span>). As shown below
 </p>
-<img src="/images/seriesresistoradd.jpg" alt="">
+<img src="/images/seriesresistoradd.jpg" alt="examples on how to calculate resistor in series">
 <p>
 Which means if resistors are joined together in series then the equivalent or total resistance value
 of the
@@ -80,7 +87,7 @@ which current will be reduced.
 A resistor in series allows the same current to flow through them but different voltage will be
 dropped across them if their resistance value is different.
 </p>
-<img src="/images/seriestips.jpg" alt="">
+<img src="/images/seriestips.jpg" alt="how to identify if resistos are connected in series">
 <h2>Resistors in parallel</h2>
 <p>
 As resistors are added up by joining them in series, the parallel is a little bit different since we
@@ -92,17 +99,15 @@ but for now let’s focus on resistors connected in parallel. </p>
 <p>
 Here’s how resistors are connected in parallel as oppose to series
 </p>
-<img src="/images/parallelresistor.jpg" alt="">
+<img src="/images/parallelresistor.jpg" alt="how to identify if resistos are connected in parallel">
 <p>
 Resistors in parallel has two formulas which are shown below. </p>
 
-<img src="/images/parallelformula.jpg" alt="">
+<img src="/images/parallelformula.jpg" alt="the formula for resistors in parallel">
 <h2>Two (2) resistors in parallel</h2>
-<p>
-Let’s do an example using two 10&#8486 resistor Ex.1: (R<sub>1</sub> = 10&#8486 and R<sub>2</sub> =
-10&#8486)
-</p>
-<img src="/images/rinpexample.jpg" alt="">
+<p>Let’s do an example using two 10&#8486 resistor Ex.1: (R<sub>1</sub> = 10&#8486 and R<sub>2</sub> =
+10&#8486)</p>
+<img src="/images/rinpexample.jpg" alt="examples on how to calculate resistor in parallel">
 <p>
 As you can see there is something fascinating that has just happened which means if we are looking
 for
@@ -129,8 +134,17 @@ try this and see answer below.
 </p>
 
 <button class="see-answer">See answer &darr;</button>
-<img class="hide-show-image" src="/images/rinpex2.jpg" alt="">
+<img class="hide-show-image" src="/images/rinpex2.jpg" alt="solution to parallel reistors">
 
+<h2>What happens when resistors are connected in parallel</h2>
+<br>
+<blockquote class="blockquote">
+<p class="little-nugget">Note</p>
+<p class="quote-text">
+In esssence, when two or more resistors are put in parallel, the total resistances value is reduce as oppose to if resistors are connected in series which yields an increase in a total resistance value. </p>
+
+</blockquote>
+<br>
 <h2>3 resistors in parallel </h2>
 <p>
 We use the second formula which looks a little bit boring but there is still a way to cheat (not
@@ -143,24 +157,20 @@ resistors in the case of solving 3 or more resistors instead of using the 1/R<su
 But let’s solve some example using this boring formula first
 </p>
 
-<p>
-Ex.3 if R<sub>1</sub>=2&#8486, R<sub>2</sub>=2&#8486, and R<sub>3</sub> =2&#8486
-</p>
-<img src="/images/3rinp.jpg" alt="">
+<p>Ex.3 if R<sub>1</sub>=2&#8486, R<sub>2</sub>=2&#8486, and R<sub>3</sub> =2&#8486</p>
+<img src="/images/3rinp.jpg" alt="using resistors in parallel formula to solve an example">
 <p>Now let’s use our product/sum formula but remember, it works for two resistors in parallel only
 so therefore, we are to split the 3 resistors in parallel into two and one resistors. </p>
 <p>If we solve for the two first, we will get an equivalent resistance value and then we are to join it
 with the last one we left earlier and apply same formula again.
 
 </p>
-<img src="/images/3rinptestwithpoversum.jpg" alt="">
+<img src="/images/3rinptestwithpoversum.jpg" alt="how to use the the formula for two resistors in parallel to solve for three resisitors in parallel">
 <p>
 As you can see for the first two, we got a total resistance value of 1&#8486
-
-after then, we are to join this equivalent resistance value that we just got with the other 2&#8486
-we left before so we are going to have a new total resistance value of 2/3&#8486.
-
 </p>
+<p>after then, we are to join this equivalent resistance value that we just got with the other 2&#8486
+we left before so we are going to have a new total resistance value of 2/3&#8486.</p>
 <blockquote class="blockquote">
 <p class="little-nugget">tip</p>
 <p class="quote-text">
@@ -172,4 +182,4 @@ we left before so we are going to have a new total resistance value of 2/3&#8486
 <p>Here are more examples you can try both on resistors in series and in parallel. Before moving to star
 and delta transformation.</p>
 
-<img src="/images/extopractice.jpg" alt="">
+<img src="/images/extopractice.jpg" alt="example to try">

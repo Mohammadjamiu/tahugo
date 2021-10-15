@@ -9,5 +9,6 @@ author: {{ .Site.Params.author }}
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
+wordcount: false
 draft: false
 ---

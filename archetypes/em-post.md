@@ -9,5 +9,6 @@ type: em-post
 author: {{ .Site.Params.author }}
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"
+wordcount: false
 draft: false
 ---

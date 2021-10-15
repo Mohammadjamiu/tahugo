@@ -9,5 +9,6 @@ author: {{ .Site.Params.author }}
 categorylink: /categories/maths-and-fun
 categories: ["Maths and Fun"]
 type: posts
+wordcount: false
 draft: false
 ---

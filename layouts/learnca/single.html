@@ -8,9 +8,11 @@
       {{ $readingTime := print $readingTime "mins" | safeHTML }}
     
       <p class="description-lca">
-        <!--! Date is August 20 2021 -->
+        {{ if .Params.WordCount}}
+        {{.WordCount}}
+       {{end}}
        By {{ .Params.author }} | {{ .Params.PostDate }} | 
-        <a class="on-what-topic-lca" href="{{.Params.Categorylink}}">{{ index .Params.Categories 0 }}</a> | Estimated Reading Time - {{ $readingTime }}
+        <a class="on-what-topic-lca" href="{{.Params.Categorylink}}">{{if isset .Params "categories" }}{{ delimit .Params.Categories " " }}{{end}}</a> | Estimated Reading Time - {{ $readingTime }}
          
       </p>
     </div>
@@ -22,8 +24,9 @@
 {{ .Content }}
 <a data-az-l="ed7eb2d8-ae9b-4f3c-a934-a97ebd6954fb" class="feedback-distinguish">Leave us with a
   feedback if any
-  - on how this article helps or share your own thought.</a>
+  - on how this article helps or tell us your own thought.</a>
  
+  {{partial "socialshare.html" . }}
 <div>
 
   <div class="lca-navigation">

@@ -9,5 +9,6 @@ author: {{ .Site.Params.author }}
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+wordcount: false
 draft: false
 ---
