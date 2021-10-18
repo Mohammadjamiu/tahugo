@@ -81,12 +81,12 @@ So just write things down because the truth is that the good works you will end 
 
 When writing or just starting out on writing, don’t indulge yourself on tools or apps that might not really impact your writing craft.
 
-So staring with the basic tools which is paper and pen is pretty much good enough.
+So starting with the basic tools which is a paper and pen is pretty much good enough.
 
 But as time passes by, you might invest in using some simple apps like
 
 1. Microsoft word or notepad to type and
-2. <a class="links-to-others" href="https://www.jdoqocy.com/click-100490785-14474074" target="_blank">Grammarly </a> to check for errors in your writing.
+2. <a class="links-to-others" href="https://www.kqzyfj.com/click-100490785-10952827" target="_blank">Grammarly </a> to check for errors in your writing.
 
 ## Learn to type fast
 
