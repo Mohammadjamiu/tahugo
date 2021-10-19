@@ -14,6 +14,12 @@ paginate = 3
   author = "Mohammad Abdul"
   og_image = "/images/tabluelogopng.png"
  
+[params.social.share]
+    facebook = true
+    pinterest = true
+    twitter = true
+    whatsapp = true
+    email = true
 
 [build.environment]
     TZ = "Africa/Lagos"
