@@ -9,7 +9,8 @@ author: Mohammad Abdul
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
-socialshare: false
+socialshare: true
+customads_grammarly: true
 wordcount: false
 draft: false
 ---
