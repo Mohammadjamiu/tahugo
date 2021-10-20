@@ -121,6 +121,10 @@ Because according to Richard Feynman,
 </blockquote>
 <br>
 
+## Study with groups
+
+Studying in groups with intelligent minded people is effective. Because there are alot of things you might learn from them which if you are to do it alone can be difficult.
+
 ## Know yourself
 
 To close up the discussion, you need to really understand who you are because, you might be a person that loves to study early in the morning, after lunch or even late at night.

@@ -1,5 +1,5 @@
 ---
-title: "Important facts you need to know about magnets and magnetic fields"
+title: "10 Important facts you need to know about magnets and magnetic fields"
 postdate: October 11, 2021
 image: "/images/scrubandfiremagnet_4.jpg"
 description: "If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets. You can kill a magnet and stop it from magnetizing material by burning it with fire."
@@ -19,13 +19,19 @@ So in this post we would be discussing few important facts that you need to know
 
 ## What is a magnet?
 
-Basically, a magnet is defined as a piece of material that has the ability to attract itself to other conductive materials like metals.
+Basically, a magnet is defined as a piece of material that has the ability to attract itself to other conductive materials like metals (iron, cobalt, e.t.c).
 
-Another definition of a magnet is that; it is a piece of material or an object that has the ability of producing magnetic field.
+<blockquote class="blockquote">
+<p class="little-nugget">More</p>
+<p class="quote-text">
+Another definition of a magnet is that; it is a piece of material or an object that has the ability of producing magnetic field.</p>
+</blockquote>
+
+<br>
 
 ## Things you need to know about magnets
 
-1. Magnets are polarized meaning, it has north and south poles.
+1. Magnets are polarized meaning, it has 2 poles the, north (N) and south (S) poles.
 
 2. If two pieces of magnets with the same pole are pulled together, they repel each other but if they are of different poles, they tend to attract each other.
 
@@ -37,19 +43,25 @@ Another definition of a magnet is that; it is a piece of material or an object t
 
 4. The phenomenon of electricity and electromagnetism still and always hold a realm in magnetism.
 
-5. If you allow a magnet to cut across a conductor, current will flow through the conductor --- concept of electromagnetism.
+5. The earth itself is a giant magnet. It has a north and south pole also.
+
+6. Due to the fact that the earth is a giant magnet, when a magnet is freely suspended, it will try to align itself to the earth in opposite direction.
+
+   I.e. if the position of the earth's magnet is north to south, then the freely suspended magnet with turn itself in south to north since opposite poles attract each other.
+
+7. If you allow a magnet to cut across a conductor, current will flow through the conductor --- concept of electromagnetism.
 
  <img src="/images/cutacross_2.jpg" alt="conductor cutting across magnet">
 
-6. If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets.
+8. If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets.
 
  <img src="/images/monopolemagnet_2.jpg" alt="no monopole magnet">
 
-7. If you have a screw driver and it is not capable of picking up screws, you can magnetize the screw driver by scrubbing it on a magnet.
+9. If you have a screw driver and it is not capable of picking up screws, you can magnetize the screw driver by scrubbing it on a magnet.
 
  <img src="/images/scrubandfiremagnet_4.jpg" alt="scrubbing a screw driver on a magnet">
 
-8. You can kill a magnet and stop it from magnetizing material by burning it with fire.
+10. You can kill a magnet and stop it from magnetizing material by burning it with fire.
 
  <img src="/images/scrubandfiremagnet_3.jpg" alt=" burning a magnet kil it forever">
 
