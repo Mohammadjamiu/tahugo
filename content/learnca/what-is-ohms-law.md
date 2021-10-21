@@ -5,7 +5,7 @@ image: "/images/ohmvariation_2.jpg"
 description: "The ohms law is the fundamental law that relates voltage, current and resistance by using simple mathematical
 expressions which says V = IR. And it is the law that most other techniques like kirchoff's law is based on"
 alt: ""
-weight: "3"
+weight: "4"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis

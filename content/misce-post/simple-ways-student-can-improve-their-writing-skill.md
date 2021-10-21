@@ -103,7 +103,7 @@ Here are some resources to help you learn how to type fast
 
 While writing, you might be tempted to use really big grammars to impress people but the reality is {{< ste >}}no one cares{{</ ste >}}, just go with simple words that can really have value on people that are not educated as you are and those that are educated than you’re because the goal is to impact as much as you can.
 
-This is one of the important things that is recommended when students are an writing essay.
+This is one of the most important thing that is recommended when students are <a class="links-to-article" href="/misce-post/simple-essay-writing-tips-for-student/">writing an essay</a>.
 
 ## Don’t edit or make corrections while writing
 
@@ -121,12 +121,12 @@ But there is one thing to do and it is to use apps which at least can help you d
 
 This also quite relates to what we have been discussing earlier but instead of you reading books or publications, you listen to them and here are few benefit you can get out of it.
 
-1. You learn more and new words .
+1. You learn more and also learn new words.
 2. You learn to speak better and get transformed.
 
 You can navigate through YouTube or Google and search for podcast of your choice.
 
-Here are some ways you can improve your writing skill though there are more but still we hope you benefit from this.
+Here are some ways you can improve your writing skill though, there are more but still we hope you benefit from this.
 
 <!-- • Add read more inside post linking to how to write better essay
 Learn to always make a draft -->

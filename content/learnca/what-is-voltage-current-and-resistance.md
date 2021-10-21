@@ -1,13 +1,13 @@
 ---
 title: "What Is Voltage, Current and Resistance In Simple Terms?"
 postdate: October 07, 2021
-image: "/images/closelool-openloop_1.jpg"
+image: "/images/current-denote_1.jpg"
 description: "Every wire or conductor is composed of atoms which consist of many protons, electrons and neutrons. These electrons are stationary and in order to make them move we apply a battery which provides force
 called voltage to push the
 electrons inside the wire and as soon as electron flows or moves, we
 get current."
 alt: ""
-weight: "1"
+weight: "2"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis

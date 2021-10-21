@@ -6,7 +6,7 @@ enableEmoji = true
 enableRobotsTXT = true
 canonifyURLs = true
 
-paginate = 3
+paginate = 4
 ################################# Default parameters ##########################
 
 

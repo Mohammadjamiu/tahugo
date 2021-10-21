@@ -4,7 +4,7 @@ postdate: October 07, 2021
 image: "/images/deltastarillustration.jpg"
 description: "The star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series."
 alt: ""
-weight: "5"
+weight: "6"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis

@@ -4,7 +4,7 @@ postdate: October 07, 2021
 image: "/images/ledy_2.jpg"
 description: "A battery is considered as one of the source of voltage. which is used to power our devices or push electron through a conductor..."
 alt: ""
-weight: "2"
+weight: "3"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis

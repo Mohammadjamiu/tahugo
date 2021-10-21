@@ -56,11 +56,11 @@ So find a small place that is designated for studying which can be under a tree,
 
 ## Learn and understand concepts because engineering is full of abstractions
 
-Each and every courses or subjects you will study in engineering is either going to somehow relate to each or is completely not even related.
+Each and every courses or subjects you will study in engineering is either going to somehow relate to each other or is completely not even related.
 
 The case here is that no matter how small the course is; it will have some difficulty in it.
 
-Course like engineering electromagnetics (or electromagnetic field) is dealing with wave.
+Course like engineering electromagnetics (or electromagnetic field) is dealing with waves.
 
 Which in reality cannot be seen but can only be understood if we understand the fundamentals and the fundamentals can relate back to magnets that we play with or the wave of water in the ocean.
 
@@ -78,7 +78,7 @@ The way you can approach understanding concepts includes -
 
 ## Start to Study as early as possible
 
-Studying early do not only help you learn concepts about stuff but also give you the serenity of the heart since you now know what and what you really don’t understand so later run you can find an answer to that.
+Studying early do not only help you learn concepts about stuff but also give you the serenity of the heart since you now know what and what you really don’t understand so later on you can find an answer to that.
 
 But studying close to the exams is just you trying to stress out your brain and most time you might not be able to cope with it.
 
