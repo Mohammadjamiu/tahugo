@@ -2,7 +2,7 @@
 title: "How to study smart in engineering and have better grades without over stressing."
 postdate: October 15, 2021
 image: "/images/how-to-study-smart.jpg"
-description: "Over the years of been an engineering student, I have met some good medical and engineering students. And I have learned from them some tactics and strategies that help them study better and have good grades without over stressing."
+description: "Here are some tactics and strategies that helped some engineering study better and have good grades without over stressing."
 alt: ""
 weight: "8"
 author: Mohammad Abdul

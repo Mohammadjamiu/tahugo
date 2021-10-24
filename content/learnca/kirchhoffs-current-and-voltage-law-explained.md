@@ -1,0 +1,170 @@
+---
+title: "Kirchhoff’s current and voltage law explained with steps to solving any circuit problems easily
+"
+postdate: October 22, 2021
+image: "/images/kclnode.jpg"
+description: "Kirchhoff's law is an optimized ohm's law which has two laws within it. The kirchhoff's current law (KCL) which deals with node or junction-point and the kirchhoff's voltage law (KVL) which deals with branches."
+alt: ""
+weight: "7"
+author: Mohammad Abdul
+categories: ["Circuit analysis"]
+categorylink: /categories/circuit-analysis
+layout: learnca
+wordcount: false
+draft: false
+---
+
+Before diving into what the Kirchhoff’s law is, can you solve this circuit using ohm's law to find all the currents flowing in each branch of the circuit.
+
+<img src="/images/kcanusolve.jpg" alt="kirchhoff's law example problem">
+
+I probably know it will be frustrating to solve this circuit using ohm's law because there are more than one connection of resistors and also more than one loop which means ohm's law won’t be a perfect technique to use
+
+Rather, we need an optimized technique which still is based on ohm's law (as ohm's law is the base that relates voltage, current and resistance) but it is a little bit easier to work with.
+
+This optimized technique is called {{< ste >}}Kirchhoff’s law{{</ ste >}}.
+
+Kirchhoff's law has two laws within it which are Kirchhoff’s current law or KCL and Kirchhoff’s voltage law or KVL.
+
+## What is Kirchhoff’s current law or KCL
+
+Kirchhoff’s current law is applied at nodes or junction point.
+
+<blockquote class="blockquote">
+<p class="little-nugget">Terminology</p>
+<p class="quote-text">
+{{< ste >}}Node{{</ ste >}} - A node is a junction where two or more network elements are connected together. </p>
+</blockquote>
+
+<img src="/images/kclnode.jpg" alt="kirchhoff's current law kcL node">
+
+And the law states that the algebraic sum of currents at a node is equal to zero.
+
+In other words, the total amount of current entering a node is equal to the total amount of current leaving the node.
+
+<img src="/images/kcljunction.jpg" alt="kcl junction rule">
+
+And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown below, we get zero as the equivalent result.
+
+## What is Kirchhoff’s voltage law or KVL
+
+Kirchhoff’s voltage law is applied around a closed loop or it deals with branches.
+
+<blockquote class="blockquote">
+<p class="little-nugget">Terminology</p>
+<p class="quote-text">
+{{< ste >}}Branch{{</ ste >}} - An element or number of elements connected between two nodes constitute a branch.
+<br>
+{{< ste >}}Loop{{</ ste >}} -  A loop is any closed part of the circuit.</p>
+</blockquote>
+
+<img src="/images/loopandbranch.jpg" alt="kirchhoff's voltage law">
+
+The law states that the algebraic sum of all the voltages in any closed circuit is zero.
+
+And in other words, if we start to move round any closed path or loop, the total sum of all the voltages across each element in the circuit is zero.
+
+<img src="/images/kvlloop.jpg" alt="KVL loop rule">
+
+<img src="/images/kvlloopeqn.jpg" alt="KVL loop equation">
+
+## How to solve circuit problems using kirchhoff's law
+
+Let’s solve some example to see how this laws are implemented.
+
+{{< ste >}}Example 1.{{</ ste >}}
+<br>
+
+<img src="/images/kexone.jpg" alt="kirchhoff's example problem with one loop">
+
+<p>The question asks us to use Kirchhoff’s law to find the current flowing in the loop as well as the voltage drops across each resistor, 1&#8486, 3&#8486 and 2&#8486.</p>
+
+Here are the simple steps to help solve this circuit problem and even other circuit problems.
+
+{{< ste >}}Step 1.{{</ ste>}}
+<br>
+
+Check how many loop is present. Because this is one of the mistakes students make while solving circuit problems using Kirchhoff’s law.
+
+After finding how many loop is present then, the current you are to find will be based on the number of the loops.
+
+<img src="/images/kexloopone.jpg" alt=" how many loop">
+
+i.e. if there is one loop as in the case of our circuit problem, we just need to define one current. Which means if there are more loops let say two loops, then we need to define two currents.
+
+{{< ste >}}Step 2.{{</ ste >}}
+<br>
+
+We need to distribute the currents using KCL principle but since this example consist of only one loop then we need only one current and we define it to be I or I<sub>1</sub>.
+
+The reason why there is only one loop is that the resistors are connected in series and as you know for <a href="/learnca/series-and-parallel-resistor-and-how-to-identify-them/" class="links-to-article">series connected resistor</a>, the same current flow through them.
+
+{{< ste >}}Step 3.{{</ ste >}}
+<br>
+
+Distribute sign of voltage across the resistors.
+If you don’t know how, I will guide you through but still I recommend you to read on the article <a href="/learnca/what-is-ohms-law/" class="links-to-article">ohm's law</a>.
+
+<p>To distribute the voltage-sign across, we need to follow the direction of current in the circuit. since current is flowing from the positive side of the battery, it first sees the resistor R<sub>1&#8486</sub> and mark it input as positive, and after flowing through the resistor R<sub>1&#8486</sub> it marked negative at the outside or other end since energy is reduced or is consumed by R<sub>1&#8486</sub>.</p>
+
+<img src="/images/signexone.jpg" alt="kirchhoff sign distribution">
+
+<p>The next resistor R<sub>3&#8486</sub> sees a current coming out of R<sub>1&#8486</sub> but since this is the first time R<sub>3&#8486</sub> will be seeing the current, it marked its input as positive and as it flows through the R<sub>3&#8486</sub>, energy is reduced again and the end part is marked as negative and the same goes for the last resistor R<sub>2&#8486</sub>.</p>
+
+<blockquote class="blockquote">
+<p class="little-nugget">Note</p>
+<p class="quote-text">
+If there are more resistors, the same pattern go for each.
+ </p>
+</blockquote>
+
+<br>
+
+{{< ste >}} Step 4{{</ ste >}}
+<br>
+We need to start writing loop equation using {{< ste >}} V = IR {{</ ste >}} and then summing things up according to KVL.
+
+<blockquote class="blockquote">
+<p class="little-nugget">Note</p>
+<p class="quote-text">
+Looping is done in clockwise direction but still can be done in anti-clockwise.
+</p>
+</blockquote> 
+<br>
+<blockquote class="blockquote">
+<p class="little-nugget">Note</p>
+<p class="quote-text">
+When looping through, whatever sign you encounter first is what write down to make things easier.
+ </p>
+</blockquote> 
+<br>
+
+The loop equation is shown below and it consist of all the voltages in the loop including the energy source or battery since it is supplying the circuit energy.
+
+<img src="/images/exomeloopeqn.jpg" alt="">
+
+<p>-12 + V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> = 0</p>
+
+Now we need to move -12 to the other side to make it positive.
+
+<p>V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> = 12 …. (1)</p>
+
+Since V = IR but, we only know what the resistance are and the current which we are looking for is the unknown.
+
+<img src="/images/solnexone.jpg" alt="">
+
+<p>So, I x (1&#8486) + I x (3&#8486) + I x (2&#8486) = 12 …. (2) or rewritten as 1I + 3I + 2I.</p>
+
+By applying basic algebra to adding 1I + 3I + 2I you will get 6I.
+
+Therefore, 6I = 12; dividing both side by 6 to find I, I = 12/6 = 2A.
+
+Meaning two amps of current is flowing through the circuit where by
+
+<p>V<sub>1&#8486</sub> = IR = (2)(1) = 2V</p>
+
+<p>V<sub>3&#8486</sub> = IR = (2)(3) = 6V</p>
+
+<p>V<sub>2&#8486</sub> = IR = (2)(2) = 4V</p>
+
+<p>Adding V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> you will get 2 + 6 + 4 = 12V same as the voltage of the battery.</p>

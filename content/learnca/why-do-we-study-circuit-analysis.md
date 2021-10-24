@@ -23,7 +23,7 @@ First let’s look at what circuit analysis mean.
 
 If you are an electronics or electrical engineering student or even a hobbyist, studying circuit analysis is essential because before you can design your own electronics gadgets or robots, you need to learn the fundamentals behind circuits.
 
-And most concepts you will need to learn is currents, voltage, resistance, how electronic components are join together so they work, what will the response be if an energy source is applied to a circuit, electricity, electronic components and much more.
+And most concepts you will need to learn is current, voltage, resistance, how electronic components are join together so they work, what will the response be if an energy source is applied to a circuit, electricity, electronic components and much more.
 
 Another thing fascinating about studying how to analyze circuits is that, circuit analysis is much more related to electromagnetics and these two separate courses are the base or fundamentals for all other branches in electrical engineering.
 
