@@ -44,7 +44,7 @@ In other words, the total amount of current entering a node is equal to the tota
 
 <img src="/images/kcljunction.jpg" alt="kcl junction rule">
 
-And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown below, we get zero as the equivalent result.
+And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown above, we get zero as the equivalent result.
 
 ## What is Kirchhoff’s voltage law or KVL
 
@@ -127,14 +127,14 @@ We need to start writing loop equation using {{< ste >}} V = IR {{</ ste >}} and
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
 <p class="quote-text">
-Looping is done in clockwise direction but still can be done in anti-clockwise.
+Looping is done in clockwise direction but still can be done in anti-clockwise but just stick to one.
 </p>
 </blockquote> 
 <br>
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
 <p class="quote-text">
-When looping through, whatever sign you encounter first is what write down to make things easier.
+When looping through, whatever sign you encounter first is what write you down to make things easier.
  </p>
 </blockquote> 
 <br>
