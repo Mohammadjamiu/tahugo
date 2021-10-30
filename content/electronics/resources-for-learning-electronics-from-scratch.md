@@ -13,7 +13,7 @@ wordcount: false
 draft: false
 ---
 
-<img src="/images/learnelectronics.jpg" alt="">
+<img src="/images/learnelectronics.jpg" alt="how to learn electronics from scratch or on your own">
 
 Learning electronics can be fun sometimes but for other times can be really frustrating.
 So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets.
@@ -39,7 +39,7 @@ Beside that also, it has some mini projects that you can try to build and in doi
 <br>
 This channel is similar to that of GreatScott! but can be really helpful for even student because he touches electronics on the basis of design and the academic standard up to the advance level.
 <br>
-He also has a website <a class="links-to-others" href="https://afrotechmods.com">Afrotechmods.com</a>
+He also has a website <a class="links-to-others" href="https://afrotechmods.com" target="_blank">Afrotechmods.com</a>
 </li>
 
 <li>
@@ -52,14 +52,13 @@ Because for me transistors seems kind of complex before but now has become more 
 </li>
 
 <li>
-<a class="links-to-others" href="https://www.youtube.com/c/MAKE/search?query=collins">Collins Lab </a>
+<a class="links-to-others" href="https://www.youtube.com/c/MAKE/search?query=collins">Makezine</a>
 <br>
-is a series or playlist in the Make YouTube channels in which he deals with some electronics stuff in a better and fun way.
+Makezine is a youtube channel with lots of electronic resource and part of the series or playlist I love is that of <a class="links-to-others" href="https://www.youtube.com/watch?v=Kv7Y8nAOoFE">Collins Lab</a> in which collins deals with some electronic stuff in a better and fun way.
 </li>
 
 <li>
-<a class="links-to-others" href="https://youtube.com/playlist?list=PLr_CZLgMkHeWFI1uf5yR2ouhlh00ycHn9
-">ElectroBOOM </a>
+<a class="links-to-others" href="https://www.youtube.com/c/Electroboom/featured">ElectroBOOM </a>
 <br>
 If you love to learn electronics in a funny way, this channel electroboom got you because he does some mistakes intentionally which seems to be dangerous but that way he his teaching you not to make such mistakes too.
 </li>
@@ -146,13 +145,13 @@ For more fun projects on Arduino, this book is great. And it is one of the books
 <li>
 <a class="links-to-others" href="https://amzn.to/3BrS4NL">Arduino + Android Projects for the Evil Genius: Control Arduino with Your Smartphone or Tablet </a>
 <br>
-
+Another good book on arduino that might also be useful.
 </li>
 
 <li>
 <a class="links-to-others" href="https://amzn.to/3bk3YOW">Hacking Electronics: Learning Electronics with Arduino and Raspberry Pi </a>
 <br>
-is yet another good book on Arduino and Raspberry Pi
+is yet another good book on Arduino and Raspberry Pi by the author of Practical Electronics for Inventors.
 </li>
 
 </ul>

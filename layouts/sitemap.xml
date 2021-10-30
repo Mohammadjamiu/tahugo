@@ -1,7 +1,7 @@
 {{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  {{ range .Data.Pages }}{{ if and (and (ne .Kind "taxonomy") (ne .Params.sitemap_ignore true)) (not (or (hasPrefix .RelPermalink "/tags") (hasPrefix .RelPermalink "/categories"))) }}
+  {{ range .Data.Pages.ByLastmod.Reverse }}{{ if and (and (ne .Kind "taxonomy") (ne .Params.sitemap_ignore true)) (not (or (hasPrefix .RelPermalink "/tags") (hasPrefix .RelPermalink "/categories"))) }}
 
   <url>
     <loc>https://www.tooabstractive.com{{ .Permalink }}</loc>{{ if not .Lastmod.IsZero }}
