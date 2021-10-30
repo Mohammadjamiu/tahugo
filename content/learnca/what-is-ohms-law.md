@@ -34,7 +34,7 @@ expressions which says V = IR.
 </p>
 
 <ul class="ul-in-post">
-<li><a class="links-to-others" href="/learnca/what-is-voltage-current-and-resistance/">Read on -
+<li><a class="links-to-article" href="/learnca/what-is-voltage-current-and-resistance/">Read on -
 Voltage, current and resistance explained in simple terms</a></li>
 </ul>
 

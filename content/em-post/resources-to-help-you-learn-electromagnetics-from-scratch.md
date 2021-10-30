@@ -152,11 +152,13 @@ comfortable and know what to learn next.
 
 <p>
 Now back to our main discussion, on quora, you can ask question related to electromagnetics, see
-already answered questions that you might not have thought about asking or learning.
-
+already answered questions that you might not have thought about asking or learning. You can also join <a href=" https://tooabstractive.quora.com" class="links-to-others">tooabstractive
+space</a> on quora
 </p>
-<p>You can also join <a href=" https://tooabstractive.quora.com" class="links-to-others">tooabstractive
-space</a> on quora</p>
+
+<p>
+<span class="text-emphasis"><a href="https://www.reddit.com/" class="links-to-others">Reddit</a></span> – is another online question and answer platform similar to quora and even has subreddits dedicated for engineering students.</p>
+
 <h2>YouTube channels </h2>
 <p>
 <span class="text-emphasis"><a href="https://www.youtube.com/channel/UCEWpbFLzoYGPfuWUMFPSaoA"
