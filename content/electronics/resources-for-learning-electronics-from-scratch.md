@@ -189,7 +189,7 @@ As I mention previously that EEVBlog has a forum which serves as a community to 
 <li>
 <a class="links-to-others" href="https://www.reddit.com/">Reddits </a>
 <br>
-Searching on reddits for som subreddits related to electrical or electronics engineering is useful because you will learn more from people projects and mistakes and even have your own projects troubleshooted.
+Searching on reddits for some subreddits related to electrical or electronics engineering is useful because you will learn more from people's project and mistake and even have your own projects troubleshooted.
 </li>
 
 <li>

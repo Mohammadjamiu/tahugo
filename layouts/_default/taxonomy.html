@@ -6,7 +6,8 @@
 <div class="container category-container">
     <h1 class="category-h1">All {{.Type}}</h1>
     <ul> {{range .Data.Pages }} 
-        <li><a href="{{ .RelPermalink }}"> {{.Title}} </a></li>
+        <li><a style="color:#1b6bdb" href="{{ .RelPermalink }}"> {{.Title}} </a></li>
+        <br>
          {{end}}
     </ul>
    
