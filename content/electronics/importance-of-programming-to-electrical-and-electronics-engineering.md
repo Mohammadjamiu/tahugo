@@ -12,6 +12,7 @@ type: posts
 wordcount: false
 draft: false
 ---
+
 <img src="/images/codes.jpg" alt="">
 
 {{< ste >}}Programming is important to electrical and electronics engineering (or EEE for short){{</ ste >}} because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding).
@@ -51,7 +52,9 @@ Probably not but the thing used here to make it understand what to do when somet
 {{< ste >}}Software design{{</ ste >}}
 <br>
 
-Many software's are needed to control devices or to make simulations of real-world problems e.g. a software like Everycircuit (a mobile app) or Multisim(for mobile and desktop) that allows you to prototype circuits and know the value of voltages across and currents through each component in the circuit even before designing the circuit which is a way to making predictions. Hence making things much faster, better, and quite efficient.
+Many software's are needed to control devices or to make simulations of real-world problems.
+
+For example, a software like <a class="links-to-others" href="https://www.everycircuit.com" target="_blank">Everycircuit</a> (a mobile app) or <a class="links-to-others" href="https://www.multisim.com" target="_blank">Multisim</a>(for mobile and desktop) that allows you to prototype circuits and know the value of voltages across and currents through each component in the circuit even before designing the circuit which is a way to making predictions. Hence making things much faster, better, and quite efficient.
 
 <img src="/images/codes.jpg" alt="">
 
@@ -62,8 +65,14 @@ This is a trending technology and it is growing rapidly because it utilizes micr
 
 <img src="/images/microarduino.jpg" alt="">
 
-To know how important IoT is, have you ever desired to control your devices or appliances at home e.g. air conditioner, or detect gas leakage while you are not even at home, if yes then IoT is the technology that can help you do that. Because as the name implies, it connects things (that are our devices) to the internet or cloud which means we can access our devices using our mobile phone.
+To know how important IoT is, have you ever desired to control your devices or appliances at home e.g. air conditioner, or detect gas leakage while you are not even at home, if yes then IoT is the technology that can help you do that.
 
-So these are some of the areas that programming surfaces in electrical and electronics engineering. And also there are a lot of other programming languages and their use cases like JavaScript which is used for making web apps or websites, Python which is used for making automation, and even more different languages.
+Because as the name implies, it connects things (that are our devices) to the internet or cloud which means we can access our devices using our mobile phone.
 
-So as an electrical and electronics engineer, it is not a must to learn the programming languages used for instructing computers or hardware devices rather you can diversify and learn another programming language like Java that can help you build applications or software which make this journey of programming in EEE endless so wake up build something great and hope for the best. Cheers tooabstracter :tada:
+So these are some of the areas that programming surfaces in electrical and electronics engineering.
+
+And also there are a lot of other programming languages and their use cases like JavaScript which is used for making web apps or websites, Python which is used for making automation, and even more different languages.
+
+So as an electrical and electronics engineer, it is not a must to learn the programming languages used for instructing computers or hardware devices.
+
+Rather, you can diversify and learn another programming language like Java that can help you build applications or software which make this journey of programming in EEE endless so wake up build something great and hope for the best.
