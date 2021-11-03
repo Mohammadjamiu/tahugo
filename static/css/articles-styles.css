@@ -13,7 +13,6 @@ section.pagebody h1 {
   font-family: "MuliBold", sans-serif;
 }
 
-
 section.pagebody h1,
 section.pagebody h2 {
   line-height: 1.35;
@@ -32,6 +31,7 @@ p.description {
   font-size: 1.24rem;
   font-family: "Muli", sans-serif;
 }
+
 p.descriptionfrontmatter {
   font-size: 1.25rem;
   font-family: "Muli", sans-serif;
@@ -46,7 +46,7 @@ a.wow-electromag-on-what-topic {
   font-weight: 400 !important;
   color: var(--primary-color);
   display: inline-block;
-font-size: 1.245rem;
+  font-size: 1.245rem;
   border-radius: 0.3rem;
 }
 
@@ -63,7 +63,9 @@ p {
   margin: 2rem 0;
   font-family: "Muli", sans-serif;
 }
-
-
-
-
+p.img-desc {
+  font-size: 1.2rem;
+  font-family: "Muli", sans-serif;
+  margin-top: -1.8rem;
+  text-align: center;
+}

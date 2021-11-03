@@ -65,7 +65,7 @@
           <h2>More For You</h2>
           
       <!-- {{ $related:=  (.Site.RegularPages.Related .) | first 4 }} -->
-      {{ $related:=  (.Site.RegularPages.Related .) | shuffle | first 4 }}
+      {{ $related:=  (.Site.RegularPages.Related .) | shuffle | first 5 }}
      
       {{ range $related }}
           <ul class="ul-in-post">

@@ -101,7 +101,7 @@ inversely proportional to resistance so ohms law is right. </p>
 <img src="/images/whatwillrbe_2.jpg" alt="">
 <p>
 <span class="text-emphasis">Ex.4: Try this -</span> What will the current I
-be if voltage V = 100mv and resistance R = 10ohms
+be if voltage V = 100mv and resistance R = 10&#8486
 </p>
 <button class="see-answer">See answer &darr;</button>
 

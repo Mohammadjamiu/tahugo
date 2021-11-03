@@ -2,7 +2,7 @@
 title: "What Is Electricity and How Does It Work? A Simple Explanation"
 postdate: November 01, 2021
 image: ""
-description: ""
+description: "Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path."
 alt: ""
 weight: ""
 author: Mohammad Abdul

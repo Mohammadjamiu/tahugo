@@ -413,11 +413,12 @@ input[type="file"] {
   background-color: var(--primary-color);
   font-size: 1.6rem;
   font-family: "Muli", sans-serif;
-  transition: background 100ms ease-in-out;
+  transition: background 50ms ease-in-out;
   display: inline-block;
   border-radius: 0.4rem;
   border: 2px solid var(--primary-color);
   color: #fff;
+  cursor: pointer;
 }
 
  a.whatsapp-btn{
@@ -431,7 +432,7 @@ input[type="file"] {
   display: inline-block;
   text-align: center;
   padding: .62rem 0;
-  transition: all 150ms ease-in-out;
+  transition: background 50ms ease-in-out;
 }
 
 a.whatsapp-btn:hover,

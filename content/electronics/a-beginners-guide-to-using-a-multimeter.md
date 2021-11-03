@@ -9,6 +9,7 @@ author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+wordcount: true
 draft: false
 ---
 
@@ -69,11 +70,9 @@ Inside the case of a DT830L or similar version, you will find the multimeter its
    Another thing to note on a multimeter is, if you are measuring in a pretty dark arena, you can turn on the backlight to see the reading.
 
     </p>
-     <p class="quote-text">
-
-   The other button which H is written on, serves as holder and allows you to hold the value you just read so it won’t change.
+    <p class="quote-text">
+    The other button which H is written on, serves as holder and allows you to hold the value you just read so it won’t change.
     </p>
-
     </blockquote>
     <br>
     <img src="/images/holdermeter.jpg" alt=" pressing the hold button">
@@ -84,22 +83,30 @@ At this stage, you need to know some little thing about a multimeter by looking 
 
 <img src="/images/sketchmmeter_1.jpg" alt="sketch of a multimeter knob">
 
-In order to measure dc voltage, like voltage of a battery, you need to switch it to the dc voltage side and choose the corresponding value or value greater than the voltage you are about to measure.
 
-For example if you are interested in measuring 25V, since there is no 25V written on the d.c part, but only 20V, just shift the knob to 200v.
+{{< ste >}}In order to measure d.c (direct current) voltage{{</ ste >}}, like the voltage of a battery, you need to switch it to the d.c voltage side and choose the corresponding value or value greater than the voltage you are about to measure.
 
-In order to measure an ac voltage, just switch to the a.c side and as always make sure to turn it to the range of value greater than what you are about to measure.
+For example if you are interested in measuring 25V, since there is no 25V written on the d.c part, but only 20V, just shift the knob to 200V.
 
-In order to measure resistance which is mostly what you would be working with apart from testing continuity which will be discussed later.
+
+{{< ste >}}In order to measure an a.c (or alternating current) voltage{{</ ste >}}, just switch to the a.c side and as always make sure to turn it to the range of value greater than what you are about to measure.
+
+{{< ste >}}In order to measure resistance{{</ ste >}}, which is mostly what you would be working with apart from testing continuity which will be discussed later.
 
 You need to turn the knob to the ohm’s side and choose a value greater than or within the range of the ohms value you wanted to measure.
+
+<p>For example, to measure a 10K&#8486 resistor, you need to teurn the knob to 200K&#8486 since there is no any value greater than 10K&#8486.</p>
+
+But what if you don't know the value of the resistor, switch the knob to the lowest value first and test and if it doesn't display any reading, it means that the resistor value is grater than the position you place your knob. 
+
+So all you need to do is to just keep turning the knob until you get a value.
+
 
 <blockquote class="blockquote">
     <p class="little-nugget">Note</p>
     <p class="quote-text">
-  At the bottom part or the side of the ohms, you will see, a diode symbol, this allow you to test what is the forward voltage of a diode or to test if a diode is working.
+    At the bottom part or the side of the ohms, you will see, a diode symbol, this allow you to test what is the forward voltage of a diode or to test if a diode is working.
     </p>
-  
 </blockquote>
 
 Another thing which is the most important aspect of why I love to use a multimeter is the symbol that looks like {{< ste >}}Wi-Fi{{</ ste >}}.
@@ -113,6 +120,7 @@ If it is broken, it will make no sound but if the wire is okay, it will make som
 You can just do a fast test by shifting the knob to the continuity tester and then join the two connecting lead terminals and see if it makes a sound.
 
 Lastly, the other part that is closed to the Wi-Fi like shape is called {{< ste >}} hFE or transistor tester{{</ ste >}} but I won’t go on to explaining how to use it because I just want you to start using the multimeter for some basic troubleshooting.
+
 
 ## some few FAQs
 

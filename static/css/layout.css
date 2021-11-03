@@ -3,6 +3,7 @@
   src: url(/font/Muli-Regular.ttf);
   font-style: normal;
   font-weight: normal;
+  font-display: fallback;
 }
 
 @font-face {
@@ -10,12 +11,14 @@
   src: url(/font/Muli-Italic.ttf);
   font-style: italic;
   font-weight: normal;
+  font-display: fallback;
 }
 @font-face {
   font-family: "MuliSemiBold";
   src: url(/font/Muli-SemiBold.ttf);
   font-style: normal;
   font-weight: 600;
+  font-display: fallback;
 }
 
 @font-face {
@@ -23,6 +26,7 @@
   src: url(/font/Muli-Bold.ttf);
   font-style: normal;
   font-weight: 700;
+ font-display: fallback;
 }
 
 /* ! Base Style */

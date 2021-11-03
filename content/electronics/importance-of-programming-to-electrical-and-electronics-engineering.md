@@ -2,7 +2,7 @@
 title: "Importance of Programming to Electrical and Electronics Engineering"
 postdate: November 01, 2021
 image: "/images/codes.jpg"
-description: ""
+description: "Programming is important to electrical and electronics engineering because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding)"
 alt: ""
 weight: "14"
 author: Mohammad Abdul
@@ -54,7 +54,7 @@ Probably not but the thing used here to make it understand what to do when somet
 
 Many software's are needed to control devices or to make simulations of real-world problems.
 
-For example, a software like <a class="links-to-others" href="https://www.everycircuit.com" target="_blank">Everycircuit</a> (a mobile app) or <a class="links-to-others" href="https://www.multisim.com" target="_blank">Multisim</a>(for mobile and desktop) that allows you to prototype circuits and know the value of voltages across and currents through each component in the circuit even before designing the circuit which is a way to making predictions. Hence making things much faster, better, and quite efficient.
+For example, a software like <a class="links-to-others" href="https://www.everycircuit.com" target="_blank">Everycircuit</a> or <a class="links-to-others" href="https://www.multisim.com" target="_blank">Multisim</a> that allows you to prototype circuits and know the value of voltages across and currents through each component in the circuit even before designing the circuit which is a way to making predictions. Hence making things much faster, better, and quite efficient.
 
 <img src="/images/codes.jpg" alt="">
 

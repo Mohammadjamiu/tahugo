@@ -2,9 +2,10 @@
 title: "The Easiest Way to Study Electromagnetics"
 postdate: October 07, 2021
 image: ""
-description: ""
+description: "As an electrical engineering student, we all have that one course that frightens us and one of them
+is electromagnetics field theory sometimes called engineering electromagnetics. But with how difficult it is, there is still a better way to study it."
 alt: ""
-weight: ""
+weight: "3"
 type: em-post
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
@@ -22,10 +23,10 @@ theory and then proceed to how we can grasp the concepts using some techniques a
 
 It is difficult to learn because, it is full of abstractions (meaning concepts that can’t be seen
 physically with the naked eye except by imagination, experience or by accident) for example an
-electric field or a magnetic field.
+electric field, a magnetic field, or electricity.
 
 And the books used in learning electromagnetics field theory just focus on the technical and
-calculations part rather than giving the whole concepts of most topics in it.
+calculations aspect rather than giving the whole concepts of most topics in it.
 
 ## How can we learn electromagnetics fast and easier?
 
@@ -46,8 +47,8 @@ world since we have left, right, up and down then in mathematics, we can do that
 by saying x direction is representing left, y is representing right and z is representing up or
 down.
 
-Now when you see anything related to vectors, you don’t just look at it as a mathematical tool only
-rather you see it also in the real world.
+Now when you see anything related to vectors, you don’t just look at it as a mathematical expression or tool only
+rather, you see it also in the real world.
 
 ## coulomb's law
 
@@ -84,7 +85,7 @@ they are of the same pole).
 
 The space between the magnets that wants them to attract is what we call <span class="text-emphasis">field</span> and if that field is caused by a magnet as in our case, we call it a magnetic field but if it is caused by an electric charge then we call it an electric field.
 
-Remember that you can’t see or touch the field but they are there and the farther you keep the magnets from each other the less the attraction and less the field strength – hope you get the concepts.
+Remember that you can’t see or touch the field but they are present and the farther you keep the magnets from each other the less the attraction and less the field strength – hope you get the concepts.
 
 With these concepts understood clearly, it can now be easier to get down to solving problems on electromagnetics theory from the basic to amateur level by following examples from textbooks.
 
@@ -92,7 +93,9 @@ Lastly, what I’m trying to figure out is making sure you learn the concepts of
 
 Also there are resources that might help fast track your learning journey and it is summarized in this article.
 
-Read on - <a href="" class="links-to-others">Resources to help you learn and understand Electromagnetics field theory from scratch</a>
+<ul class="ul-in-post">
+<li>Read on - <a href="/em-post/resources-to-help-you-learn-electromagnetics-from-scratch/" class="links-to-others">Resources to help you learn and understand Electromagnetics field theory from scratch</a></li>
+</ul>
 
 Lastly, in the subsequent post we will be doing our best to bring forth some cool tips and strategy to help you understand and learn electromagnetics field theory.
 

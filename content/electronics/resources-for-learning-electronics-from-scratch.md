@@ -1,8 +1,9 @@
 ---
-title: "21 Resources for Learning Electronics From Scratch (For Beginners)"
+title: "22 Resources for Learning Electronics From Scratch (For Beginners)"
 postdate: October 29, 2021
 image: "/images/learnelectronics.jpg"
-description: ""
+description: "Learning electronics can be fun sometimes but for other times can be really frustrating.
+So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets."
 alt: ""
 weight: "12"
 author: Mohammad Abdul
@@ -76,6 +77,12 @@ Also there is a forum available by EEVBlog for electrical or electronics lover.
 ">MrCarlsonsLab </a>
 <br>
 MrCarlsonsLab is another YouTube channel that has tons of resource on electronics including the electronics kits you need to have and even how to build a small lab.
+</li>
+
+<li>
+<a class="links-to-others" target="_blank" href="https://www.youtube.com/c/mjlorton/featured">MjLorton</a>
+<br>
+Mjlorton also have great videos on how to use an oscilloscope, a power supply and more basic and advance electronics stuff.
 </li>
 
 <li>
