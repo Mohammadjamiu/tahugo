@@ -40,7 +40,7 @@ But you might see a +ve and -ve sign written across it in circuit, this symbol d
 ## How do you know the value of a resistor?
 
 1. {{< ste >}}From it color code{{</ ste >}}
-   As it is seen that a resistor has some stripe of colors on it, this colors are used to know the value of the resistor by using the resistor <a href="" class="links-to-others" target="_blank">color code chart</a>.
+   As it is seen that a resistor has some stripe of colors on it, this colors are used to know the value of the resistor by using the resistor <a href="https://electronics-tutorials.ws/resistor/res_2.html" class="links-to-others" target="_blank">color code chart</a>.
 
 2. {{< ste >}}Or using a multimeter{{</ ste >}}
    Another way of knowing the value of a resistor is by using a multimeter which is the most easy and efficient way of knowing the value of a resistor.
