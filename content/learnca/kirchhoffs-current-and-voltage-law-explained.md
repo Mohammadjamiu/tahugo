@@ -24,12 +24,25 @@ Rather, we need an optimized technique which still is based on ohm's law (as ohm
 
 This optimized technique is called {{< ste >}}Kirchhoff’s law{{</ ste >}}.
 
-Kirchhoff's law has two laws within it which are Kirchhoff’s current law or KCL and Kirchhoff’s voltage law or KVL.
+Kirchhoff's law has two laws within it which are called Kirchhoff’s current law or KCL and Kirchhoff’s voltage law or KVL.
 
 ## What is Kirchhoff’s current law or KCL
 
-Kirchhoff’s current law is applied at nodes or junction point.
+Kirchhoff’s current law states that the algebraic sum of currents at a node is equal to zero.
 
+In other words, the total amount of current entering a node is equal to the total amount of current leaving the node.
+
+<img src="/images/kcljunction.jpg" alt="kcl junction rule">
+
+And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown above, we get zero as the equivalent result.
+
+<blockquote class="blockquote">
+<p class="little-nugget">Remember</p>
+<p class="quote-text">
+Kirchhoff's Current Law is applied at nodes or junction point.
+</blockquote>
+
+<br>
 <blockquote class="blockquote">
 <p class="little-nugget">Terminology</p>
 <p class="quote-text">
@@ -38,17 +51,23 @@ Kirchhoff’s current law is applied at nodes or junction point.
 
 <img src="/images/kclnode.jpg" alt="kirchhoff's current law kcL node">
 
-And the law states that the algebraic sum of currents at a node is equal to zero.
-
-In other words, the total amount of current entering a node is equal to the total amount of current leaving the node.
-
-<img src="/images/kcljunction.jpg" alt="kcl junction rule">
-
-And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown above, we get zero as the equivalent result.
-
 ## What is Kirchhoff’s voltage law or KVL
 
-Kirchhoff’s voltage law is applied around a closed loop or it deals with branches.
+Kirchhoff’s voltage law states that the algebraic sum of all the voltages in any closed circuit is zero.
+
+In other words, if we start to move round any closed path or loop, the total sum of all the voltages across each element in the circuit is zero.
+
+<img src="/images/kvlloop.jpg" alt="KVL loop rule">
+
+<img src="/images/kvlloopeqn.jpg" alt="KVL loop equation">
+
+<blockquote class="blockquote">
+<p class="little-nugget">Remember</p>
+<p class="quote-text">
+Kirchhoff's Voltage Law is applied around a closed loop hence, it deals with branches.
+</p>
+</blockquote>
+<br>
 
 <blockquote class="blockquote">
 <p class="little-nugget">Terminology</p>
@@ -59,14 +78,6 @@ Kirchhoff’s voltage law is applied around a closed loop or it deals with branc
 </blockquote>
 
 <img src="/images/loopandbranch.jpg" alt="kirchhoff's voltage law">
-
-The law states that the algebraic sum of all the voltages in any closed circuit is zero.
-
-And in other words, if we start to move round any closed path or loop, the total sum of all the voltages across each element in the circuit is zero.
-
-<img src="/images/kvlloop.jpg" alt="KVL loop rule">
-
-<img src="/images/kvlloopeqn.jpg" alt="KVL loop equation">
 
 ## How to solve circuit problems using kirchhoff's law
 
@@ -125,21 +136,21 @@ If there are more resistors, the same pattern go for each.
 We need to start writing loop equation using {{< ste >}} V = IR {{</ ste >}} and then summing things up according to KVL.
 
 <blockquote class="blockquote">
-<p class="little-nugget">Note</p>
+<p class="little-nugget">Note I</p>
 <p class="quote-text">
 Looping is done in clockwise direction but still can be done in anti-clockwise but just stick to one.
 </p>
 </blockquote> 
 <br>
 <blockquote class="blockquote">
-<p class="little-nugget">Note</p>
+<p class="little-nugget">Note II</p>
 <p class="quote-text">
 When looping through, whatever sign you encounter first is what write you down to make things easier.
  </p>
 </blockquote> 
 <br>
 
-The loop equation is shown below and it consist of all the voltages in the loop including the energy source or battery since it is supplying the circuit energy.
+The loop equation is shown below and it consist of all the voltages in the loop including the energy source or battery since it is supplying the circuit an energy.
 
 <img src="/images/exomeloopeqn.jpg" alt="">
 
@@ -149,7 +160,7 @@ Now we need to move -12 to the other side to make it positive.
 
 <p>V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> = 12 …. (1)</p>
 
-Since V = IR but, we only know what the resistance are and the current which we are looking for is the unknown.
+But V = IR and we only know what the resistance are and the current which we are looking for is the unknown.
 
 <img src="/images/solnexone.jpg" alt="">
 
@@ -168,3 +179,8 @@ Meaning two amps of current is flowing through the circuit where by
 <p>V<sub>2&#8486</sub> = IR = (2)(2) = 4V</p>
 
 <p>Adding V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> you will get 2 + 6 + 4 = 12V same as the voltage of the battery.</p>
+
+Let’s see another problem and how you can approach solving it.
+
+{{< ste >}}Example 2.{{</ ste >}}
+<br>

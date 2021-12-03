@@ -81,9 +81,10 @@ Beyond limiting or controlling of current, a resistor has many applications or p
    This idea is useful because sometimes you might have some device laying around but you desire to power them up but the voltage or battery you have at hand is greater than the voltage the device can withstand so designing a voltage divider circuit is a simple way to go.
 
    Here is an example and a basic formula to help you calculate the desired voltage.
-   <img src="/images/resistoruse_13.jpg" alt="">
 
-    <img src="/images/resistoruse_12.jpg" alt="">
+<img src="/images/resistoruse_13.jpg" alt="">
+
+<img src="/images/resistoruse_12.jpg" alt="">
 
 2. {{< ste >}} Use to light up LEDs{{</ ste >}} – most LEDs can withstand around 2 -3v. which means applying any voltage source (e.g. battery) greater than 3v with destroy the LED bulb.
 
@@ -91,18 +92,19 @@ Beyond limiting or controlling of current, a resistor has many applications or p
 
    <blockquote class="blockquote">
    <p class="little-nugget">Note</p>
-   <p class="quote-text">As a recommendation, when designing circuit, go for a power rating more than the calculated power rating. 
+   <p class="quote-text">As a recommendation, when designing circuit, go for a power rating more than the calculated power rating.
+   </p>
    </blockquote>
 
    For example, if you have 9v battery at hand, here's how you can use a resistor to limit the current as well as voltage.
 
-   <img src="/images/voltagetodrop.jpg" alt="using resistor to limit current and cause voltage drop">
+<img src="/images/voltagetodrop.jpg" alt="using resistor to limit current and cause voltage drop">
 
 3. {{< ste >}}Use with a transistor{{</ ste >}} – every transistor has the amount of base current it can take, around the micro to milliamps range. That’s why resistors are used in series with the base of a transistor in order not to over saturate and destroy the transistor.
 
 <img src="/images/resistoruse_14.jpg" alt="">
 
-4. {{< ste >}}Resistors can be used as a fuse{{</ ste >}} - since if you overload it with excess current, it will be destroyed and be disconnected.
+4. {{< ste >}}Resistors can be used as a fuse{{</ ste >}} - because if you overload it with excess current, it will be destroyed and be disconnected. That's why when a resistor is used as a fuse, it is called a fusible resistor and you can find such implementation inside the converter circuit of our charger.
 
 5. {{< ste >}}Used in timer circuit{{</ ste >}} – in blinking an LED bulb or making some buzzing alarm with a 555 timer IC, the main component that is used to determine the length or duration at which the LED bulb or alarm will be on or off is a resistor combined with a capacitor to form what is called time constant (&tau;).
 

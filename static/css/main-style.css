@@ -327,14 +327,14 @@ h2.about-ta-homepage-headline::after {
   background-color: #ececec;
   box-shadow: 0px -1px 12px rgba(0, 0, 0, 0.2);
   border-radius: 0.4rem;
-  padding:2.2rem;
+  padding: 2.2rem;
   height: 40rem;
   position: relative;
   z-index: 100;
 }
 
-.ask-ta .my-form{
-  padding:2rem 2.2rem 2.3rem;
+.ask-ta .my-form {
+  padding: 2rem 2.2rem 2.3rem;
 }
 
 .my-form h2 {
@@ -352,8 +352,6 @@ h2.about-ta-homepage-headline::after {
   justify-content: center;
   position: relative;
 }
-
-
 
 input,
 textarea,
@@ -397,7 +395,7 @@ textarea:focus,
 }
 
 input[type="file"] {
-  padding: 0.75rem .8rem;
+  padding: 0.75rem 0.8rem;
   display: flex;
   background-color: hsla(213, 72%, 13%, 0.884);
   color: #f4f4f4;
@@ -421,25 +419,24 @@ input[type="file"] {
   cursor: pointer;
 }
 
- a.whatsapp-btn{
+a.whatsapp-btn {
   color: var(--whatsapp-color);
   background-color: #caebd6;
   border-radius: 0.4rem;
   border: 2px solid var(--whatsapp-color);
-  
-  font-size: 1.6rem;  
+
+  font-size: 1.6rem;
   font-family: "Muli", sans-serif;
   display: inline-block;
   text-align: center;
-  padding: .62rem 0;
+  padding: 0.62rem 0;
   transition: background 50ms ease-in-out;
 }
 
 a.whatsapp-btn:hover,
-a.whatsapp-btn:focus{
+a.whatsapp-btn:focus {
   background-color: var(--whatsapp-color);
-color: #fff;
-
+  color: #fff;
 }
 
 .ask-ta button:hover,
