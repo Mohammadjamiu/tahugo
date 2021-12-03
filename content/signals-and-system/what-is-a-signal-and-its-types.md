@@ -2,7 +2,7 @@
 title: "What Is a Signal and its Different Types In Electronics And Communications?"
 postdate: November 30, 2021
 image: "/images/signals_6 (2).jpg"
-description: ""
+description: "A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon. So anything that carries information is considered a signal"
 alt: ""
 weight: "16"
 author: Mohammad Abdul
@@ -142,7 +142,7 @@ $$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
 
 {{< ste >}}An energy signal{{</ ste >}} is a signal with finite energy. It can be calculated using;
 
-$$E = \int_{-∞}^{∞} |x(t)|^{2} dt$$
+$$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt= \int_{-∞}^{∞} |x(t)|^{2} dt$$
 
  <!-- You can read more on what power and energy signals are with some shortcut to help you know if a signal is a power or an energy signal. -->
 
