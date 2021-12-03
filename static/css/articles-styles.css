@@ -1,5 +1,6 @@
 section.pagebody {
   margin: 2rem 0;
+  overflow-x: hidden;
 }
 section.pagebody .container {
   display: flex;
