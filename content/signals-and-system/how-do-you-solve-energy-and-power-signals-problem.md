@@ -92,7 +92,11 @@ As you can see when a signal is an energy signal, it will have a finite energy a
 
 <br>
 
-$$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt= \int_{-∞}^{∞} |x(t)|^{2} dt$$
+$$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt$$
+
+or
+
+$$E =  \int_{-∞}^{∞} |x(t)|^{2} dt$$
 
 $$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
 <br>
