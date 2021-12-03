@@ -144,7 +144,7 @@ $$P = \lim_{ T\rightarrow ∞}\frac{1}{2T} \int_{-T}^{T} |x(t)|^{2} dt$$
 
 $$E =\lim_{T \rightarrow ∞ } = \int_{-T}^{T} |x(t)|^{2} dt= \int_{-∞}^{∞} |x(t)|^{2} dt$$
 
- <!-- You can read more on what power and energy signals are with some shortcut to help you know if a signal is a power or an energy signal. -->
+You can read more on what <a class="links-to-article" href="/signals-and-system/how-do-you-solve-energy-and-power-signals-problem/"> power and energy signals </a> are with some shortcut to help you know if a signal is a power or an energy signal.
 
 ## Casual, Anti-casual and Non-casual signal
 

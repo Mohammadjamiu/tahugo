@@ -197,4 +197,4 @@ Find whether the following signals are energy signals or power signals or neithe
 
    $P = lim_{T \rightarrow ∞ } 8$ = 8;
 
-   So has Energy is ∞ and Power is Finite (i.e. 8) then the signal is a power signal.
+   So as Energy is ∞ and Power is Finite (i.e. 8) then the signal is a power signal.
