@@ -245,6 +245,7 @@ h2.curious-more-r::after {
 /* ! Ask Ta style */
 
 section.ask-ta {
+  display: none;
   margin: 5rem 0 0 0;
   padding: 5rem 0;
 
@@ -790,7 +791,7 @@ h2.one-fold::after {
   section.ask-ta {
     /* margin: 5rem 0 ; */
     padding: 5rem 0;
-
+    display: none;
     background-color: #152c49;
   }
 

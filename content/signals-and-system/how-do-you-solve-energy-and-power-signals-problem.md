@@ -78,6 +78,8 @@ A function or signal that is neither a power or energy signal is a ramp function
 
 $r(t)$ = $tu(t)$, E = &infin; and P = &infin;
 
+Also a function like this one below has an energy and a power equal to zero hence, can also be considered neither an energy or power signal.
+
 $x(t)$ = $e^{-at}$, E = 0; and P = 0;
 
 {{< ste >}}That’s the first step to know if a signal is either a power or an energy signal{{</ ste >}}. But what if you can’t easily tell and also you are asked to solve the signal and verify if it is a power or energy signal using it formula.
@@ -150,7 +152,7 @@ Find whether the following signals are energy signals or power signals or neithe
 
    Hence, $E = \frac{1}{2a}$ which has a finite value only at $a > 0$
 
-   So if a = 2, $E = \frac{1}{2\ x\ 2}$ $E = \frac{1}{4}$.
+   So if a = 2, $E = \frac{1}{2\ x\ 2}$ , $E = \frac{1}{4}$.
 
    To further verify, we have to calculate for the power by just putting $\frac{1}{2T}$
 

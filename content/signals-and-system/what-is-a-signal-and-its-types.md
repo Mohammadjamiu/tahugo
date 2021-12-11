@@ -26,7 +26,7 @@ So anything that carries information is considered a signal e.g.
 4. Sounds or speeches etc.
 5. Position, speed, acceleration, or velocity of an object
 6. A stock market index
-7. The flow rate of fluid
+7. The flow rate of fluid etc.
 
 <br>
 
