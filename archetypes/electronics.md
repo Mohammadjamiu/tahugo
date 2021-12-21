@@ -10,5 +10,6 @@ categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
 wordcount: false
+mathjax: true
 draft: false
 ---

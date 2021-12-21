@@ -10,5 +10,6 @@ categorylink: /categories/network-fundamentals
 categories: ["Networking Fundamentals"]
 type: posts
 wordcount: false
+mathjax: true
 draft: false
 ---

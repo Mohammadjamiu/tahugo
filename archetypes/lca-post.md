@@ -10,5 +10,6 @@ categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 type: posts
 wordcount: false
+mathjax: true
 draft: false
 ---

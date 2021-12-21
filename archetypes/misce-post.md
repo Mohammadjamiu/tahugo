@@ -10,5 +10,6 @@ categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
 wordcount: false
+mathjax: true
 draft: false
 ---

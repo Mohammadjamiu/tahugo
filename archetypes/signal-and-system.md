@@ -9,6 +9,7 @@ author: {{ .Site.Params.author }}
 categorylink: /categories/signals-and-system
 categories: ["Signals and System"]
 type: posts
+mathjax: true
 wordcount: false
 draft: false
 ---
