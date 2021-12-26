@@ -6,7 +6,7 @@ description: "It is said that an optic fiber has a core with a diameter close to
 alt: "advantages of fiber optics communication"
 weight: "21"
 author: Mohammad Abdul
-categorylink: /categories/network-fundamentals
+categorylink: /categories/networking-fundamentals
 categories: ["Networking Fundamentals"]
 type: posts
 wordcount: false

@@ -6,7 +6,7 @@ description: ""
 alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
-categorylink: /categories/network-fundamentals
+categorylink: /categories/networking-fundamentals
 categories: ["Networking Fundamentals"]
 type: posts
 wordcount: false
