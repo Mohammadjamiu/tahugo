@@ -248,6 +248,13 @@ footer h2::after {
   display: block;
   border-radius: 0.1rem;
 }
+footer h3 {
+  font-size: 1.6rem;
+  font-family: "MuliBold", sans-serif;
+  margin-bottom: 1.2rem;
+  margin-top: 0.6rem;
+}
+
 
 footer a {
   font-size: 1.4rem;

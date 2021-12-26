@@ -84,6 +84,11 @@
 {{ $aboutPageStyle := "/css/aboutpage-style.css" }}
 <link rel="stylesheet" href={{ $aboutPageStyle }} />
 
+{{ else if (eq .Layout "pdfs") }}
+
+{{ $aboutPageStyle := "/css/aboutpage-style.css" }}
+<link rel="stylesheet" href={{ $aboutPageStyle }} />
+
 {{ else if (eq .Page "taxonomy") }}
 
 {{ $aboutPageStyle := "/css/aboutpage-style.css" }}

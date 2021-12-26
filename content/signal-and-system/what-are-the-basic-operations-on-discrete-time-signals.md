@@ -86,7 +86,7 @@ Time shifting as the name implies is an operation done along the time axis. It i
 <li>The other has to do with shifting backward (or to the left) called {{< ste >}}advance{{</ ste >}}</li>
 </ul>
 
-shifting to the right by a factor of $a$ is denoted as $x(n – a)$ while shifting to the left by a factor of $a$ is denoted as $x(n + to)$.
+shifting to the right by a factor of $a$ is denoted as $x(n – a)$ while shifting to the left by a factor of $a$ is denoted as $x(n + a)$.
 
 But you might be wondering why is moving forward has the sign negative while moving backward has a sign of positive which does not seem okay with the way we think.
 

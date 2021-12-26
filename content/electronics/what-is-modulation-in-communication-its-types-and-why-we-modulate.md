@@ -41,8 +41,9 @@ That’s why we modulate so as to use a frequency that is greater than the frequ
 
 1. {{< ste >}}To reduce the height of an antenna{{</ ste >}}
 
-   Most baseband signal which is in the low frequency is transmitted through or radiated into the space by using an antenna. But you might be wondering is there an antenna in my phone since information can only be transmitted using an antenna? Yes there is, but it is called a micro-strip antenna because it has small size.
-   and there are a lot more antennas shapes and size. Also some that we can find on the police phone, has a helix antenna.
+   Most baseband signal which is in the low frequency is transmitted through or radiated into the space by using an antenna. 
+   
+   But you might be wondering is there an antenna in my phone since information can only be transmitted using an antenna? Yes there is, but it is called a micro-strip antenna because it has small size and there are a lot more antennas shapes and size. Also some that we can find on the police phone, has a helix antenna.
 
    <blockquote class="blockquote">
    <p class="little-nugget">Terminology</p>
@@ -81,14 +82,20 @@ That’s why we modulate so as to use a frequency that is greater than the frequ
 3. {{< ste >}}Allowing the multiplexing of signals {{</ ste >}}
 
    Modulation allows multiplexing of signals in that two or more signals can simultaneously transmitted over the same channel.
-   
+
    For example, the different radio stations operating simultaneously, each station that you are interested in listening to can be tuned to and what happen when you tuned to a specific channel, you are just filtering some unwanted frequencies and allowing the wanted one.
 
-4. {{< ste >}}Reduces interference along transmission.{{</ ste >}}
+4. {{< ste >}}Reduces interference or noise along transmission.{{</ ste >}}
+
+   Most form of noise or interference along the transmission channel are in low frequencies hence, if a signal is modulated with high frequency then using a filter, low frequencies can be filtered off.
 
 5. {{< ste >}}Improve quality of reception.{{</ ste >}}
 
+   As noise is a disturbing factor, modulation which can help suppress noise will also leads to improved quality of reception (i.e. at the receiver end, the information transmitted will be received with good to satisfactory quality).
+
 6. {{< ste >}}To overcome equipment limitation.{{</ ste >}}
+
+   The performance of signal processing devices such as amplifiers and filters can be eased by modulation.
 
 <br>
 
