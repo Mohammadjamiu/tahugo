@@ -37,6 +37,9 @@ In communications or digital electronics engineering in general, signals are cla
 <ul class="ul-in-post">
 
 <li>
+Analog signal and digital signal
+</li>
+<li>
 Continuous-time signal and discrete-time signal
 </li>
 <li>
@@ -56,6 +59,20 @@ Casual, anti-casual and non-casual signal
 </li>
 
 </ul>
+
+## Analog signal and digital signal
+
+{{< ste >}} Analog signal {{</ ste >}} refers to a signal that can have infinite number of values in a range hence, it is continuous which seems same as the continous-time signal discussed below.
+
+human voice is an example of an analog signal and that why all sort of signal in nature is considered an analog signal.
+
+{{< ste >}} A digital signal{{</ ste >}} on the other hand refers to a signal that can have only a limited number of values. It waveform is in form of pulses which seems like that of periodic or non-periodic signal.
+
+<blockquote class="blockquote">
+   <p class="little-nugget">Note</p>
+   <p class="quote-text">{{< ste >}} Analog and digital signals {{</ ste >}} are a broader classification of other signals because they all take these forms (either analog or digital). But still there are more ways in which sinals can be classified which in most cases can mean same thing.
+ </blockquote>
+ <br>
 
 ## Continuous time signal and discrete time signal
 
