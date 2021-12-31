@@ -33,7 +33,7 @@ For magnitude (voltage, pressure or current): $dB = 20\log_{10}{\frac{V_{2}}{V_{
 {{< ste >}} For example (1) {{</ ste >}}
 <br>
 
-When a signal is transmitted from point 1 to 2 and the power from point 1 to 2 is 10w and 5w respectively.
+When a signal is transmitted from point 1 to 2 and the power from point 1 to 2 is 10W and 5W respectively.
 
 $dB = 10\log_{10}{\frac{5}{10}} = 10\log_{10}{(0.5)} = -3dB$. This is to say that $P_{2}$ is $\frac{1}{2}$ of $P_{1}$ (ref)
 
@@ -111,3 +111,12 @@ $dB_{v} = 20\log_{10}{(0.25)} = -12dB_{v}$
 $dB_{v} = 20\log_{10}{(2)} = +6dB_{v}$
 
 $dB_{v} = 20\log_{10}{(4)} = +12dB_{v}$
+
+<br>
+
+{{< ste >}}Reference/Read more:{{</ ste >}}
+<br>
+:book: <a class="links-to-others" href="https://amzn.to/3JtkwUK" target="_blank">Data Communications
+and Networking </a>by Behrouz A. Forouzan
+
+<br>

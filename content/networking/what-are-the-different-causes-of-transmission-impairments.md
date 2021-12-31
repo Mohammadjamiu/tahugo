@@ -58,3 +58,12 @@ There are three types of transmission impairments which you can recall as {{< st
    {{< ste >}} Crosstalk{{</ ste >}} is the effect of one wire on the other as there are many wires or conductors used in transmission of signals.
 
    {{< ste >}} Impulse noise{{</ ste >}} is a spike (a signal with high energy for a very short time) which can be caused due to lightening or surge currents.
+
+<br>
+
+{{< ste >}}Reference:{{</ ste >}}
+<br>
+:book: <a class="links-to-others" href="https://amzn.to/3JtkwUK" target="_blank">Data Communications
+and Networking </a>by Behrouz A. Forouzan
+
+<br>
