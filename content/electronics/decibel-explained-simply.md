@@ -49,7 +49,6 @@ $dB = 10\log_{10}{\frac{P_{2}}{P_{1}}}$ if $P_{2} = P_{1}$, $dB = 10\log_{10}{\f
 When the voltage at (point 1) is 4v and at (point 2) is 2v then it expression in dB will be
 $dB = 20\log_{10}{\frac{2}{4}} = -6dB$.
 
-
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
 <p class="quote-text">In the context of power -3dB is means half of the reference or transmitted power. While in voltage -6dB refers to half of the reference value.</blockquote>
@@ -73,10 +72,13 @@ $dB_{m} = 10\log_{10}{\frac{P_{2}}{P_{1}}} = 10\log_{10}{\frac{2P_{1}}{P_{1}}} =
 
 So in power,
 
-{{< ste >}} Loss {{</ ste >}} (of power)
+{{< ste >}} No Loss or Gain {{</ ste >}} (of power)
 <br>
 
 $dB_{m} = 10\log_{10}{(1)} = 0dB_{m}$
+
+{{< ste >}} Loss {{</ ste >}} (of power)
+<br>
 
 $dB_{m} = 10\log_{10}{(0.5)} = -3dB_{m}$
 
@@ -85,18 +87,19 @@ $dB_{m} = 10\log_{10}{(0.25)} = -6dB_{m}$
 {{< ste >}} Gain {{</ ste >}} (of power)
 <br>
 
-$dB_{m} = 10\log_{10}{(1)} = 0dB_{m}$
-
 $dB_{m} = 10\log_{10}{(2)} = +3dB_{m}$
 
 $dB_{m} = 10\log_{10}{(4)} = +6dB_{m}$
 
 and in voltage,
 
-{{< ste >}} Loss {{</ ste >}} (of voltage)
+{{< ste >}} No Loss or Gain {{</ ste >}} (of voltage)
 <br>
 
 $dB_{v} = 20\log_{10}{(1)} = 0dB_{v}$
+
+{{< ste >}} Loss {{</ ste >}} (of voltage)
+<br>
 
 $dB_{v} = 20\log_{10}{(0.5)} = -6dB_{v}$
 
@@ -104,8 +107,6 @@ $dB_{v} = 20\log_{10}{(0.25)} = -12dB_{v}$
 
 {{< ste >}} Gain {{</ ste >}} (of voltage)
 <br>
-
-$dB_{v} = 20\log_{10}{(1)} = 0dB_{v}$
 
 $dB_{v} = 20\log_{10}{(2)} = +6dB_{v}$
 
