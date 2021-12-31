@@ -116,7 +116,7 @@ $dB_{v} = 20\log_{10}{(4)} = +12dB_{v}$
 
 {{< ste >}}Reference/Read more:{{</ ste >}}
 <br>
-:book: <a class="links-to-others" href="https://amzn.to/3JtkwUK" target="_blank">Data Communications
+:book: <a class="links-to-others" href="https://amzn.to/3eEN2o1" target="_blank">Data Communications
 and Networking </a>by Behrouz A. Forouzan
 
 <br>

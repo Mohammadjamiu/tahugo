@@ -63,7 +63,7 @@ There are three types of transmission impairments which you can recall as {{< st
 
 {{< ste >}}Reference:{{</ ste >}}
 <br>
-:book: <a class="links-to-others" href="https://amzn.to/3JtkwUK" target="_blank">Data Communications
+:book: <a class="links-to-others" href="https://amzn.to/3eEN2o1" target="_blank">Data Communications
 and Networking </a>by Behrouz A. Forouzan
 
 <br>
