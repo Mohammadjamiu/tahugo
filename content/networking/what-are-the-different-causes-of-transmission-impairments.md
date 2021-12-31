@@ -43,7 +43,7 @@ There are three types of transmission impairments which you can recall as {{< st
 
    However, as the signal is attenuated, it can be compensated with the use of an amplifiers which helps to amplify the attenuated signal.
 
-   Attenuation in mathematics or engineering sense is expressed in decibels (dB). i.e. 0dB means no loss but -3dB refers to an attenuation equal to half of the transmitted power. More on dB explanation.
+   Attenuation in mathematics or engineering sense is expressed in decibels (dB). i.e. 0dB means no loss but -3dB refers to an attenuation equal to half of the transmitted power. More on <a class="links-to-article" href="/electronics/decibel-explained-simply">dB explanation </a>.
 
 3. {{< ste >}} Noise{{</ ste >}}
 

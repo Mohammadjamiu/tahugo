@@ -39,11 +39,16 @@ $dB = 10\log_{10}{\frac{5}{10}} = 10\log_{10}{(0.5)} = -3dB$. This is to say tha
 
 hence, $dB = 10\log_{10}{\frac{0.5P_{1}}{P_{1}}}$.
 
+{{< ste >}} What if we have 0dBm {{</ ste >}}; it simply means there is no loss as the power transmitted (at the transmitting point) is same as the power received at the receiving end.
+
+$dB = 10\log_{10}{\frac{P_{2}}{P_{1}}}$ if $P_{2} = P_{1}$, $dB = 10\log_{10}{\frac{P_{1}}{P_{1}}} = 10\log_{10}{(1)} = 0dB$
+
 {{< ste >}} For example (2){{</ ste >}}
 <br>
 
 When the voltage at (point 1) is 4v and at (point 2) is 2v then it expression in dB will be
 $dB = 20\log_{10}{\frac{2}{4}} = -6dB$.
+
 
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
@@ -65,3 +70,43 @@ As for gain, the value will be positive so a $+3dB_{m}$ means a gain that is twi
 $dB_{m} = 10\log_{10}{\frac{P_{2}}{P_{1}}} = 10\log_{10}{\frac{2P_{1}}{P_{1}}} = +3dbm$ where $P_{2}$ is twice the reference value $P_{1}$.
 
 {{< ste >}} In conclusion{{</ ste >}}, the concept of decibel (dB) is just a way that allows engineers to express large numbers or values in a more defined and efficient way in order to reduce cumbersomeness or complexity.
+
+So in power,
+
+{{< ste >}} Loss {{</ ste >}} (of power)
+<br>
+
+$dB_{m} = 10\log_{10}{(1)} = 0dB_{m}$
+
+$dB_{m} = 10\log_{10}{(0.5)} = -3dB_{m}$
+
+$dB_{m} = 10\log_{10}{(0.25)} = -6dB_{m}$
+
+{{< ste >}} Gain {{</ ste >}} (of power)
+<br>
+
+$dB_{m} = 10\log_{10}{(1)} = 0dB_{m}$
+
+$dB_{m} = 10\log_{10}{(2)} = +3dB_{m}$
+
+$dB_{m} = 10\log_{10}{(4)} = +6dB_{m}$
+
+and in voltage,
+
+{{< ste >}} Loss {{</ ste >}} (of voltage)
+<br>
+
+$dB_{v} = 20\log_{10}{(1)} = 0dB_{v}$
+
+$dB_{v} = 20\log_{10}{(0.5)} = -6dB_{v}$
+
+$dB_{v} = 20\log_{10}{(0.25)} = -12dB_{v}$
+
+{{< ste >}} Gain {{</ ste >}} (of voltage)
+<br>
+
+$dB_{v} = 20\log_{10}{(1)} = 0dB_{v}$
+
+$dB_{v} = 20\log_{10}{(2)} = +6dB_{v}$
+
+$dB_{v} = 20\log_{10}{(4)} = +12dB_{v}$
