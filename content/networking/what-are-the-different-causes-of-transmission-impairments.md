@@ -31,7 +31,7 @@ There are three types of transmission impairments which you can recall as {{< st
    Distortion means a deformation in the shape of a signal.
    It can occur due to different signals mixing up and the rate at which they travel are different which leads to different phase (hence different waveforms).
 
-   <img src="/images/distortion_1.webp" alt="transmission impairment due to distortion">
+   <img loading="lazy" src="/images/distortion_1.webp" alt="transmission impairment due to distortion">
 
 2. {{< ste >}} Attenuation {{</ ste >}}
 
@@ -39,7 +39,7 @@ There are three types of transmission impairments which you can recall as {{< st
 
    The attenuation is mostly as a result of the resistance in the transmission medium which needs to be compensated for signal to be able to travel through and this is why electric current (electric signal) carrying conductor gets hot after some period of time.
 
-   <img src="/images/distortion_3.webp" alt="transmission impairment due to attenuation">
+   <img loading="lazy" src="/images/distortion_3.webp" alt="transmission impairment due to attenuation">
 
    However, as the signal is attenuated, it can be compensated with the use of an amplifiers which helps to amplify the attenuated signal.
 
@@ -49,7 +49,7 @@ There are three types of transmission impairments which you can recall as {{< st
 
    Noise which is the most impairment that a transmission medium is susceptible to apart from attenuation. Several types of noise are thermal noise, induced noise, crosstalk and impulse noise.
 
-   <img src="/images/distortion_2.webp" alt="transmission impairment due to noise">
+   <img loading="lazy" src="/images/distortion_2.webp" alt="transmission impairment due to noise">
 
    {{< ste >}} Thermal noise{{</ ste >}} is caused by random movement of electrons in a wire carrying signal which leads to heat (a new signal) that affects the original signal.
 

@@ -31,7 +31,7 @@ Now back to business, variable names can be x and y or a and b or Ia
 and Ib (as we do in circuit analysis for currents), it’s up to you
 to choose what you want.
 </p>
-<img src="/images/varnames_4.jpg" alt="variable can be any name just pick something good" />
+<img loading="lazy" src="/images/varnames_4.jpg" alt="variable can be any name just pick something good" />
 
 <p>
 The most important thing is to find a way to simplify or find a
@@ -50,7 +50,7 @@ crammer’s rule.
 Crammer's rule says if we have an equation with two unknowns or even
 more but for now let us deal with 2 unknowns as shown
 </p>
-<img src="/images/crammersconvert_2.jpg" alt="how to convert an equation into matrix" />
+<img loading="lazy" src="/images/crammersconvert_2.jpg" alt="how to convert an equation into matrix" />
 <p>
 [a<sub>1</sub>x + b<sub>1</sub>y = c<sub>1</sub> ] and
 [a<sub>2</sub>x + b<sub>2</sub>y = c<sub>2</sub> ] Then we need to
@@ -61,7 +61,7 @@ determinant of the matrix which is labelled as D, the determinant of the variabl
 After finding this parameters, we can now solve for x and by using the
 following sets of formula.
 </p>
-<img src="/images/crammeesformula_1.jpg" alt="crammers rule formula to solve any simultaneous equation" />
+<img loading="lazy" src="/images/crammeesformula_1.jpg" alt="crammers rule formula to solve any simultaneous equation" />
 <p>
 For example, if determinant is 4 (i.e. D = 4) and determinant of x
 is 8 (i.e. Dx = 8) therefore, x = 8/4 = 2 (i.e. x = Dx/D).
@@ -84,13 +84,13 @@ To find Dx, we replace the constant values that belong to the
 variable x in the D matrix with the constant value c<sub>1</sub> and
 c<sub>2</sub> in the right hand side.
 </p>
-<img src="/images/det-of-x_2.jpg" alt="how to find the determinant of x" />
+<img loading="lazy" src="/images/det-of-x_2.jpg" alt="how to find the determinant of x" />
 <p>
 Likewise, we replace the constant values that belong to the variable
 y in the D matrix with the constant value c<sub>1</sub> and c<sub>2</sub>
 in the right hand side to get Dy.
 </p>
-<img src="/images/detofy_2 (1).jpg" alt="how to find the determinant of y" />
+<img loading="lazy" src="/images/detofy_2 (1).jpg" alt="how to find the determinant of y" />
 <p>
 Let simplify but before then, if we have a 2x2 matrix, the way we
 solve them is, on the first row first column, take the value there
@@ -101,16 +101,16 @@ x a<sub>2</sub>) and then subtract the value from the previous value
 (a<sub>1</sub> x b<sub>2</sub>) then we arrange it to make things
 simpler.
 </p>
-<img src="/images/solve-d_2.jpg" alt="solving for the determinent D" />
+<img loading="lazy" src="/images/solve-d_2.jpg" alt="solving for the determinent D" />
 <p>
 To find Dx and Dy, we follow the same format as above but don’t
 forget to replace the values beside the x variable with the constant
 value and y variable with the constant value also.
 </p>
 <p>So we get something as shown below.</p>
-<img src="/images/solvedxdy_2.jpg" alt="solvng for the determinent Dx and Dy" />
+<img loading="lazy" src="/images/solvedxdy_2.jpg" alt="solvng for the determinent Dx and Dy" />
 <p>And lastly, we can get the value of x and y using our formula</p>
-<img src="/images/lastlyxy_2.jpg" alt="the solution to x and y" />
+<img loading="lazy" src="/images/lastlyxy_2.jpg" alt="the solution to x and y" />
 <p>
 Still if you want a proof for this using elimination by addition
 method for simultaneous equation then here it is.
@@ -136,9 +136,9 @@ and then multiply equation two by the constant of x in equation one
 which is a1 so that both side have same constant which will allow us
 to subtract them.
 </p>
-<img src="/images/elimintro_2.jpg" alt="How to solve simultaneous equation using elimination method" />
+<img loading="lazy" src="/images/elimintro_2.jpg" alt="How to solve simultaneous equation using elimination method" />
 <p>Then by subtracting them, our result is shown below</p>
-<img src="/images/letsubtract_2.jpg" alt="subtracting two equations" />
+<img loading="lazy" src="/images/letsubtract_2.jpg" alt="subtracting two equations" />
 <p>
 From the result shown, go look at what y is when we use crammer's
 rule and see if there is difference.
@@ -148,7 +148,7 @@ Oh yeah! there is because it doesn’t match right! This is just
 rearrangement issue so to fix that, if we multiply our equation both
 top and bottom by (-1), we will see an effect.
 </p>
-<img src="/images/multiplyminone_2.jpg" alt="multiplying by the minus one" />
+<img loading="lazy" src="/images/multiplyminone_2.jpg" alt="multiplying by the minus one" />
 <p>
 Note this (-1) one is not adding something new to our equation
 because, we are multiplying both top and bottom which still gives 1

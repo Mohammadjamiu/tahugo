@@ -13,7 +13,7 @@ wordcount: false
 draft: false
 ---
 
-<img src="/images/codes.jpg" alt="">
+<img loading="lazy" src="/images/codes.jpg" alt="">
 
 {{< ste >}}Programming is important to electrical and electronics engineering (or EEE for short){{</ ste >}} because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding).
 
@@ -43,7 +43,7 @@ Embedded systems are referred to as small computer (or computing device other th
 
 So an embedded system can also be thought of as a motherboard with microprocessors, memory, and other semiconductor devices. And inside these devices, there are different ICs (integrated circuit) that consist of a bunch of transistors that is transformed into a chip.
 
-<img src="/images/embedded.jpg" alt="">
+<img loading="lazy" src="/images/embedded.jpg" alt="">
 
 These chips are the superpowers that make up the modern devices or technologies that we've today. Using a calculator as an example, if you perform some operations like 2 + 2, do you ever think of how it recognizes that, and give you four as an answer.
 
@@ -56,14 +56,14 @@ Many software's are needed to control devices or to make simulations of real-wor
 
 For example, a software like <a class="links-to-others" href="https://www.everycircuit.com" target="_blank">Everycircuit</a> or <a class="links-to-others" href="https://www.multisim.com" target="_blank">Multisim</a> that allows you to prototype circuits and know the value of voltages across and currents through each component in the circuit even before designing the circuit which is a way to making predictions. Hence making things much faster, better, and quite efficient.
 
-<img src="/images/codes.jpg" alt="">
+<img loading="lazy" src="/images/codes.jpg" alt="">
 
 {{< ste >}}IoT or the internet of things{{</ ste >}}
 <br>
 
 This is a trending technology and it is growing rapidly because it utilizes microcontrollers to make smart devices or systems.
 
-<img src="/images/microarduino.jpg" alt="">
+<img loading="lazy" src="/images/microarduino.jpg" alt="">
 
 To know how important IoT is, have you ever desired to control your devices or appliances at home e.g. air conditioner, or detect gas leakage while you are not even at home, if yes then IoT is the technology that can help you do that.
 

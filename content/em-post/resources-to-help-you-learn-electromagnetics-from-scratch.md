@@ -21,7 +21,7 @@ commission as you engage but, at no extra cost to you.
 {{< /ptag >}}
 
 <div class="content">
-<img src="/images/emagresource.jpg" alt="how to learn electromagnetics">
+<img loading="lazy" src="/images/emagresource.jpg" alt="how to learn electromagnetics">
 <p>
 In this post, I would be listing out the resources to help you self-learn electromagnetics field
 theory from scratch and these resources are what I’ve came across over the years as an electrical
@@ -93,7 +93,7 @@ Fleisch.
 <br>
 He takes beginners from scratch just has U.A Bakshi does and explain stuff step by step. Here is
 a little snippet from his book.
-<img src="/images/danmaxwellshowcase.jpg" alt="A student guide to wave equation sample">
+<img loading="lazy" src="/images/danmaxwellshowcase.jpg" alt="A student guide to wave equation sample">
 <a href="https://mega.nz/file/b3p02I7L#RokIa0PXNp97bze4ju27cqa8RN8oknsVK-mf7aeFOZU" target="_blank"
 class="links-to-others">Download pdf &darr;</a>
 <br>

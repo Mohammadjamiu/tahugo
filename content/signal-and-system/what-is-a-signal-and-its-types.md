@@ -78,22 +78,22 @@ human voice is an example of an analog signal and that why all sort of signal in
 
 {{< ste >}}Continuous-time signal (CTS){{</ ste >}} is a signal that is define for all time (t). example of a continuous time signal is a sine function.
 
-<img src="/images/signals_8 (2).jpg" alt="Continuous time signals">
+<img loading="lazy" src="/images/signals_8 (2).jpg" alt="Continuous time signals">
 
 {{< ste >}}Discrete-time signal (DTS){{</ ste >}} is a signal that are defined only at discrete time (n).
 It is same as that of continuous but instead of having a continuous value, it has value in form of height which are only present at discrete time e.g. (1, 2, 3 ..) But not 1.5, 2.5 which are fractions.
 
-<img src="/images/signals_7 (2).jpg" alt="discrete time signals">
+<img loading="lazy" src="/images/signals_7 (2).jpg" alt="discrete time signals">
 
 ## Deterministic signal and non-deterministic (or random) signal
 
 {{< ste >}}Deterministic signal{{</ ste >}} is a signal that has no uncertainty with respect to its value at any instant of time. This is quite similar to sin since at any instant of time (t) there is corresponding or defined value for the signal $x(t)$.
 
-<img src="/images/signal_3.jpg" alt="Deterministic signals">
+<img loading="lazy" src="/images/signal_3.jpg" alt="Deterministic signals">
 
 {{< ste >}}Non-deterministic signal{{</ ste >}} is referred to as a random signal and it is a signal that has uncertainty with respect to its value at any instant of time. It is defined in probabilistic terms as there is no define value.
 
-<img src="/images/signals_3 (2).jpg" alt="non-deterministic (or random) signals">
+<img loading="lazy" src="/images/signals_3 (2).jpg" alt="non-deterministic (or random) signals">
 
 ## Periodic and non-periodic signal
 
@@ -103,11 +103,11 @@ It is defined by $x(t) = x(t + T)$ where $T$ is the period.
 <p>{{< ste >}}Non-periodic signal{{</ ste >}} is also called aperiodic signal and it is a signal that don’t repeat itself at regular interval of time (t).
 It is defined by $x(t) &ne; x(t + T)$.</p>
 
-<img src="/images/signals_2 (2).jpg" alt="Periodic and non-periodic signals">
+<img loading="lazy" src="/images/signals_2 (2).jpg" alt="Periodic and non-periodic signals">
 
 ## Even and odd signal
 
-<img src="/images/signals_6 (2).jpg" alt="Even and odd signals">
+<img loading="lazy" src="/images/signals_6 (2).jpg" alt="Even and odd signals">
 
 {{< ste >}}Even signal{{</ ste>}} is a signal that is symmetric about the value or y or vertical axis and ii is defined by this condition x(t) = x(-t).
 
@@ -173,4 +173,4 @@ You can read more on what <a class="links-to-article" href="/signals-and-system/
 
 {{< ste >}}Non casual signal{{</ ste >}} has no zero values in both the positive and negative time.
 
-<img src="/images/signals_9.jpg" alt="non-deterministic (or random) signals">
+<img loading="lazy" src="/images/signals_9.jpg" alt="non-deterministic (or random) signals">

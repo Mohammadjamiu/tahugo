@@ -19,12 +19,12 @@ In this post, we would solve a simultaneous equation in a very fast
 and short time step by step using a Casio fx – 991MS as the
 calculator to help us achieve our goal.
 </p>
-<img src="/images/casio_2.jpg" alt="image of a casio fx-991MS" />
+<img loading="lazy" src="/images/casio_2.jpg" alt="image of a casio fx-991MS" />
 <p>
 For example, let’s say our equation is [6x + 2y = 10] and [4x + y =
 4] and we are to solve for the variables x and y.
 </p>
-<img src="/images/vara1a2_5.jpg" alt="variable example" />
+<img loading="lazy" src="/images/vara1a2_5.jpg" alt="variable example" />
 <h2>Step 1 -</h2>
 <p>
 Switch on the calculator and then reset it, this is due to the fact
@@ -41,7 +41,7 @@ Now to reset the calculator, we press
 <span class="text-emphasis">3</span> and lastly we press
 <span class="text-emphasis">equal [ = ]</span> twice.
 </p>
-<img src="/images/reset_2.jpg" alt="how to reset a calculator" />
+<img loading="lazy" src="/images/reset_2.jpg" alt="how to reset a calculator" />
 <h2>Step 2 -</h2>
 <p>
 Press <span class="text-emphasis">mode</span> on the calculator
@@ -51,7 +51,7 @@ is <span class="text-emphasis">1</span> written and that’s the value
 we need to input into the calculator since we are dealing with an
 equation.
 </p>
-<img src="/images/modex3_1.jpg" alt="entering into the equation mode" />
+<img loading="lazy" src="/images/modex3_1.jpg" alt="entering into the equation mode" />
 <h2>Step 3 -</h2>
 <p>
 And after pressing <span class="text-emphasis">1</span>, it will
@@ -61,7 +61,7 @@ is based on two variables, we press he number
 to display <span class="text-emphasis">a1?</span> After pressing the
 number 2 on the keypad.
 </p>
-<img src="/images/unknown_4.jpg" alt="showing the unknown to solve" />
+<img loading="lazy" src="/images/unknown_4.jpg" alt="showing the unknown to solve" />
 <p>
 The a1? Is the constant value beside the variable
 <span class="text-emphasis">x</span> from the first equation which
@@ -73,7 +73,7 @@ So input 6 by pressing the number 6 on the keypad and then press
 the equal <span class="text-emphasis">[=]</span>
 sign.
 </p>
-<img src="/images/vara1a2_4 (2).jpg" alt="input equation value into calculator" />
+<img loading="lazy" src="/images/vara1a2_4 (2).jpg" alt="input equation value into calculator" />
 <p>
 Next, it will display <span class="text-emphasis">b1?</span> Asking
 us to input the value of b1? Which is the value beside the variable
@@ -90,7 +90,7 @@ value of the constant in the right hand side of our first equation
 which is <span class="text-emphasis">10</span> so we input this as
 usual and press equal <span class="text-emphasis">[=]</span> sign.
 </p>
-<img src="/images/vara1a2_3 (1).jpg" alt="inputting the second equation value into the calculator" />
+<img loading="lazy" src="/images/vara1a2_3 (1).jpg" alt="inputting the second equation value into the calculator" />
 <p>
 Now it will ask for <span class="text-emphasis">a2?</span> Which is
 the value of the constant beside the variable
@@ -109,7 +109,7 @@ one is the same and after pressing equal
 pressing equal to, it will populate the value of the variable
 <span class="text-emphasis">x and y</span> as shown below.
 </p>
-<img src="/images/Adobe Scan Aug 31, 2021_1.jpg" alt="solution to our equation, the value of x and y" />
+<img loading="lazy" src="/images/Adobe Scan Aug 31, 2021_1.jpg" alt="solution to our equation, the value of x and y" />
 <p>
 But at first it is the value of the variable
 <span class="text-emphasis">x</span> that is going to be displayed

@@ -34,7 +34,7 @@ but before solving problems on it, let’s discuss briefly on what discrete-time
 
 Discrete time simply means that it exists at whole numbers or digits but not on fraction e.g. 1,2, 3,6 but not 0.5, 3.5.
 
-<img src="/images/dts_4 (1).webp" alt="discrete time signal sketches">
+<img loading="lazy" src="/images/dts_4 (1).webp" alt="discrete time signal sketches">
 
 Time is denoted in discrete time signal as $(n)$ as oppose to continuous time signal $(t)$.
 
@@ -48,7 +48,7 @@ let's look at the example below, as you can see both signals starts from $-2$ to
 
 The same process goes for the rest.
 
-<img src="/images/dts_6 (1).webp" alt="addition of discrete time signal">
+<img loading="lazy" src="/images/dts_6 (1).webp" alt="addition of discrete time signal">
 
 ## Subtraction of discrete time signal
 
@@ -57,13 +57,13 @@ Just as it is done for the addition of DTS, you just subtract either the first s
 Using the $x_{1}(n)$ and $x_{2}(n)$ signal above, in order to subtract $x_{2}(n)$ from $x_{1}(n)$ i.e. $x_{2}(n)$ - $x_{1}(n)$.
 
 So at $-2$, $3 - 1 = 2$;
-<img src="/images/dts_7 (1).webp" alt="subtraction of discrete time signal">
+<img loading="lazy" src="/images/dts_7 (1).webp" alt="subtraction of discrete time signal">
 
 ## Multiplication of discrete time signal
 
 Same as the preceding operations, just multiply the amplitudes together making sure each time interval for both signals are corresponded to each other.
 
-<img src="/images/dts_1 (1).webp" alt="multiplication of discrete time signal">
+<img loading="lazy" src="/images/dts_1 (1).webp" alt="multiplication of discrete time signal">
 
 <blockquote class="blockquote">
    <p class="little-nugget">Note</p>
@@ -75,7 +75,7 @@ Same as the preceding operations, just multiply the amplitudes together making s
 
 Amplitude scaling is done on a single signal or waveform which takes the form $aX(n)$. The $a$ is the scaling factor i.e. if the amplitude is one and the scaling factor a = 2 hence just multiply $1 * 2 = 2$.
 
-<img src="/images/dts_5 (1).webp" alt="amplitude scaling on discrete time signal">
+<img loading="lazy" src="/images/dts_5 (1).webp" alt="amplitude scaling on discrete time signal">
 
 ## Time shifting of discrete time signal
 
@@ -95,9 +95,9 @@ But if you look at the $(n – a)$ and equating to zero, $(n – a = 0) = (n = a
 
 For example
 
-<img src="/images/dts_10 (1).webp" alt="time shifting (forward) of discrete time signal">
+<img loading="lazy" src="/images/dts_10 (1).webp" alt="time shifting (forward) of discrete time signal">
 
-<img src="/images/dts_3 (1).webp" alt="time shifting (backward) of discrete time signal">
+<img loading="lazy" src="/images/dts_3 (1).webp" alt="time shifting (backward) of discrete time signal">
 
 ## Time Scaling of discrete time signal
 
@@ -107,14 +107,14 @@ When a signal is defined as $x(an)$ (as you can see the scaling factor $a$ is af
 
 Remember if you fast forward song 2.0x, it plays very fast but the period it takes in playing is short likewise if you play a song 0.5x, it plays slowly and the time it takes in playing will be much. So the 2.0x is the $a$ in the $x(an)$ while the 0.5x is the $1/a$ in $x(n/a)$ where $a$ is 2 which gives $\frac{1}{2} = 0.5$.
 
-<img src="/images/dts_2 (1).webp" alt="time scaling (compresion) of discrete time signal">
+<img loading="lazy" src="/images/dts_2 (1).webp" alt="time scaling (compresion) of discrete time signal">
 
-<img src="/images/dts_9 (1).webp" alt="time scaling (expansion) of discrete time signal">
+<img loading="lazy" src="/images/dts_9 (1).webp" alt="time scaling (expansion) of discrete time signal">
 
 ## Time reversal of discrete time signals
 
 In time reversal, you just need to flip the signal or waveform about the y axis, denoted as $x(-n)$.
 
-<img src="/images/dts_8 (1).webp" alt="time reversal of discrete time signal">
+<img loading="lazy" src="/images/dts_8 (1).webp" alt="time reversal of discrete time signal">
 
 Recall, as you are reversing the signal, whatever operation you know of will also change i.e. as $(n – a)$ means moving forward, if the n is reversed, $(-n – a)$ means you are moving backward.

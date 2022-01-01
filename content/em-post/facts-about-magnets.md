@@ -35,7 +35,7 @@ Another definition of a magnet is that; it is a piece of material or an object t
 
 2. If two pieces of magnets with the same pole are pulled together, they repel each other but if they are of different poles, they tend to attract each other.
 
-<img src="/images/repelandattract_2.jpg" alt="repulsion and attraction of magnets">
+<img loading="lazy" src="/images/repelandattract_2.jpg" alt="repulsion and attraction of magnets">
 
 3. The space between two magnets or around a magnet is referred to as a field. And since the field is caused by a magnet, it is called a {{< ste >}}magnetic field{{</ ste >}}.
 
@@ -51,18 +51,18 @@ Another definition of a magnet is that; it is a piece of material or an object t
 
 7. If you allow a magnet to cut across a conductor, current will flow through the conductor --- concept of electromagnetism.
 
- <img src="/images/cutacross_2.jpg" alt="conductor cutting across magnet">
+ <img loading="lazy" src="/images/cutacross_2.jpg" alt="conductor cutting across magnet">
 
 8. If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets.
 
- <img src="/images/monopolemagnet_2.jpg" alt="no monopole magnet">
+ <img loading="lazy" src="/images/monopolemagnet_2.jpg" alt="no monopole magnet">
 
 9. If you have a screw driver and it is not capable of picking up screws, you can magnetize the screw driver by scrubbing it on a magnet.
 
- <img src="/images/scrubandfiremagnet_4.jpg" alt="scrubbing a screw driver on a magnet">
+ <img loading="lazy" src="/images/scrubandfiremagnet_4.jpg" alt="scrubbing a screw driver on a magnet">
 
 10. You can kill a magnet and stop it from magnetizing material by burning it with fire.
 
- <img src="/images/scrubandfiremagnet_3.jpg" alt=" burning a magnet kil it forever">
+ <img loading="lazy" src="/images/scrubandfiremagnet_3.jpg" alt=" burning a magnet kil it forever">
 
 Here comes the end to some of the facts that needs to be known about magnets but we believed that there are more so tell us what is it that you know about magnets other than what is been listed out here in this article.

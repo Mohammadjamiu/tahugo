@@ -39,11 +39,11 @@ But silicon is widely used due to fact that the number of shells in the silicon 
 
 So at slight increase in temperature, germanium will become unstable as compared to silicon.
 
-<img src="/images/20element_2.jpg" alt="">
+<img loading="lazy" src="/images/20element_2.jpg" alt="">
 
 Silicon is an element with an atomic number of 14 on the periodic table which made it have 4 valence electrons at the outer-most shell.
 
-<img src="/images/silicon_10.jpg" alt="">
+<img loading="lazy" src="/images/silicon_10.jpg" alt="">
 
 Due to these 4 valence electrons, silicon is said to not be in a stable state because for an atom to be in a stable state, its outer-most shell must be complete (i.e. have 8 valence electrons at its outer-most shell.)
 
@@ -60,17 +60,17 @@ A doped silicon semiconductor is referred to as an extrinsic semiconductor.
 
 When a silicon semiconductor is doped with a pentavalent element or atom (e.g. phosphorus - which has an atomic number of 15 and valence electron of 5), the 4 valence electron of the silicon combines with the 5 valence electrons of phosphorus which results in an extra electron from the phosphorus.
 
-<img src="/images/silicon_11.jpg" alt="">
+<img loading="lazy" src="/images/silicon_11.jpg" alt="">
 
-<img src="/images/silicon_8.jpg" alt="">
+<img loading="lazy" src="/images/silicon_8.jpg" alt="">
 
 As an electron that is considered to be negative is the excess, it is referred to as an n-type semiconductor.
 
 But in the case that a trivalent atom (e.g. boron with an atomic number of 5 and a valence electron of 3 at its outer-most shell) is doped with silicon with a valence electron of 4, this results in an extra hole (or space that the silicon has).
 
-<img src="/images/silicon_9.jpg" alt="">
+<img loading="lazy" src="/images/silicon_9.jpg" alt="">
 
-<img src="/images/silicon_7.jpg" alt="">
+<img loading="lazy" src="/images/silicon_7.jpg" alt="">
 
 But a hole which is considered positive is the excess here, it is referred to as a p-type semiconductor.
 
@@ -93,11 +93,11 @@ This joining of the p-type sheet and the n-type sheet yields a {{< ste >}}PN –
 
 As the sheets are joined together, there is some dispute or interaction between the p-type and n-type semiconductor which results in some of the electrons from the n-type escaping to the p-type side, and holes from the p-type also escape to the n-type side which results in a depletion region been formed.
 
-<img src="/images/solarcell_12.jpg" alt="">
+<img loading="lazy" src="/images/solarcell_12.jpg" alt="">
 
 The depletion region or layer is the driving force that causes electrons (from the n side) to move to the holes (at the p side) as photons or energy from the sunlight strikes the sheets or cells.
 
-<img src="/images/solarcell_13.jpg" alt="">
+<img loading="lazy" src="/images/solarcell_13.jpg" alt="">
 
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
@@ -117,11 +117,11 @@ Also, these electrons and holes that align themselves to the ends of the depleti
 The n-type sheet is heavily doped hence, it is a light sheet and has a small depletion region why the p-type is lightly doped hence, has a larger depletion region.</blockquote>
 <br>
 
-<img src="/images/solarcell_14.jpg" alt="">
+<img loading="lazy" src="/images/solarcell_14.jpg" alt="">
 
 The reason why the n-type side is heavily doped and is made to have a small depletion region is that an electron is what current or electricity constitutes and the sunlight energy needs to penetrate through the n-type side, down to the depletion region in order to split up the electrons and holes that stick themselves together to form a depletion region.
 
-<img src="/images/solarcell_18.jpg" alt="">
+<img loading="lazy" src="/images/solarcell_18.jpg" alt="">
 
 But as soon as the energy source is no longer striking the solar cell, everything goes back to its initial position thereby forming a depletion layer again hence no current flow.
 

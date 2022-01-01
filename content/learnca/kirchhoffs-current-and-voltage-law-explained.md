@@ -16,7 +16,7 @@ draft: false
 
 Before diving into what the Kirchhoff’s law is, can you solve this circuit using ohm's law to find all the currents flowing in each branch of the circuit.
 
-<img src="/images/kcanusolve.jpg" alt="kirchhoff's law example problem">
+<img loading="lazy" src="/images/kcanusolve.jpg" alt="kirchhoff's law example problem">
 
 I probably know it will be frustrating to solve this circuit using ohm's law because there are more than one connection of resistors and also more than one loop which means ohm's law won’t be a perfect technique to use
 
@@ -32,7 +32,7 @@ Kirchhoff’s current law states that the algebraic sum of currents at a node is
 
 In other words, the total amount of current entering a node is equal to the total amount of current leaving the node.
 
-<img src="/images/kcljunction.jpg" alt="kcl junction rule">
+<img loading="lazy" src="/images/kcljunction.jpg" alt="kcl junction rule">
 
 And if we algebraically sum the current entering (which is considered positive) and the current leaving (which is considered negative) as shown above, we get zero as the equivalent result.
 
@@ -49,7 +49,7 @@ Kirchhoff's Current Law is applied at nodes or junction point.
 {{< ste >}}Node{{</ ste >}} - A node is a junction where two or more network elements are connected together. </p>
 </blockquote>
 
-<img src="/images/kclnode.jpg" alt="kirchhoff's current law kcL node">
+<img loading="lazy" src="/images/kclnode.jpg" alt="kirchhoff's current law kcL node">
 
 ## What is Kirchhoff’s voltage law or KVL
 
@@ -57,9 +57,9 @@ Kirchhoff’s voltage law states that the algebraic sum of all the voltages in a
 
 In other words, if we start to move round any closed path or loop, the total sum of all the voltages across each element in the circuit is zero.
 
-<img src="/images/kvlloop.jpg" alt="KVL loop rule">
+<img loading="lazy" src="/images/kvlloop.jpg" alt="KVL loop rule">
 
-<img src="/images/kvlloopeqn.jpg" alt="KVL loop equation">
+<img loading="lazy" src="/images/kvlloopeqn.jpg" alt="KVL loop equation">
 
 <blockquote class="blockquote">
 <p class="little-nugget">Remember</p>
@@ -77,7 +77,7 @@ Kirchhoff's Voltage Law is applied around a closed loop hence, it deals with bra
 {{< ste >}}Loop{{</ ste >}} -  A loop is any closed part of the circuit.</p>
 </blockquote>
 
-<img src="/images/loopandbranch.jpg" alt="kirchhoff's voltage law">
+<img loading="lazy" src="/images/loopandbranch.jpg" alt="kirchhoff's voltage law">
 
 ## How to solve circuit problems using kirchhoff's law
 
@@ -86,7 +86,7 @@ Let’s solve some example to see how this laws are implemented.
 {{< ste >}}Example 1.{{</ ste >}}
 <br>
 
-<img src="/images/kexone.jpg" alt="kirchhoff's example problem with one loop">
+<img loading="lazy" src="/images/kexone.jpg" alt="kirchhoff's example problem with one loop">
 
 <p>The question asks us to use Kirchhoff’s law to find the current flowing in the loop as well as the voltage drops across each resistor, 1&#8486, 3&#8486 and 2&#8486.</p>
 
@@ -99,7 +99,7 @@ Check how many loop is present. Because this is one of the mistakes students mak
 
 After finding how many loop is present then, the current you are to find will be based on the number of the loops.
 
-<img src="/images/kexloopone.jpg" alt=" how many loop">
+<img loading="lazy" src="/images/kexloopone.jpg" alt=" how many loop">
 
 i.e. if there is one loop as in the case of our circuit problem, we just need to define one current. Which means if there are more loops let say two loops, then we need to define two currents.
 
@@ -118,7 +118,7 @@ If you don’t know how, I will guide you through but still I recommend you to r
 
 <p>To distribute the voltage-sign across, we need to follow the direction of current in the circuit. since current is flowing from the positive side of the battery, it first sees the resistor R<sub>1&#8486</sub> and mark it input as positive, and after flowing through the resistor R<sub>1&#8486</sub> it marked negative at the outside or other end since energy is reduced or is consumed by R<sub>1&#8486</sub>.</p>
 
-<img src="/images/signexone.jpg" alt="kirchhoff sign distribution">
+<img loading="lazy" src="/images/signexone.jpg" alt="kirchhoff sign distribution">
 
 <p>The next resistor R<sub>3&#8486</sub> sees a current coming out of R<sub>1&#8486</sub> but since this is the first time R<sub>3&#8486</sub> will be seeing the current, it marked its input as positive and as it flows through the R<sub>3&#8486</sub>, energy is reduced again and the end part is marked as negative and the same goes for the last resistor R<sub>2&#8486</sub>.</p>
 
@@ -152,7 +152,7 @@ When looping through, whatever sign you encounter first is what write you down t
 
 The loop equation is shown below and it consist of all the voltages in the loop including the energy source or battery since it is supplying the circuit an energy.
 
-<img src="/images/exomeloopeqn.jpg" alt="">
+<img loading="lazy" src="/images/exomeloopeqn.jpg" alt="">
 
 <p>-12 + V<sub>1&#8486</sub> + V<sub>3&#8486</sub> + V<sub>2&#8486</sub> = 0</p>
 
@@ -162,7 +162,7 @@ Now we need to move -12 to the other side to make it positive.
 
 But V = IR and we only know what the resistance are and the current which we are looking for is the unknown.
 
-<img src="/images/solnexone.jpg" alt="">
+<img loading="lazy" src="/images/solnexone.jpg" alt="">
 
 <p>So, I x (1&#8486) + I x (3&#8486) + I x (2&#8486) = 12 …. (2) or rewritten as 1I + 3I + 2I.</p>
 

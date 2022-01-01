@@ -19,7 +19,7 @@ draft: false
 NB: This post contains an affliate link - which means TA might get a
 commission as you subscribe but, at no extra cost to you.
 </p>
-<img src="/images/how-to-write-better.jpg" alt="11 simple ways student can improve their writing skill and become a better writer">
+<img loading="lazy" src="/images/how-to-write-better.jpg" alt="11 simple ways student can improve their writing skill and become a better writer">
 
 Being a student that loves to write and help others learn abstractive stuffs, I have been struggling a lot to improve my writing skill because it pays off a lot while in school and even out of school.
 

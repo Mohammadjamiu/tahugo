@@ -30,9 +30,9 @@ is called <span class="text-italics">shared network</span> i.e when you connect 
 device to a central point, someone using a computer can send stuff
 to another, or to a printer and so on.
 </p>
-<img src="/images/framework1_7.jpg" alt="">
+<img loading="lazy" src="/images/framework1_7.jpg" alt="">
 <p>The framework is as simple as the sketch below.</p>
-<img src="/images/framework1_10.jpg" alt="">
+<img loading="lazy" src="/images/framework1_10.jpg" alt="">
 <p>
 At first, we got <span class="text-emphasis">a cloud</span> which can be thought of as our internet
 which we are provided access to through our ISP (Internet Service
@@ -47,7 +47,7 @@ this modem does is, it takes signal either from the internet or from
 our devices and make necessary conversion called modulation and
 demodulation respectively, and thats where the word
 <span>MO</span> and <span>DEM</span> comes from.</p>
-<img src="/images/framework1_9.jpg" alt="">
+<img loading="lazy" src="/images/framework1_9.jpg" alt="">
 <p>
 The next device is a <span class="text-emphasis">router</span>, and it is also a term that we are
 familiar with. What it does is, if you can remember, we say we can
@@ -72,12 +72,12 @@ which our devices are connected to, also allows our mobile phone to
 be connected to it through Wi-fi which means it is integrated into
 this devices.
 </p>
-<img src="/images/framework1_8.jpg" alt="">
+<img loading="lazy" src="/images/framework1_8.jpg" alt="">
 <p>
 The wire used to make this connections are called the <span class="text-emphasis">Ethernet
 cables</span>, also called cat 5 or cat 6 (i.e category 5 or 6).
 </p>
-<img src="/images/framework1_6.jpg" alt="">
+<img loading="lazy" src="/images/framework1_6.jpg" alt="">
 <p>
 Lastly, this network connection is called LAN (Local Area Network) because
 it is a connection made for small offices or homes or even a big

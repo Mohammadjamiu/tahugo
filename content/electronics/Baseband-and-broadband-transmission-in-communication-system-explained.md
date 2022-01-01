@@ -20,13 +20,13 @@ draft: false
 
 Baseband transmission refers to transmission in which a digital signal is sent over a channel without changing or converting the digital signal to an analog signal.
 
-<img src="/images/basebandxmission_1.jpg" alt="baseband transmission">
+<img loading="lazy" src="/images/basebandxmission_1.jpg" alt="baseband transmission">
 
 ## Broadband transmission
 
 Broadband transmission sometimes referred to as modulation means changing or converting a digital signal to analog signal for transmission.
 
-<img src="/images/basebandxmission_2.jpg" alt="broadband transmission">
+<img loading="lazy" src="/images/basebandxmission_2.jpg" alt="broadband transmission">
 
 <blockquote class="blockquote">
    <p class="little-nugget">Note</p>

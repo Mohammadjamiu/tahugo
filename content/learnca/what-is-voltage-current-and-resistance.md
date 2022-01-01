@@ -66,7 +66,7 @@ a close loop that allows the flow of electricity. if the loop is not
 closed but composed of electrical or electronics components, we call
 it an <span class="text-italics">electrical network</span>.
 </p>
-<img src="/images/closelool-openloop_1.jpg" alt="" />
+<img loading="lazy" src="/images/closelool-openloop_1.jpg" alt="" />
 <p>
 Now let’s dive in and talk about the concept of voltage, current and
 resistance which if the understanding is not clear might make us not
@@ -93,7 +93,7 @@ of negative ion (electrons), which means it's in a balance state.
 called <span class="text-italics">voltage</span> to push the
 electrons inside the wire and as soon as electron flows or moves, we
 get current.</p>
-<img src="/images/electron-wire_1.jpg" alt="" />
+<img loading="lazy" src="/images/electron-wire_1.jpg" alt="" />
 <p>
 Since electron is the negative ion which means if we connect a
 battery to a device like a torch, current flows from the negative
@@ -102,14 +102,14 @@ analyzing circuits for ease, instead of moving backward or from
 negative to positive, it is adopted that current flows from positive
 to negative, you need to get this right.
 </p>
-<img src="/images/current-denote_1.jpg" alt="" />
+<img loading="lazy" src="/images/current-denote_1.jpg" alt="" />
 <p>
 The flow of this current is quantified using the unit ampere or amps
 for short and denoted as A. sometimes this unit are based on
 metrics, meaning we do have mA (milliAmps), uA (microAmps) and so
 on. The higher the amps the higher the current and vice versa.
 </p>
-<img src="/images/metriccurrent_2.jpg" alt="" />
+<img loading="lazy" src="/images/metriccurrent_2.jpg" alt="" />
 <blockquote class="blockquote">
 <p class="little-nugget">Small nugget</p>
 <p class="quote-text">
@@ -135,7 +135,7 @@ A voltage is a source of energy and can be our battery or socket
 outlet from our home. Voltage has unit just as current which is volt
 with a symbol V and also can have metric unit as mV,uV etc.
 </p>
-<img src="/images/unitvolt_4.jpg" alt="" />
+<img loading="lazy" src="/images/unitvolt_4.jpg" alt="" />
 <p>
 With the explanation that we've made so far, the resistance is what
 is left now.
@@ -164,7 +164,7 @@ diameter which allows much air flow and can even require less force.
 This concept of large and small diameter is the concept about
 resistance.
 </p>
-<img src="/images/resisitance_1.jpg" alt="" />
+<img loading="lazy" src="/images/resisitance_1.jpg" alt="" />
 
 <blockquote class="blockquote">
 <p class="little-nugget">Another nugget</p>
@@ -179,7 +179,7 @@ unit ohms and symbol is a greek like letter as shown below and also
 can have metric units as mOhms(milliOhms), uOhm(microOhms),
 Mohms(megaOhms) etc.
 </p>
-<img src="/images/unitohms_1.jpg" alt="" />
+<img loading="lazy" src="/images/unitohms_1.jpg" alt="" />
 <p>
 Since we’ve discussed about current, what’s holding us not to talk
 about direct current (d.c) and alternating current (a.c) – which is
@@ -208,7 +208,7 @@ moves back and forth 50 times in one second (also called frequency)
 and in other countries like U.S they have 60hz and their symbol is
 shown below
 </p>
-<img src="/images/dcac_2.jpg" alt="" />
+<img loading="lazy" src="/images/dcac_2.jpg" alt="" />
 <p>
 This would probably be the end of this section so let’s move to the
 next and have different discussion.

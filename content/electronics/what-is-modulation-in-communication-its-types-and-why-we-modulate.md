@@ -41,8 +41,8 @@ That’s why we modulate so as to use a frequency that is greater than the frequ
 
 1. {{< ste >}}To reduce the height of an antenna{{</ ste >}}
 
-   Most baseband signal which is in the low frequency is transmitted through or radiated into the space by using an antenna. 
-   
+   Most baseband signal which is in the low frequency is transmitted through or radiated into the space by using an antenna.
+
    But you might be wondering is there an antenna in my phone since information can only be transmitted using an antenna? Yes there is, but it is called a micro-strip antenna because it has small size and there are a lot more antennas shapes and size. Also some that we can find on the police phone, has a helix antenna.
 
    <blockquote class="blockquote">
@@ -148,7 +148,7 @@ In the continuous wave modulation, sinusoidal wave or sine wave is the carrier f
 
 The amplitude modulation AM simply means the amplitude of the carrier wave is varied in accordance to the value of the baseband signal while keeping other parameter like frequency or phase constant.
 
-<img src="/images/modulation_3.jpg" alt="Amplitude modulation">
+<img loading="lazy" src="/images/modulation_3.jpg" alt="Amplitude modulation">
 
 {{< ste >}}Angle Modulation{{</ ste >}}
 <br>
@@ -157,7 +157,7 @@ Angle modulation is further subdivided into frequency modulation FM and phase mo
 
 In {{< ste >}}Frequency Modulation{{</ ste >}}, the frequency of the carrier is varied in accordance to the frequency of the baseband signal while keeping it amplitude and phase constant.
 
-<img src="/images/modulation_4.jpg" alt="Frequency modulation">
+<img loading="lazy" src="/images/modulation_4.jpg" alt="Frequency modulation">
 
 Also, In {{< ste >}} Phase Modulation {{</ ste >}} the phase of the carrier is varied in accordance to the phase of the baseband signal while keeping the amplitude and frequency constant.
 

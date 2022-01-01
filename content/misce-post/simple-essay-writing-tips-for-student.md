@@ -19,7 +19,7 @@ NB: This post contains an affliate link - which means TA might get a
 commission as you subscribe but, at no extra cost to you.
 </p>
 
-<img src="/images/studentessay.jpg" alt="Simple essay writing tips to help students write better essays and have good grades">
+<img loading="lazy" src="/images/studentessay.jpg" alt="Simple essay writing tips to help students write better essays and have good grades">
 
 Sometimes, writing an essay can be really intimidating due to lot of researches to be done and most likely at the end of writing the essay, it might even result in a bad grade which makes student sad or unhappy.
 
@@ -93,7 +93,7 @@ After writing a good introduction, the body section is the next important part o
 
 It mostly has about 2 – 3 paragraphs and can be merged with the introduction part.
 
-<img src="/images/essaywriting.jpg" alt="Simple essay writing tips or guides">
+<img loading="lazy" src="/images/essaywriting.jpg" alt="Simple essay writing tips or guides">
 
 ## Write a good conclusion
 

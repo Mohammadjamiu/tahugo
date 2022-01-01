@@ -14,7 +14,7 @@ mathjax: true
 draft: false
 ---
 
-<img src="/images/fiber.webp" alt="fiber optics">
+<img src="/images/fiber.webp" alt="fiber optics" loading="lazy">
 
 {{< ste >}}In fiber optics communication{{</ ste >}}, a fiber which is a dielectric material (plastic or glass) is used as a channel or link to guide or transmit light waves over a short or long distance.
 

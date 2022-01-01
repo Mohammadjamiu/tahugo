@@ -44,7 +44,7 @@ this section I will give you a visual tip to never forget this so let’s start.
 The way delta and star are connected is illustrated below with a comparison with that of series and
 parallel connection of resistors.
 </p>
-<img src="/images/deltastarillustration.jpg" alt="Star - Delta Transformation Explained With Tips On How To Recall The Formulas">
+<img loading="lazy" src="/images/deltastarillustration.jpg" alt="Star - Delta Transformation Explained With Tips On How To Recall The Formulas">
 <p>
 The <span class="text-emphasis">delta</span> can be structured in two ways as having a triangle
 shape or pie shape while the <span class="text-emphasis">star</span> has a
@@ -60,14 +60,14 @@ The star is sometimes referred to as wye while delta is referred to as pi.</p>
 While we will be solving circuits, sometimes we would encounter resistors connected in a form that’s
 not easier to work with except that we transform it to another form and then solve, so that’s why we
 perform this conversion. </p>
-<img src="/images/dtoyxform.jpg" alt="how to convert from delta to star or wye">
+<img loading="lazy" src="/images/dtoyxform.jpg" alt="how to convert from delta to star or wye">
 
 <p>
 So to convert delta to star, it is done as follows, though the formula is stated as -
 
 </p>
 <h2>The formula for delta to star conversion</h2>
-<img src="/images/formuladtoy.jpg" alt="formula to convert from delta to star">
+<img loading="lazy" src="/images/formuladtoy.jpg" alt="formula to convert from delta to star">
 <h2>How to remember the formula for delta to star conversion</h2>
 <p>
 So let’s recall this formula by starting with R<sub>1</sub>. </p>
@@ -78,7 +78,7 @@ from the delta network,
 connected or tied to it. So in that case, we say that there are 2 legs affecting R<sub>1</sub> which
 are R<sub>a</sub> and
 R<sub>b</sub>.</p>
-<img src="/images/recalr1.jpg" alt="how to recall the formula for r1">
+<img loading="lazy" src="/images/recalr1.jpg" alt="how to recall the formula for r1">
 <p>
 Then, since the delta is our source of conversion and also are connected in series (remember in
 series connected resistors, the values are added and the same current flows through them) therefore,
@@ -95,17 +95,17 @@ R<sub>2</sub> = (R<sub>a</sub>R<sub>c</sub>) / (R<sub>a</sub> + R<sub>b</sub> + 
 and for R<sub>3</sub> what will it be by doing it yourself without looking at the answer.
 
 </p>
-<img src="/images/rarcforr2.jpg" alt="how to recall the formula r2">
+<img loading="lazy" src="/images/rarcforr2.jpg" alt="how to recall the formula r2">
 <p>If you got the answer
 right, that’s good and in essence you can see, it's only the leg tied to our resistor in focus that
 matters since the bottom part (R<sub>a</sub> + R<sub>b</sub> + R<sub>c</sub>) is same for
 R<sub>1</sub>, R<sub>2</sub> and R<sub>3</sub>.</p>
-<img src="/images/rbrcforr3.jpg" alt="how to recall the formula for r3">
+<img loading="lazy" src="/images/rbrcforr3.jpg" alt="how to recall the formula for r3">
 <h2>The transformation or conversion from star to delta</h2>
 <p>
 Firstly, in this transformation, we are to find R<sub>a</sub>, R<sub>b</sub> and R<sub>c</sub> as
 oppose to the last section where we are to find R<sub>1</sub>, R<sub>2</sub> and R<sub>3</sub>. </p>
-<img src="/images/startoy.jpg" alt="how to convert from star to delta">
+<img loading="lazy" src="/images/startoy.jpg" alt="how to convert from star to delta">
 <p class="has-list">
 
 The formula is stated as
@@ -119,7 +119,7 @@ R<sub>3</sub>R<sub>1</sub>) / R<sub>1</sub>
 
 </p>
 <h2>The formula for star to delta conversion</h2>
-<img src="/images/formulaytod.jpg" alt="The formula for star to delta conversion">
+<img loading="lazy" src="/images/formulaytod.jpg" alt="The formula for star to delta conversion">
 <h2>How to remember the formula for star to delta conversion</h2>
 <p>
 Now let’s recall the formula using our tip. First of all, you can see that R<sub>a</sub> is affected
@@ -127,7 +127,7 @@ by R<sub>1</sub> and R<sub>2</sub>. And this R<sub>1</sub> and R<sub>2</sub> are
 middle point to each other with R<sub>3</sub> so in that case we can’t just apply same rule as the
 previous one we did for converting from delta to star.
 </p>
-<img src="/images/complexnode.jpg" alt="complex node for star and delta">
+<img loading="lazy" src="/images/complexnode.jpg" alt="complex node for star and delta">
 
 <p>
 But what we need to do is, since R<sub>1</sub> and R<sub>2</sub> are tied to R<sub>a</sub> and also
@@ -135,7 +135,7 @@ R<sub>1</sub> and R<sub>2</sub> are connected at a node with R<sub>3</sub> then 
 R<sub>1</sub>R<sub>2</sub> and then add R<sub>2</sub>R<sub>3</sub> and lastly add
 R<sub>3</sub>R<sub>1</sub> which yields this.
 </p>
-<img src="/images/ravalue.jpg" alt="the value for ra">
+<img loading="lazy" src="/images/ravalue.jpg" alt="the value for ra">
 
 <p>
 This step might look confusing a little bit but just go through it once more until you get the heck
@@ -165,22 +165,22 @@ opposite to the resistor we are looking for. And in this case R<sub>b</sub> and 
 
 <p>Now it’s your turn to do R<sub>c</sub> and later check your answer.</p>
 <button class="see-answer">See answer &darr;</button>
-<img class="hide-show-image" src="/images/rcvalue.jpg" alt="the value for rc">
+<img loading="lazy" class="hide-show-image" src="/images/rcvalue.jpg" alt="the value for rc">
 
 <p>Finally, let's try to recap all what we've just discussed by solving some examples.</p>
 <h2>Example on delta to star conversion</h2>
 <p><span class="text-emphasis">Ex.1</span> convert the delta network below to it star equivalent.</p>
-<img src="/images/ex1and2_1.jpg" alt="Example on delta to star conversion">
+<img loading="lazy" src="/images/ex1and2_1.jpg" alt="Example on delta to star conversion">
 <p>Firstly, we need to put the star network into the delta network and apply the corresponding formula
 
-<img src="/images/ex1and2_2.jpg" alt="solution on delta to star conversion"></p>
+<img loading="lazy" src="/images/ex1and2_2.jpg" alt="solution on delta to star conversion"></p>
 
 <h2>Example on star to delta conversion</h2>
 <p><span class="text-emphasis">Ex.2</span>  let’s convert the star network gotten from Ex.1 back to the delta equivalent.</p>
-<img src="/images/ex1and2_3.jpg" alt="Example on star to delta conversion">
+<img loading="lazy" src="/images/ex1and2_3.jpg" alt="Example on star to delta conversion">
 <p>As always, we need to put the star network into the delta network and apply the corresponding formula
 </p>
-<img src="/images/ex1more_2 (1).jpg" alt="solution on star to delta conversion">
+<img loading="lazy" src="/images/ex1more_2 (1).jpg" alt="solution on star to delta conversion">
 <p>Here comes the end on this section and now it's your turn to tell us if this article does help or there is any
 feedback you need to give. Cheers tooabstracter. :tada: </p>
 </div>

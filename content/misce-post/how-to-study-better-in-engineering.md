@@ -14,7 +14,7 @@ wordcount: false
 draft: false
 ---
 
-<img src="/images/how-to-study-smart.jpg" alt="How to study smart in engineering and have better grades without over stressing.">
+<img loading="lazy" src="/images/how-to-study-smart.jpg" alt="How to study smart in engineering and have better grades without over stressing.">
 
 Over the years of been an engineering student, I have met some good medical and engineering students.
 

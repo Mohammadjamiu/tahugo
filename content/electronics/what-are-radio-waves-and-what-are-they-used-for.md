@@ -13,7 +13,7 @@ wordcount: false
 draft: false
 ---
 
-<img src="/images/radio.jpg" alt="What are radio waves? What are radio waves used for? All you need to know">
+<img loading="lazy" src="/images/radio.jpg" alt="What are radio waves? What are radio waves used for? All you need to know">
 
 The major reason why we can communicate wirelessly is through the adventure of radio waves.
 

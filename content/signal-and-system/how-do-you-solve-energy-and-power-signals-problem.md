@@ -53,7 +53,7 @@ For example
 
 $x(t) = 4\sin(wt)$ is a power signal as the amplitude is constant and it is equal to (4).
 
-<img src="/images/signals_8 (2).jpg" alt="Continuous time signals">
+<img loading="lazy" src="/images/signals_8 (2).jpg" alt="Continuous time signals">
 
 <blockquote class="blockquote">
    <p class="little-nugget">Note</p>
@@ -86,7 +86,7 @@ $x(t)$ = $e^{-at}$, E = 0; and P = 0;
 
 First here is a table below that tells if a signal is a power or an energy signal.
 
-<img src="/images/powertable_3.jpg" alt="a power or an energy signal table">
+<img loading="lazy" src="/images/powertable_3.jpg" alt="a power or an energy signal table">
 
 As you can see when a signal is an energy signal, it will have a finite energy and a zero average power. But when the signal is a power signal, it will have a finite power but an infinite energy.
 

@@ -14,7 +14,7 @@ wordcount: false
 draft: false
 ---
 
-<img src="/images/learnelectronics.jpg" alt="how to learn electronics from scratch or on your own">
+<img loading="lazy" src="/images/learnelectronics.jpg" alt="how to learn electronics from scratch or on your own">
 
 Learning electronics can be fun sometimes but for other times can be really frustrating.
 So having good resources around can help reduce those frustration and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets.

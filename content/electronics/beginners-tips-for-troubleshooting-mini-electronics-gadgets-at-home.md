@@ -13,7 +13,7 @@ draft: false
 wordcount: false
 ---
 
-<img src="/images/electronicrepair.jpg" style="width: 55%" alt="credit to unsplash">
+<img loading="lazy" src="/images/electronicrepair.jpg" style="width: 55%" alt="credit to unsplash">
 
 Are you a nerd or electronics hobbyist that have some mini electronics gadget laying around. why not jump start and repair few of them using some of the tips I have found useful while troubleshooting or repairing my own gadgets.
 

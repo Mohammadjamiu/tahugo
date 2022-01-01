@@ -23,7 +23,7 @@ A diode is an electronic component that has two terminals positive (+ve) and neg
 
 The basic use of a diode is primarily to allow current flow through the positive terminal of the diode and deny the flow of current through the negative terminal which can be seen from the sketch below.
 
-<img src="/images/diodey_2.jpg" alt="a diode or pn junction diode">
+<img loading="lazy" src="/images/diodey_2.jpg" alt="a diode or pn junction diode">
 
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
@@ -37,7 +37,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 </blockquote>
 <br>
 
-<img src="/images/diodebias.jpg" alt="forward and reverse biasing of a diode">
+<img loading="lazy" src="/images/diodebias.jpg" alt="forward and reverse biasing of a diode">
 
 ## Types of diode and their uses
 
@@ -46,7 +46,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 1.  {{< ste >}} Normal diode or PN junction diode {{< /ste >}} -
     is the simplest form of diode that we have. It has a forward voltage (V<sub>f</sub>) of about 0.6v – 0.7v.
 
-    <img src="/images/diodecurve.jpg" alt="curve showing the forward voltage of a diode">
+    <img loading="lazy" src="/images/diodecurve.jpg" alt="curve showing the forward voltage of a diode">
 
     The forward voltage simply means that before the diode will allow current to flow through it, there must be a voltage source greater than 0.7v across it terminals.
 
@@ -60,13 +60,13 @@ The basic use of a diode is primarily to allow current flow through the positive
 
     Looking at the simple circuit shown below, we can understand better the use case of a diode.
 
-    <img src="/images/ledcircuit.jpg" alt="example showing how to use a diode">
+    <img loading="lazy" src="/images/ledcircuit.jpg" alt="example showing how to use a diode">
 
     This circuit is a simple emergency light that can be used at home. It consists of a battery, some bulbs and the input source for charging the battery.
 
     If there is no diode present, the energy from the battery source will also reflect back in the input side which certainly will turn on the indicator bulb even if no input source connected.
 
-    <img src="/images/ledcktnodiode.jpg" alt="another example showing no diode in the circuit">
+    <img loading="lazy" src="/images/ledcktnodiode.jpg" alt="another example showing no diode in the circuit">
 
     But by putting a diode in between the input source and the battery, the energy from the battery will only go to the bulbs which is what we want.
 
@@ -76,7 +76,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 
     So using a diode with a 0.7v forward voltage tend to reduce the input voltage from 5v to 4.3v and adding more diodes can even reduce the input voltage down to approximately 3.7v.
 
-    <img src="/images/addupdiodes.jpg" alt="adding uo diodes to reduce voltages">
+    <img loading="lazy" src="/images/addupdiodes.jpg" alt="adding uo diodes to reduce voltages">
 
       <blockquote class="blockquote">
     <p class="little-nugget">Use of a diode</p>
@@ -97,7 +97,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 2.  {{< ste >}} Light emitting diodes or L.E.D for short {{</ ste >}} -
     is a type of diode where by allows current to flow through one direction (from +ve to –ve).
 
-    <img src="/images/ledy_2.jpg" alt="an LED and how it looks">
+    <img loading="lazy" src="/images/ledy_2.jpg" alt="an LED and how it looks">
 
     And as current flows through it, the energy is converted to light.
 
@@ -117,7 +117,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 
 3.  {{< ste >}} Schottky diode {{</ ste >}} - is another type of diode similar to the normal diode but has a forward voltage (V<sub>f</sub>) less than 0.5v which is why this type of diode is used when designing circuit like voltage regulator and boost converter because we need a less amount of voltage loss.
 
-    <img src="/images/schottky.jpg" alt="image of a schottky diode">
+    <img loading="lazy" src="/images/schottky.jpg" alt="image of a schottky diode">
     Schottky diode has a shape also similar to the normal diode but instead of a straight bar in the normal diode, we replace it with a shape similar to S for Schottky
 
 4.  {{< ste >}} Zener diode{{</ ste >}} -  
@@ -125,7 +125,7 @@ The basic use of a diode is primarily to allow current flow through the positive
 
     In a circuit whereby we need only 12v but then the only voltage we can get is 19v which means we can use a Zener diode rated at 12v combine with a resistor which will consume the excess 7v (i.e 19 -12) here is a simple diagram for that.
 
-    <img src="/images/zenerdiode.jpg" alt="zener diode for regulation and normal diode">
+    <img loading="lazy" src="/images/zenerdiode.jpg" alt="zener diode for regulation and normal diode">
 
     As you can see from the diagram, a Zener diode also has a shape similar to the normal diode but instead of the straight bar, it is replaced with a z-like shape.
 

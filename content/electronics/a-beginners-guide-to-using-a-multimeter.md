@@ -31,21 +31,21 @@ And I would recommend DT830L or higher version because this is what I started wi
 
 Inside the case of a DT830L or similar version, you will find the multimeter itself, a cover case, connecting leads and a battery.
 
-<img src="/images/mmeter.jpg" alt="inside a multimeter">
+<img loading="lazy" src="/images/mmeter.jpg" alt="inside a multimeter">
 
 ## steps to go
 
 1. Before you can start using the multimeter, you will need to insert the battery and to do that, you need a screw driver to open the back case gently.
 
-   <img src="/images/lookingbackscrew_1.jpg" alt="back of a multimeter">
+   <img loading="lazy" src="/images/lookingbackscrew_1.jpg" alt="back of a multimeter">
 
    After then you will have to connect the battery with the terminal clip and then fix it back and close the case.
 
-   <img src="/images/insertingbattery_1.jpg" alt="inserting a battery">
+   <img loading="lazy" src="/images/insertingbattery_1.jpg" alt="inserting a battery">
 
 2. Test if the connection is done right by turning the knob to another point order than the {{< ste >}}off{{</ ste >}} position.
 
-<img src="/images/holdermeter.jpg" alt="testing a multimeter">
+<img loading="lazy" src="/images/holdermeter.jpg" alt="testing a multimeter">
 
 3. You need to put the multimeter into it cover case. And also you need to put the connecting leads into their respective port.
 
@@ -75,19 +75,17 @@ Inside the case of a DT830L or similar version, you will find the multimeter its
     </p>
     </blockquote>
     <br>
-    <img src="/images/holdermeter.jpg" alt=" pressing the hold button">
+    <img loading="lazy" src="/images/holdermeter.jpg" alt=" pressing the hold button">
 
 ## What you can use a multimeter for
 
 At this stage, you need to know some little thing about a multimeter by looking at the sketch below.
 
-<img src="/images/sketchmmeter_1.jpg" alt="sketch of a multimeter knob">
-
+<img loading="lazy" src="/images/sketchmmeter_1.jpg" alt="sketch of a multimeter knob">
 
 {{< ste >}}In order to measure d.c (direct current) voltage{{</ ste >}}, like the voltage of a battery, you need to switch it to the d.c voltage side and choose the corresponding value or value greater than the voltage you are about to measure.
 
 For example if you are interested in measuring 25V, since there is no 25V written on the d.c part, but only 20V, just shift the knob to 200V.
-
 
 {{< ste >}}In order to measure an a.c (or alternating current) voltage{{</ ste >}}, just switch to the a.c side and as always make sure to turn it to the range of value greater than what you are about to measure.
 
@@ -97,10 +95,9 @@ You need to turn the knob to the ohm’s side and choose a value greater than or
 
 <p>For example, to measure a 10K&#8486 resistor, you need to teurn the knob to 200K&#8486 since there is no any value greater than 10K&#8486.</p>
 
-But what if you don't know the value of the resistor, switch the knob to the lowest value first and test and if it doesn't display any reading, it means that the resistor value is grater than the position you place your knob. 
+But what if you don't know the value of the resistor, switch the knob to the lowest value first and test and if it doesn't display any reading, it means that the resistor value is grater than the position you place your knob.
 
 So all you need to do is to just keep turning the knob until you get a value.
-
 
 <blockquote class="blockquote">
     <p class="little-nugget">Note</p>
@@ -113,14 +110,13 @@ Another thing which is the most important aspect of why I love to use a multimet
 
 It is called the continuity tester, when you shift the knob to that part, you can test if a wire or conductor is broken.
 
-<img src="/images/ctestdiode_2.jpg" alt="">
+<img loading="lazy" src="/images/ctestdiode_2.jpg" alt="">
 
 If it is broken, it will make no sound but if the wire is okay, it will make some buzzing noise.
 
 You can just do a fast test by shifting the knob to the continuity tester and then join the two connecting lead terminals and see if it makes a sound.
 
 Lastly, the other part that is closed to the Wi-Fi like shape is called {{< ste >}} hFE or transistor tester{{</ ste >}} but I won’t go on to explaining how to use it because I just want you to start using the multimeter for some basic troubleshooting.
-
 
 ## some few FAQs
 

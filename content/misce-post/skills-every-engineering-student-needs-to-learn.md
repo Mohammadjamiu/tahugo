@@ -19,7 +19,7 @@ draft: false
 NB: This post contains some affliate links - which means TA might get a
 commission as you subscribe but, at no extra cost to you.
 </p>
-<img src="/images/payoff_2.jpg" alt="">
+<img loading="lazy" src="/images/payoff_2.jpg" alt="">
 <div class="content">
 <p>
 This post is among the series of post tagged “4 years of college shouldn’t be a waste of time” where
@@ -122,14 +122,14 @@ style it.</p>
 
 <p>For example, part of the structure of the front page of 
 tooabstractive is this</p>
-<img src="/images/tahtmlfrontpage.jpg" alt="">
+<img loading="lazy" src="/images/tahtmlfrontpage.jpg" alt="">
 
 <p>And the styling is then</p>
-<img src="/images/tacssfrontpage.jpg" alt="">
+<img loading="lazy" src="/images/tacssfrontpage.jpg" alt="">
 
 <p>When merged together gives us an 
 output like this</p>
-<img src="/images/tafrontpage.jpg" alt="">
+<img loading="lazy" src="/images/tafrontpage.jpg" alt="">
 <p>Though things can get messy and bulky but if you know the fundamentals, it is not going to be that
 hard.</p>
 
@@ -137,7 +137,7 @@ hard.</p>
 functionality and as an example, the hamburger menu on the tooabstarctive website is made to display
 a menu bar when you click on it and 
 this is done with JavaScript.</p>
-<img src="/images/harbmenushow.jpg" alt="">
+<img loading="lazy" src="/images/harbmenushow.jpg" alt="">
 <p>There are many more things that can be done with JavaScript because, as we saw earlier React is based
 on JavaScript and JavaScript knowledge will allow you to build what is called Full stack application
 by combining it with node.js 
