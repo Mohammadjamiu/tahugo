@@ -62,8 +62,9 @@ Google is one of a third-party vendor on our site. It also uses cookies, known a
 
 Some of advertisers on our site may use cookies and web beacons. Our advertising partners are listed below. Each of our advertising partners has their own Privacy Policy for their policies on user data. For easier access, we hyperlinked to their Privacy Policies below.
 
-Google <a href="https://policies.google.com/technologies/ads" class="links-to-others" target="_blank" > https://policies.google.com/technologies/ads</a>
-
+<p>
+- Google <a href="https://policies.google.com/technologies/ads" class="links-to-others" target="_blank" > https://policies.google.com/technologies/ads</a>
+</p>
 ## Advertising Partners Privacy Policies
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of tooabstractive.
