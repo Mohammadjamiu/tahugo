@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy"
 layout: privacy-policy
-description: "Been an engineering student is great but the nitty-gritty is rough. To say, the two most abstractive electrical engineering course most student do have problem with is Circuit Analysis and Electromagnetics with a plus of demystifying engineering related concepts."
+description: "This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in tooabstractive."
 ---
 
 <br>

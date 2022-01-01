@@ -1,7 +1,7 @@
 ---
 title: "Terms and conditions"
 layout: terms-and-conditions
-description: "Been an engineering student is great but the nitty-gritty is rough. To say, the two most abstractive electrical engineering course most student do have problem with is Circuit Analysis and Electromagnetics with a plus of demystifying engineering related concepts."
+description: "These terms and conditions outline the rules and regulations for the use of TA Website, located at tooabstractive.com."
 ---
 
 <br>
