@@ -65,6 +65,7 @@ Some of advertisers on our site may use cookies and web beacons. Our advertising
 <p>
 - Google <a href="https://policies.google.com/technologies/ads" class="links-to-others" target="_blank" > https://policies.google.com/technologies/ads</a>
 </p>
+
 ## Advertising Partners Privacy Policies
 
 You may consult this list to find the Privacy Policy for each of the advertising partners of tooabstractive.
