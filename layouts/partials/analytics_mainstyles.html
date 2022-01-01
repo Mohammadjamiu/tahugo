@@ -89,6 +89,20 @@
 {{ $aboutPageStyle := "/css/aboutpage-style.css" }}
 <link rel="stylesheet" href={{ $aboutPageStyle }} />
 
+{{ else if (eq .Layout "privacy-policy") }}
+
+{{ $aboutPageStyle := "/css/aboutpage-style.css" }}
+<link rel="stylesheet" href={{ $aboutPageStyle }} />
+{{ $learncaStyle := "/css/learnca-style.css" }}
+<link rel="stylesheet" href={{ $learncaStyle }} />
+
+{{ else if (eq .Layout "terms-and-conditions") }}
+
+{{ $aboutPageStyle := "/css/aboutpage-style.css" }}
+<link rel="stylesheet" href={{ $aboutPageStyle }} />
+{{ $learncaStyle := "/css/learnca-style.css" }}
+<link rel="stylesheet" href={{ $learncaStyle }} />
+
 {{ else if (eq .Page "taxonomy") }}
 
 {{ $aboutPageStyle := "/css/aboutpage-style.css" }}

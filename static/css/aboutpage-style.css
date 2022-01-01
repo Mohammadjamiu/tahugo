@@ -64,6 +64,13 @@ h2.something-to-say:after {
   width: 12rem;
 }
 
+section.content-section h2 {
+  margin-top: 1rem;
+  text-transform: capitalize;
+  
+  font-family: "MuliBold", sans-serif;
+}
+
 p {
   font-size: 1.65rem;
 }
