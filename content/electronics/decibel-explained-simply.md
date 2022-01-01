@@ -66,7 +66,9 @@ Since we have been taking about decibel (dB) in terms of loss so let's talk abou
 
 As for gain, the value will be positive so a $+3dB_{m}$ means a gain that is twice the value of the reference power. To calculate for this,
 
-$dB_{m} = 10\log_{10}{\frac{P_{2}}{P_{1}}} = 10\log_{10}{\frac{2P_{1}}{P_{1}}} = +3dbm$ where $P_{2}$ is twice the reference value $P_{1}$.
+$dB_{m} = 10\log_{10}{\frac{P_{2}}{P_{1}}}$
+
+$ = 10\log_{10}{\frac{2P_{1}}{P_{1}}} = +3dbm$ where $P_{2}$ is twice the reference value $P_{1}$.
 
 {{< ste >}} In conclusion{{</ ste >}}, the concept of decibel (dB) is just a way that allows engineers to express large numbers or values in a more defined and efficient way in order to reduce cumbersomeness or complexity.
 

@@ -54,7 +54,7 @@ Broadband transmission requires that a bandpass channel and only an analog signa
 
 {{< ste >}}Reference:{{</ ste >}}
 <br>
-:book: <a class="links-to-others" href="https://amzn.to/3eEN2o1" target="_blank">Data Communications
+:book: <a class="links-to-others" href="https://amzn.to/3zgwhJB" target="_blank">Data Communications
 and Networking </a>by Behrouz A. Forouzan
 
 <br>
