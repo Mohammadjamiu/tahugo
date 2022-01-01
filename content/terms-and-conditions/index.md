@@ -6,7 +6,7 @@ description: "Been an engineering student is great but the nitty-gritty is rough
 
 <br>
 
-Welcome to Tooabstractive.com!
+Welcome to {{< ste >}} Tooabstractive.com{{</ ste >}}!
 
 These terms and conditions outline the rules and regulations for the use of TA Website, located at tooabstractive.com.
 
