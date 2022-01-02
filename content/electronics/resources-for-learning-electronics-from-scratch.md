@@ -89,8 +89,10 @@ Mjlorton also have great videos on how to use an oscilloscope, a power supply an
 <a class="links-to-others" target="_blank" href="https://www.youtube.com/c/mcwhorpj/featured">Paul McWhorter </a>
 <br>
 As building circuit with microcontroller is becoming popular and well used, having a knowledge on how to use Arduino or Raspberry Pie is really essential in your journey of becoming an electronics hobbyist. 
+
 <br>
 Because microcontroller are the key kit or electronic gadgets that IOT (internet of things) revolves around, also it allows you to build circuits fast without having to do everything from scratch.
+
 <br>
 Another recommendation is that you can even start to learn electronics by designing circuits with Arduino and this channel really got you covered and that’s what I used to start my journey in learning how microcontrollers work.
 <br>
