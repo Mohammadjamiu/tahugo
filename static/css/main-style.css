@@ -23,7 +23,7 @@ section.hero {
 
   background-image: url("/images/sigmund.jpg");
   width: 100%;
-  height: calc(100vh - 5.6rem);
+  height: calc(90vh - 5.6rem);
   background-size: cover;
 }
 
@@ -35,7 +35,7 @@ section .overlay {
   left: 0;
   z-index: 1000;
   background: linear-gradient(
-    155deg,
+    165deg,
     rgba(23, 73, 134, 0.6),
     rgba(228, 153, 47, 0.5)
   );
@@ -101,6 +101,7 @@ section .overlay {
   height: 18rem;
   width: 100%;
   overflow-x: hidden;
+  display: none;
 }
 
 .hero .svg-reading-image {
