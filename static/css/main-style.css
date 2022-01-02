@@ -25,6 +25,7 @@ section.hero {
   width: 100%;
   height: calc(90vh - 5.6rem);
   background-size: cover;
+  z-index: 50;
 }
 
 section .overlay {
@@ -33,16 +34,16 @@ section .overlay {
   position: absolute;
   top: 0;
   left: 0;
-  z-index: 1000;
+  z-index: -100;
   background: linear-gradient(
-    165deg,
+    150deg,
     rgba(23, 73, 134, 0.6),
     rgba(228, 153, 47, 0.5)
   );
 }
 
 .hero .limit {
-  margin-top: 3rem;
+  /* margin-top: 2rem; */
   font-size: 2.25rem;
   margin-bottom: 0.6rem;
   font-family: "MuliBold", sans-serif;
