@@ -1,7 +1,7 @@
 ---
 title: "19 Steps for Learning Electronics as a Beginner (2022)"
 postdate: January 01, 2022
-image: ""
+image: "/images/ultrasonic.jpg"
 description: ""
 alt: ""
 weight: "26"
@@ -42,7 +42,9 @@ So in this posts I will be highlighting how you can learn electronics as a begin
 
 ## Go hands on
 
-6. Get the basic or essential tools needed like jumper wires, battery, breadboard, pairs of cutter, plier, screw-driver, multimeter, glue gum, soldering iron etc.
+6. Get the basic or essential tools needed;
+   
+   e.g. jumper wires, battery, breadboard, pairs of cutter, plier, screw-driver, multimeter, glue gum, soldering iron etc.
 
 <!-- here are detailed tools needed as a beginner. -->
 
