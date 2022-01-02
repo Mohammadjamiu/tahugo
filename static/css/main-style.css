@@ -21,7 +21,7 @@ section.hero {
   padding: 4rem 0;
   position: relative;
 
-  background-image: url("/images/sigmund.jpg");
+  background-image: url("/images/sigmund.webp");
   width: 100%;
   height: calc(90vh - 5.6rem);
   background-size: cover;
