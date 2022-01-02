@@ -38,7 +38,7 @@ section .overlay {
   background: linear-gradient(
     150deg,
     rgba(23, 73, 134, 0.6),
-    rgba(228, 153, 47, 0.5)
+    rgba(228, 153, 47, 0.4)
   );
 }
 
