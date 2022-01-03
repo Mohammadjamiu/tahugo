@@ -38,9 +38,9 @@ section .overlay {
 
   z-index: -100;
   background: linear-gradient(
-    160deg,
-    rgba(23, 73, 134, 0.356),
-    rgba(23, 73, 134, 0.685) /* rgba(228, 153, 47, 0.4) */
+    170deg,
+    rgba(23, 73, 134, 0.35),
+    rgba(23, 73, 134, 0.6)  /* rgba(228, 153, 47, 0.4) */
   );
 }
 
