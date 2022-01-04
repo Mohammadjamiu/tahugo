@@ -18,7 +18,7 @@
   {{ range (.Paginate $pag).Pages }}
 
   <a href="{{ .RelPermalink }}" class="post post-1">
-    <img class="lca-image" src="{{ .Params.image }}" alt="{{.Params.alt}}" />
+    <img loading="lazy"  class="lca-image" src="{{ .Params.image }}" alt="{{.Params.alt}}" />
     <div class="box-index">{{.Params.Weight}}</div>
     <h3>
       {{.Title}}
