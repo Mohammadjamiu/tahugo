@@ -11,7 +11,7 @@ categories: ["Electronics"]
 type: posts
 wordcount: false
 mathjax: true
-draft: false
+draft: true
 ---
 
 {{< ste >}} Learning electronics{{</ ste >}} is fun because you can think of something and design or make it real. But where the problem lies is not knowing the route to take or what to learn.
@@ -43,7 +43,7 @@ So in this posts I will be highlighting how you can learn electronics as a begin
 ## Go hands on
 
 6. Get the basic or essential tools needed;
-   
+
    e.g. jumper wires, battery, breadboard, pairs of cutter, plier, screw-driver, multimeter, glue gum, soldering iron etc.
 
 <!-- here are detailed tools needed as a beginner. -->
