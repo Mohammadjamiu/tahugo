@@ -9,7 +9,7 @@ author: Mohammad Abdul
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
-customads_grammarly: true
+customads_grammarly: false
 wordcount: false
 draft: false
 ---
@@ -150,7 +150,7 @@ Next is to use, a grammar checker to help you remove more errors like grammatica
 Also you have to check for plagiarism to make sure your content is unique and has valuable information that is not available elsewhere.
 Here are the tools I use to check for errors.
 
-1. <a class="links-to-others" href="https://www.kqzyfj.com/click-100490785-10952827" target="_blank">Grammarly </a> or
+1. <a class="links-to-others" href="https://www.grammarly.com" target="_blank">Grammarly </a> or
 2. <a class="links-to-others" href="https://www.prowritingaid.com/" target="_blank">ProWritingAid </a> or
 3. <a class="links-to-others" href="https://www.gingersoftware.com/" target="_blank">Ginger</a>
 

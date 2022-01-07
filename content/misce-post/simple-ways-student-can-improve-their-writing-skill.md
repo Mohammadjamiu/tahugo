@@ -10,7 +10,7 @@ categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
 socialshare: true
-customads_grammarly: true
+customads_grammarly: false
 wordcount: false
 draft: false
 ---
@@ -88,7 +88,7 @@ So starting with the basic tools which is a paper and pen is pretty much good en
 But as time passes by, you might invest in using some simple apps like
 
 1. Microsoft word or notepad to type and
-2. <a class="links-to-others" href="https://www.kqzyfj.com/click-100490785-10952827" target="_blank">Grammarly </a> to check for errors in your writing.
+2. <a class="links-to-others" href="https://www.grammarly.com" target="_blank">Grammarly </a> to check for errors in your writing.
 
 ## Learn to type fast
 
