@@ -1,10 +1,10 @@
 ---
 title: "What Is Electricity and How Does It Work? A Simple Explanation"
-postdate: November 01, 2021
+postdate: January 05, 2022
 image: ""
 description: "Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path."
 alt: ""
-weight: ""
+weight: "28"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
@@ -23,7 +23,7 @@ But to understand what electricity is and how it works on a deeper level, we nee
 ## Atom - where the journey began
 
 At the very first stage, every material consists of atoms, and every atom consists of a nucleus and a shell around it.
-This nucleus contains a proton and neutron because they are heavy while electron which is said to be lighter than proton and neutron, revolve around the nucleus while leaning on the shell at (the rate of speed of light).
+This nucleus contains a proton and neutron because they are heavy while electron which is said to be lighter than proton and neutron, revolve around the nucleus (the rate of speed of light) while leaning on the shell.
 
 The protons are said to be positively charged, while the electrons are said to be negatively charged and lastly the neutrons you guess it, are neutrally charged.
 
@@ -56,7 +56,9 @@ As the force is applied, it pushes those loosely bonded electrons by knocking th
 
 As an electron is negatively charged, using a battery as an example, the force pushes the electron from the negative side of the battery through the load which can be a light bulb and then back to the positive side of the battery.
 
-This idea might seem kind of confusing but yeah that is the way it is even though the electric current is said to be flowing from the positive side of the battery down to the negative side which is a misconception made by the early scientist. Read on why the direction is opposite. But deem to be the same concept.
+This idea might seem kind of confusing but yeah that is the way it is even though the electric current is said to be flowing from the positive side of the battery down to the negative side which is a misconception made by the early scientist.
+
+<!-- Read on why the direction is opposite. But deem to be the same concept. -->
 
 But what if a load is not connected between the terminal of the battery, then it is considered to be a short circuit which can damage the battery and that's why for electricity to be useful, there must be a load to utilize the electricity and also must flow through a conductive closed path.
 
@@ -68,7 +70,7 @@ The simple answer is, there are two types of electricity.
 <ul class="ul-in-post">
 <li>Static electricity and
 </li>
-<li>Electric current or cureent electricity
+<li>Electric current or current electricity
 </li>
 
 </ul>

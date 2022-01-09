@@ -6,8 +6,8 @@ description: ""
 alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
-categorylink: /categories/networking-fundamentals
-categories: ["Networking Fundamentals"]
+categorylink: /categories/networking-and-communication
+categories: ["Networking and Communication"]
 type: posts
 wordcount: false
 mathjax: true

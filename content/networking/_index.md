@@ -1,4 +1,4 @@
 ---
-title: "Networking Fundamentals"
+title: "Networking and Communication"
 sitemap_ignore: true
 ---

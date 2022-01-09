@@ -1,13 +1,13 @@
 ---
-title: "What Is Simplex, Half-Duplex and Full-Duplex mode of communication"
+title: "What Is Simplex, Half-Duplex and Full-Duplex mode of communication?"
 postdate: December 31, 2021
 image: "/images/duplex.jpg"
 description: "The communication between two devices can be said to be simplex, half-duplex and full duplex"
 alt: "simplex, half-duplex and full-duplex explanation"
 weight: "25"
 author: Mohammad Abdul
-categorylink: /categories/networking-fundamentals
-categories: ["Networking Fundamentals"]
+categorylink: /categories/networking-and-communication
+categories: ["Networking and Communication"]
 type: posts
 wordcount: false
 mathjax: false

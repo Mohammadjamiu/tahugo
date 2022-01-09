@@ -16,7 +16,7 @@ draft: false
 
 Without {{< ste >}}modulation{{</ ste >}}, it might seem impossible for human to communicate over a long distance. Because when we speak, it get propagated into space and dies out and the information can only be gotten if the person we want to communicate with is close.
 
-Know that the frequency of human voice is around the range of 20hz to 20Khz which is low and can't travel far. With this in mind, a third party is needed to carry the information over a long distance just as if you throw a piece of paper on the ground, it takes longer to go down because air makes it to float but if we tie a stone to the paper, it goes down quickly.
+Know that the frequency of human voice is around the range of 20hz to 20Khz which is low and can't travel far. With this in mind, a third party is needed to carry the information over a long distance just as if you throw a piece of paper on the ground, it takes longer to go down because air makes it to float but if you tie a stone to the paper, it goes down quickly.
 
 Now let's see what modulation means.
 

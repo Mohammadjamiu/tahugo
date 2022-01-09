@@ -6,8 +6,8 @@ description: ""
 alt: ""
 weight: "13"
 author: Mohammad Abdul
-categorylink: /categories/networking-fundamentals
-categories: ["Networking Fundamentals"]
+categorylink: /categories/networking-and-communication
+categories: ["Networking and Communication"]
 type: posts
 wordcount: false
 draft: false

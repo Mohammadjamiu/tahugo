@@ -6,8 +6,8 @@ description: "Transmission impairment is as a result of imperfections in a trans
 alt: "Transmission impairment in communication systems"
 weight: "22"
 author: Mohammad Abdul
-categorylink: /categories/networking-fundamentals
-categories: ["Networking Fundamentals"]
+categorylink: /categories/networking-and-communication
+categories: ["Networking and Communication"]
 type: posts
 wordcount: false
 mathjax: false

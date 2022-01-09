@@ -21,6 +21,8 @@ The major reason why we can communicate wirelessly is through the adventure of r
 
 {{< ste >}}Radio waves{{</ ste >}} are part of the <a class="links-to-others" target="_blank" href="https://en.m.wikipedia.org/wiki/Electromagnetic_spectrum">electromagnetic spectrum </a> family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves.
 
+It can also be defined as an electromagnetic wave with an electric field (E) and magnetic field (H) components.
+
   <blockquote class="blockquote">
    <p class="little-nugget">Know</p>
    <p class="quote-text">- {{< ste >}} Radio waves{{</ ste >}} are called wireless wave because the word "radio" is used to signify "wireless communication".
