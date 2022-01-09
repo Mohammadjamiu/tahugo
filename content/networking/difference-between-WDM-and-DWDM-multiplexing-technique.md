@@ -1,7 +1,7 @@
 ---
 title: "4 Differences Between WDM and DWDM Multiplexing Technique"
 postdate: January 08, 2022
-image: "https://images.unsplash.com/photo-1608562719218-920013a7a249?crop=faces,edges&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8d2F2ZWxlbmd0aHx8MHx8fHwxNjQxNjQ0NDYw&amp;ixlib=rb-1.2.1&amp;q=60&amp;w=1200&amp;auto=format&amp;h=630&amp;mark-w=64&amp;mark-align=top,left&amp;mark-pad=50&amp;blend-mode=normal&amp;blend-alpha=10&amp;blend-w=1&amp;mark=https://images.unsplash.com/opengraph/logo.png&amp;blend=000000"
+image: "/images/wavy.jpg"
 description: " WDM (Wavelength Division Multiplexing) or DWDM (Dense Wavelength Division Multiplexing) is an analog technique used in the multiplexing or the combination of several optical (light) signals into one single optical signal which can then be transmitted through a common link or channel."
 alt: ""
 weight: "30"

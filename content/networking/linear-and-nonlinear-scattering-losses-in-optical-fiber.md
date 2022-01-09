@@ -1,7 +1,7 @@
 ---
 title: "Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply"
 postdate: January 08, 2022
-image: "https://images.unsplash.com/photo-1607723619497-98a79f01ba90?crop=faces,edges&amp;cs=tinysrgb&amp;fit=crop&amp;fm=jpg&amp;ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTh8fG9wdGljYWwlMjBmaWJlcnN8fDB8fHx8MTY0MTY4NDQ4MA&amp;ixlib=rb-1.2.1&amp;q=60&amp;w=1200&amp;auto=format&amp;h=630&amp;mark-w=64&amp;mark-align=top,left&amp;mark-pad=50&amp;blend-mode=normal&amp;blend-alpha=10&amp;blend-w=1&amp;mark=https://images.unsplash.com/opengraph/logo.png&amp;blend=000000"
+image: "/images/lightp.jpg"
 description: "Linear scattering (Rayleigh and Mie scattering) and nonlinear scattering (SBS, SRS, XPM, SPM and FWM) are types of scattering losses which mostly results in signal power degradation"
 alt: ""
 weight: "32"
