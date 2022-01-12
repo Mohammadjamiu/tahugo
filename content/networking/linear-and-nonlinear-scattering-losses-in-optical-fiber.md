@@ -3,7 +3,7 @@ title: "Linear and Nonlinear Scattering Losses in Optical Fiber Explained Simply
 postdate: January 08, 2022
 image: "/images/lightp.jpg"
 description: "Linear scattering (Rayleigh and Mie scattering) and nonlinear scattering (SBS, SRS, XPM, SPM and FWM) are types of scattering losses which mostly results in signal power degradation"
-alt: ""
+alt: "Scattering losses in optical fiber"
 weight: "32"
 author: Mohammad Abdul
 categorylink: /categories/networking-and-communication
@@ -49,62 +49,74 @@ Linear and non-linear scattering loss which are further categorized as below.
     </ul>
     <br>
 
-## Linear scattering
+## 1. Linear scattering
 
 Linear scattering results in the transfer of some or all of the optical (light) power contained within one propagating mode to a different mode linearly.
 
 Thus leads to attenuation of power because some of the transferred power may escape to a radiation mode which will absorb the power without reflecting it back.
 
+## Rayleigh scattering
+
 {{< ste >}} Rayleigh scattering {{</ ste >}} is a form of an elastic scattering in which the photon (tiny particles) energy or frequency of the scattered light remains unchanged.
 
 You can think of this in terms of elastic band where if you expand the band it can return to its original band whereas in inelastic band the band is fixed so a scattering that exhibit inelastic will yield a fixed energy i.e. if particles collide, it just magnet itself to the other.
 
-{{< ste >}} Mie scattering {{</ ste >}} is as a result of the non-perfect cylindrical structure of an optical fiber and the irregularities at the core-cladding interface (or refractive index).
+## Mie scattering
 
-## Nonlinear scattering
+{{< ste >}} Mie scattering {{</ ste >}} is as a result of the non-perfect cylindrical structure of an optical fiber and the irregularities at the core-cladding interface (or refractive index).
+<br>
+
+## 2. Nonlinear scattering
 
 The response of any dielectric material to intense light yields a nonlinear effect. As optical fibers are made up of glass which is a dielectric hence there is nonlinear scattering.
 
 It is said that nonlinear scattering results in gain but with a shift in frequency.
 
-{{< ste >}}Stumlated Brilluion Scattering (SBS) {{</ ste >}}
-<br>
+## Stumlated Brilluion Scattering (SBS)
 
-SBS is as a result of the modulation of light through thermal (heat) molecular vibrations within an optical fiber.
+{{< ste >}} SBS {{< /ste>}} is as a result of the modulation of light through thermal (heat) molecular vibrations within an optical fiber.
 Or it can be said to be a scattering of light which is caused by acoustic waves (waves due to vibration).
 
-{{< ste >}}Stumlated Brilluion Scattering (SBS) {{</ ste >}}
-<br>
+## Stumlated Raman Scattering (SRS)
 
-SRS involves the scattering of light from vibrating silica molecules within an optical fiber.
+{{< ste >}} SRS {{< /ste>}} involves the scattering of light from vibrating silica molecules within an optical fiber.
 
 SBS and SRS are quite similar with an exception that in SBS acoustic phonons (sound particles) are generated whereas in SRS a high-frequency optical phonons is generated.
 
-Advantage of SRS
+{{< ste >}} Advantage of SRS {{< /ste>}}
+<br>
+
 SRS can act as an amplifier if the pump (laser) wavelength is chosen suitably.
-Disadvantages of SRS
+
+{{< ste >}} Disadvantages of SRS {{< /ste>}}
+<br>
+
 It results in interchannel crosstalk in WDM system.
 
-{{< ste >}}Self-phase modulation (SPM) {{</ ste >}}
-<br>
+## Self-phase modulation (SPM)
 
-SPM is a nonlinear effect which is as a result of the interaction of light and matter (molecules). The light pulses change its spectrum due to its own intensity from an induced varying refractive index of the medium.
+{{< ste>}} SPM {{< /ste>}} is a nonlinear effect which is as a result of the interaction of light-matter(molecules). The light pulses change its spectrum due to its own intensity from an induced varying refractive index of the medium.
+
 Pulse spectrum is the frequency distribution of the sine component of a pulse.
 
-{{< ste >}}Cross-phase modulation (XPM) {{</ ste >}}
-<br>
+## Cross-phase modulation (XPM)
 
-XPM is a nonlinear optical effect which is as a result of the wavelength of one light affecting the phase of another wavelength of light.
-It those so using the Kerr effect (an effect which is the change of refractive index of a material in response to an electric field applied to the material).
+{{< ste >}} XPM {{< /ste>}} is a nonlinear optical effect which is as a result of the wavelength of one light affecting the phase of another wavelength of light.
+
+It does so using the Kerr effect (an effect which is the change of refractive index of a material in response to an electric field applied to the material).
 
 In this case, one wavelength results in refractive index change and this new refractive index change has an effect on another wavelength.
 
-Advantage of XPM
-XPM results in the compression of ultrashort pulses.
-Disadvantages of XPM
-It results in interchannel crosstalk in WDM system.
-
-{{< ste >}} Four-wave mixing (FWM){{</ ste >}}
+{{< ste >}} Advantage of XPM {{< /ste>}}
 <br>
 
-FWM involves the interaction of two or three wavelength which results in a new two or one wavelength.
+XPM results in the compression of ultrashort pulses.
+
+{{< ste >}} Disadvantages of XPM {{< /ste>}}
+<br>
+
+It results in interchannel crosstalk in WDM system.
+
+## Four-wave mixing (FWM)
+
+{{< ste >}} FWM {{< /ste>}} involves the interaction of two or three wavelength which results in a new two or one wavelength.

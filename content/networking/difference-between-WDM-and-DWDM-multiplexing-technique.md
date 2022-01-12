@@ -31,6 +31,7 @@ In multiplexing, a data link which has enormous bandwidth is multiplexed to crea
 <p class="quote-text">So to curb this high traffic issues, the efficient use of bandwidth is important.</p>
 </blockquote>
 <br>
+<br>
 
 1. {{< ste >}}Name{{</ ste >}}
 
@@ -48,4 +49,4 @@ In multiplexing, a data link which has enormous bandwidth is multiplexed to crea
 
    WDM uses the O (original) and C (conventional) band while DWDM uses the C (conventional) and L (long) band. Low loss occurs in C and L band as compared to O band.
 
-   Here is what the ITU spetral band is and how to memorize it.
+   <!-- Here is what the ITU spetral band is and how to memorize it. -->
