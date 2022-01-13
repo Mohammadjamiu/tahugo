@@ -103,7 +103,7 @@ Current electricity is a type of electricity that can flow continuously which ma
 
 Current electricity is further divided into two types of current the Direct current and the Alternating current.
 
-## What are Alternating current (AC) and Direct current (DC) (types of current electricity).
+## What are Alternating current (AC) and Direct current (DC)
 
 {{< ste >}}D.C{{</ ste >}} is referred to as direct current i.e. a current that flows in only one direction hence doesn't fluctuate. e.g. is the electric current or electricity from a battery.
 
