@@ -1,16 +1,16 @@
 ---
 title: "What Is Electricity and How Does It Work? A Simple Explanation"
 postdate: January 05, 2022
-image: ""
+image: "/images/electro_4 (1).webp"
 description: "Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home. And it works by letting tiny particles called electrons to flow or move through a conductive closed path."
-alt: ""
+alt: "What Is Electricity and How Does It Work"
 weight: "28"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
-wordcount: true
-draft: true
+wordcount: false
+draft: false
 ---
 
 {{< ste >}}Electricity is basically what flows through a wire or a conductor and then power up our light bulb, TV, and other electronic gadgets at home.
@@ -18,16 +18,24 @@ draft: true
 
 In essence, a wire which is a conductor allows those electrons to flow through it resulting in what is called electric current or electricity.
 
+<img loading="lazy" src="/images/electro_3 (1).webp" alt="electron flowing in wire">
+
 But to understand what electricity is and how it works on a deeper level, we need to zoom down to zero and understand the physics behind it.
 
 ## Atom - where the journey began
 
 At the very first stage, every material consists of atoms, and every atom consists of a nucleus and a shell around it.
-This nucleus contains a proton and neutron because they are heavy while electron which is said to be lighter than proton and neutron, revolve around the nucleus (the rate of speed of light) while leaning on the shell.
+This nucleus contains a proton and neutron because they are heavy while electron which is said to be lighter than proton and neutron, revolve around the nucleus (at the rate of speed of light) while leaning on the shell.
+
+<img loading="lazy" src="/images/electro_4 (1).webp" alt="atom and nucleus">
 
 The protons are said to be positively charged, while the electrons are said to be negatively charged and lastly the neutrons you guess it, are neutrally charged.
 
-The number of shells an atom has depends on the atom. For example, silicon si, has an atomic number of 14, and copper cu has an atomic number x. But the shells also have some configuration or the number of electrons it can hold following the pattern of 2 for the first shell which is the closest to the nucleus, and then the next shell which must have a maximum electron of 8 and the next 18, and next 32 and so on.
+The number of shells an atom has depends on the atom. For example, silicon si, has an atomic number of 14, and copper cu has an atomic number 29.
+
+But the shells also have some configuration or the number of electrons it can hold following the pattern of 2 for the first shell which is the closest to the nucleus, and then the next shell which must have a maximum electron of 8 and the next 18, and next 32 and so on.
+
+<img loading="lazy" src="/images/electro_2 (1).webp" alt="silicon and copper atomic number">
 
 The reason why the number of electrons on each shell is important is that an atom is said to be in a stable state if the number of electrons in its outermost shell also called valence electrons is complete.
 
@@ -48,13 +56,17 @@ An electron is what flows but proton is considered as the deficiency of electron
 
 A conductor consists of many atoms like copper. That's why sometimes we refer to some wires as copper wires because copper is an atom that has loosely bonded electrons in its outermost shell hence it is conductive.
 
-A copper atom has an atomic number of 14, sketching out the schematic for the atom, we can see that it has one electron in its outermost shell called valence electron This single electron is loosely bonded and since a conductor consists of many copper atoms, the electrons move in a random pattern which cannot be used form making electricity flow.
+A copper atom has an atomic number of 29, sketching out the schematic for the atom, we can see that it has one electron in its outermost shell called valence electron This single electron is loosely bonded and since a conductor consists of many copper atoms, the electrons move in a random pattern which cannot be used form making electricity flow.
 
 So to make it useful i.e. flow in a certain or define direction (so it ends up being an electric current), a force is applied, and this force is referred to as a voltage source (e.g. a battery or energy from the power plant).
 
 As the force is applied, it pushes those loosely bonded electrons by knocking them out from their position and allowed to move through the conductor provided that there is at least one closed path. Because electricity is intelligent, and it flows through the path with the least resistance or push-back.
 
+<img loading="lazy" src="/images/electro_5 (1).webp" alt="battery and wire">
+
 As an electron is negatively charged, using a battery as an example, the force pushes the electron from the negative side of the battery through the load which can be a light bulb and then back to the positive side of the battery.
+
+<img loading="lazy" src="/images/electro_1 (1).webp" alt="load connected to battery">
 
 This idea might seem kind of confusing but yeah that is the way it is even though the electric current is said to be flowing from the positive side of the battery down to the negative side which is a misconception made by the early scientist.
 
@@ -94,6 +106,8 @@ Current electricity is further divided into two types of current the Direct curr
 {{< ste >}}D.C{{</ ste >}} is referred to as direct current i.e. a current that flows in only one direction hence doesn't fluctuate. e.g. is the electric current or electricity from a battery.
 
 {{< ste >}} AC{{</ ste >}} is referred to as alternating current i.e. a current that flows back and forth. This type of current electricity is what flows through our home appliances and the reason why it is chosen to be used at home is that it is easily transferable using a transformer as compared to a d.c which cannot be easily transferred or transformed.
+
+<img loading="lazy" src="/images/dcac_2.jpg" alt="ac and dc diagram">
 
 Another fascinating thing about alternating current is that as it flows back and forth, it creates a magnetic field around the conductors which is what allows us to have transformers.
 So with this, I believe that this post demystifies what electricity is and how does it work.
