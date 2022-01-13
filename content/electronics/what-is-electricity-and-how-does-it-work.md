@@ -31,7 +31,7 @@ This nucleus contains a proton and neutron because they are heavy while electron
 
 The protons are said to be positively charged, while the electrons are said to be negatively charged and lastly the neutrons you guess it, are neutrally charged.
 
-The number of shells an atom has depends on the atom. For example, silicon si, has an atomic number of 14, and copper cu has an atomic number 29.
+The number of shells an atom has depends on the atom. For example,silicon Si, has an atomic number of 14, and copper cu has an atomic number 29.
 
 But the shells also have some configuration or the number of electrons it can hold following the pattern of 2 for the first shell which is the closest to the nucleus, and then the next shell which must have a maximum electron of 8 and the next 18, and next 32 and so on.
 
@@ -56,7 +56,9 @@ An electron is what flows but proton is considered as the deficiency of electron
 
 A conductor consists of many atoms like copper. That's why sometimes we refer to some wires as copper wires because copper is an atom that has loosely bonded electrons in its outermost shell hence it is conductive.
 
-A copper atom has an atomic number of 29, sketching out the schematic for the atom, we can see that it has one electron in its outermost shell called valence electron This single electron is loosely bonded and since a conductor consists of many copper atoms, the electrons move in a random pattern which cannot be used form making electricity flow.
+As a copper atom has an atomic number of 29, sketching out the schematic for the atom, we can see that it has one electron in its outermost shell called valence electron. This single electron is loosely bonded and since a conductor consists of many copper atoms, the electrons move in a random pattern which cannot be used form making electricity flow.
+
+<img loading="lazy" src="/images/electro_2 (1).webp" alt="silicon and copper atomic number">
 
 So to make it useful i.e. flow in a certain or define direction (so it ends up being an electric current), a force is applied, and this force is referred to as a voltage source (e.g. a battery or energy from the power plant).
 
@@ -101,7 +103,7 @@ Current electricity is a type of electricity that can flow continuously which ma
 
 Current electricity is further divided into two types of current the Direct current and the Alternating current.
 
-## What are Alternating current (AC) and Direct current (DC) types of current electricity.
+## What are Alternating current (AC) and Direct current (DC) (types of current electricity).
 
 {{< ste >}}D.C{{</ ste >}} is referred to as direct current i.e. a current that flows in only one direction hence doesn't fluctuate. e.g. is the electric current or electricity from a battery.
 
