@@ -1,7 +1,7 @@
 ---
 title: "The Easiest Way to Study Electromagnetics"
 postdate: October 07, 2021
-image: "images/learnemag_3.webp"
+image: "/images/learnemag_3.webp"
 description: "As an electrical engineering student, we all have that one course that frightens us and one of them
 is electromagnetics field theory sometimes called engineering electromagnetics. But with how difficult it is, there is still a better way to study it."
 alt: "how do you learn electromagnetics"
