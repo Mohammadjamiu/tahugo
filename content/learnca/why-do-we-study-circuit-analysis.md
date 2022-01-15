@@ -3,12 +3,13 @@ title: "Why do we study circuit analysis or circuit theory?"
 postdate: October 20, 2021
 image: "/images/closelool-openloop_1.jpg"
 description: "Circuit analysis or circuit theory basically deals with finding currents and voltages in a circuit or network of connected electronic components."
-alt: ""
+alt: "circuit analysis"
 weight: "1"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
+Google_Ads: true
 wordcount: false
 draft: false
 ---

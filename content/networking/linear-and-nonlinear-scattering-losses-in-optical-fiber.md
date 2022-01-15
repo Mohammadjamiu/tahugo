@@ -9,8 +9,9 @@ author: Mohammad Abdul
 categorylink: /categories/networking-and-communication
 categories: ["Networking and Communication"]
 type: posts
+Google_Ads: true
 wordcount: false
-mathjax: true
+mathjax: false
 draft: false
 ---
 

@@ -12,6 +12,7 @@ type: em-post
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"
+Google_Ads: true
 draft: false
 ---
 

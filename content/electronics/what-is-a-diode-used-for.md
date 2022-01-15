@@ -3,12 +3,13 @@ title: "What is diode used for? All you need to know to start designing simple c
 postdate: October 09, 2021
 image: "/images/schottky.jpg"
 description: "Basically diode is an electronic device or component that every circuits that we might think of has. it is defined to be a device that allows current to flow only in one direction and has alot of use case in electronics."
-alt: ""
+alt: "diode explanation"
 weight: "5"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 draft: false
 wordcount: false
 ---

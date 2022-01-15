@@ -3,12 +3,13 @@ title: "Importance of Programming to Electrical and Electronics Engineering"
 postdate: November 01, 2021
 image: "/images/codes.jpg"
 description: "Programming is important to electrical and electronics engineering because EEE is all about problem-solving and these problems are solved using mathematics, physics, and programming (sometimes referred to as coding)"
-alt: ""
+alt: "electrical engineering and programming"
 weight: "14"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: false
 draft: false
 ---

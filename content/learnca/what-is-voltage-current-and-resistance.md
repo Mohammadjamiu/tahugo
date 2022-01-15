@@ -6,12 +6,13 @@ description: "Every wire or conductor is composed of atoms which consist of many
 called voltage to push the
 electrons inside the wire and as soon as electron flows or moves, we
 get current."
-alt: ""
+alt: "voltage,current and resistance explanation"
 weight: "2"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
-layout: learnca
+layout: learnca 
+Google_Ads: true
 draft: false
 ---
 

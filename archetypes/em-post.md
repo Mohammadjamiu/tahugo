@@ -10,6 +10,7 @@ author: {{ .Site.Params.author }}
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"
 wordcount: false
-mathjax: true
+Google_Ads: false
+mathjax: false
 draft: false
 ---

@@ -3,12 +3,13 @@ title: "What Are the Basic Operations on Discrete Time Signals?"
 postdate: December 19, 2021
 image: "/images/dts_4 (1).webp"
 description: "The following are the basic operations that can be done on discrete time signal addition, subtraction, multiplication, amplitude scaling, time shifting, time reversal, time scaling"
-alt: ""
+alt: "operation on discrete time signals"
 weight: "20"
 author: Mohammad Abdul
 categorylink: /categories/signals-and-system
 categories: ["Signals and System"]
 type: posts
+Google_Ads: true
 mathjax: true
 wordcount: false
 draft: false

@@ -3,12 +3,13 @@ title: "A beginners guide to using a digital multimeter at home for troubleshoot
 postdate: October 13, 2021
 image: "/images/insertingbattery_1.jpg"
 description: "A multimeter is a multi-purpose tool that every electronics hobbyist or engineer need to have because it allows you to be able to troubleshoot most electronics problem you have at home."
-alt: ""
+alt: "guide to using a digital multimeter"
 weight: "7"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: true
 draft: false
 ---

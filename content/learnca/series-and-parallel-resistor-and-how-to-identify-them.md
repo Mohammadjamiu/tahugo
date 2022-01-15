@@ -4,12 +4,13 @@ postdate: October 07, 2021
 image: "/images/parallelresistor.jpg"
 description: "
 Resistors in series are connected head to tail while resistors in parallel are connected head to head and tail to tail which means if they are not connect in this form then they are connected in star or delta"
-alt: ""
+alt: "series and parallel resistors connection"
 weight: "5"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
-layout: learnca
+layout: learnca 
+Google_Ads: true
 draft: false
 wordcount: false
 ---

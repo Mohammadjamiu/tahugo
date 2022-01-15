@@ -2,13 +2,14 @@
 title: "What Is Modulation In Communication? Why Do We Modulate And The Types of Modulation Techniques"
 postdate: December 04, 2021
 image: "/images/modulation_3.jpg"
-description: ""
-alt: ""
+description: "Modulation is the process of using a carrier wave (which is of a high frequency in the range of Mhz and above) to carry a baseband signal over a long distance."
+alt: "modulation explanation"
 weight: "18"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 mathjax: true
 wordcount: false
 draft: false

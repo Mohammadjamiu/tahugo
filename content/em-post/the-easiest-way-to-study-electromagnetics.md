@@ -1,16 +1,17 @@
 ---
 title: "The Easiest Way to Study Electromagnetics"
 postdate: October 07, 2021
-image: ""
+image: "images/learnemag_3.webp"
 description: "As an electrical engineering student, we all have that one course that frightens us and one of them
 is electromagnetics field theory sometimes called engineering electromagnetics. But with how difficult it is, there is still a better way to study it."
-alt: ""
+alt: "how do you learn electromagnetics"
 weight: "3"
 type: em-post
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"
-draft: true
+Google_Ads: true
+draft: false
 ---
 
 As an electrical engineering student, we all have that one course that frightens us and one of them
@@ -47,6 +48,8 @@ world since we have left, right, up and down then in mathematics, we can do that
 by saying x direction is representing left, y is representing right and z is representing up or
 down.
 
+<img loading="lazy" src="/images/learnemag_3.webp" alt="vector x y and z">
+
 Now when you see anything related to vectors, you don’t just look at it as a mathematical expression or tool only
 rather, you see it also in the real world.
 
@@ -56,11 +59,15 @@ The second topic mostly, is the coulomb's law and it relates the force of attrac
 charges but, here is something frightening, none of us has ever seen an electric charge even though
 it is drawn in most textbooks as shown below.
 
+<img loading="lazy" src="/images/learnemag_2.webp" alt="coulomb and electric charge">
+
 But here’s the only way I can help you understand what an attraction between electric charges seems
 like.
 
 By getting two pieces of magnets, if you try to keep them as close as possible to each other, they
 tend to attract but sometimes repels each other.
+
+<img loading="lazy" src="/images/repelandattract_2.jpg" alt="magnets placed together">
 
 Now, with this concept you can relate what force of attraction or repelling is with respect to
 charges.
@@ -84,6 +91,13 @@ each other (note that it’s not always the case that they will attract, sometim
 they are of the same pole).
 
 The space between the magnets that wants them to attract is what we call <span class="text-emphasis">field</span> and if that field is caused by a magnet as in our case, we call it a magnetic field but if it is caused by an electric charge then we call it an electric field.
+
+ <blockquote class="blockquote">
+   <p class="little-nugget">Hence</p>
+   <p class="quote-text">The imaginary lines are defined as the fields </p>
+   </blockquote>
+
+<img loading="lazy" src="/images/learnemag_1.webp" alt="electric and magnetic field">
 
 Remember that you can’t see or touch the field but they are present and the farther you keep the magnets from each other the less the attraction and less the field strength – hope you get the concepts.
 

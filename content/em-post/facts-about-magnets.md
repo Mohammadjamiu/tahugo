@@ -3,9 +3,10 @@ title: "10 Important facts you need to know about magnets and magnetic fields"
 postdate: October 11, 2021
 image: "/images/scrubandfiremagnet_4.jpg"
 description: "If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets. You can kill a magnet and stop it from magnetizing material by burning it with fire."
-alt: ""
+alt: "magnets and magnetic field"
 weight: "3"
 type: em-post
+Google_Ads: true
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"

@@ -4,12 +4,13 @@ title: "Kirchhoff’s current and voltage law explained with steps to solving an
 postdate: October 22, 2021
 image: "/images/kclnode.jpg"
 description: "Kirchhoff's law is an optimized ohm's law which has two laws within it. The kirchhoff's current law (KCL) which deals with node or junction-point and the kirchhoff's voltage law (KVL) which deals with branches."
-alt: ""
+alt: "kvl and kcl"
 weight: "7"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
-layout: learnca
+layout: learnca 
+Google_Ads: true
 wordcount: false
 draft: false
 ---

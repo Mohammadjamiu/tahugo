@@ -9,6 +9,7 @@ author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 draft: false
 wordcount: false
 ---

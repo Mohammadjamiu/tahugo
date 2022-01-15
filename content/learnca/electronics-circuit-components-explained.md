@@ -3,12 +3,13 @@ title: "Electronics Circuit Components And Their Functions Explained"
 postdate: October 07, 2021
 image: "/images/ledy_2.jpg"
 description: "A battery is considered as one of the source of voltage. which is used to power our devices or push electron through a conductor..."
-alt: ""
+alt: "electronics circuit component"
 weight: "3"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
+Google_Ads: true
 draft: false
 ---
 

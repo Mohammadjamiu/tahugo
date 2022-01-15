@@ -4,12 +4,13 @@ title: " How to use a calculator to solve simultaneous equation fast - step
 postdate: October 08, 2021
 image: "/images/reset_2.jpg"
 description: ""
-alt: ""
+alt: "simultaneous equation and calculator"
 weight: "4"
 author: Mohammad Abdul
 categorylink: /categories/maths-and-fun
 categories: ["Maths and Fun"]
 type: posts
+Google_Ads: true
 draft: false
 ---
 

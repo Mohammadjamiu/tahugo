@@ -6,12 +6,13 @@ image: "/images/det-of-x_2.jpg"
 description: "Solving simultaneous equations containing more than two variables
 can be quite daunting if we use either elimination method or
 substitution method because, thing gets a little bit complex."
-alt: ""
+alt: "crammers rule"
 weight: "1"
 author: Mohammad Abdul
 categorylink: /categories/maths-and-fun
 categories: ["Maths and Fun"]
-type: posts
+type: posts 
+Google_Ads: true
 draft: false
 ---
 

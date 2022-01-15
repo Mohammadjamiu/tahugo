@@ -249,16 +249,16 @@ footer h2::after {
   border-radius: 0.1rem;
 }
 footer h3 {
-  font-size: 1.6rem;
+  font-size: 1.62rem;
   font-family: "MuliBold", sans-serif;
   margin-bottom: 1.2rem;
   margin-top: 0.6rem;
 }
 
 footer a {
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   font-family: "Muli", sans-serif;
-  line-height: 2.5rem;
+  line-height: 2.7rem;
   color: var(--black-shade);
 }
 footer a:hover,
@@ -279,7 +279,7 @@ img.footer-icon {
   background-color: transparent;
 }
 .trademark p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-family: "Muli", sans-serif;
   text-align: center;
   line-height: 1.6;

@@ -3,12 +3,13 @@ title: "What Is a Resistor Used For? All You Need To know About Resistors Explai
 postdate: November 02, 2021
 image: "/images/resistoruse_10.jpg"
 description: "A resistor is an electronics component that limits (or reduce) the flow of current in a circuit, as well as cause voltage to be dropped across it."
-alt: ""
+alt: "resistor explained"
 weight: "15"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: false
 draft: false
 ---

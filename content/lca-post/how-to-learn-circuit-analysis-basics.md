@@ -6,16 +6,19 @@ description: "Among the best way of learning to analyze circuits is, to write do
 from the textbook and try to solve it independently without looking at the solution first and if things does
 go wrong, dont worry you can look at how to solve it."
 weight: "2"
+alt: "how to learn circuit analysis"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
-type: posts
+type: posts 
+Google_Ads: true
 draft: false
 ---
 
 When you ask someone how can I learn the basics of circuit analysis?
-Most times the answer is practice-practice-practice. Though that’s
-right but you can only practice stuff you find easier to understand
+Most times the answer is practice-practice-practice.
+
+Though that’s right but you can only practice stuff you find easier to understand
 and the necessary fundamentals to have are also right because, how
 can you even analyze or design a circuit if you don’t know how
 resistor works or you don’t love dealing with calculations.

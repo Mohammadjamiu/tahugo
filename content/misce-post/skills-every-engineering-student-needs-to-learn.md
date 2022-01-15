@@ -11,7 +11,8 @@ weight: "3"
 categorylink: /categories/productivity-and-guides
 author: Mohammad Abdul
 categories: ["Productivity and guides"]
-type: posts
+type: posts 
+Google_Ads: true
 draft: false
 ---
 

@@ -3,12 +3,13 @@ title: "How do solar cells work to generate electricity explained simply?"
 postdate: October 24, 2021
 image: "/images/solarcell_18.jpg"
 description: "The way solar cells work to generate electricity is by absorbing energy from the sun (which constitutes of tiny particles called photons."
-alt: ""
+alt: "solar cells"
 weight: "11"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: false
 draft: false
 ---

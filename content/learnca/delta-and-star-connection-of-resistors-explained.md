@@ -3,12 +3,13 @@ title: "Star - Delta Transformation Explained With Tips On How To Recall The For
 postdate: October 07, 2021
 image: "/images/deltastarillustration.jpg"
 description: "The star and delta transformation involves converting from star to delta or delta to star and we do this when our resistors are not connected in parallel or series."
-alt: ""
+alt: "Star Delta Transformation"
 weight: "6"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
+Google_Ads: true
 draft: false
 wordcount: false
 ---

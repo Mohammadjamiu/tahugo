@@ -9,7 +9,8 @@ author: {{ .Site.Params.author }}
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
-mathjax: true
+Google_Ads: false
+mathjax: false
 wordcount: false
 draft: false
 ---

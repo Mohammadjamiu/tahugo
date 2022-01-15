@@ -29,7 +29,7 @@ section.pagebody h2 {
   align-self: flex-start;
 }
 p.description {
-  font-size: 1.24rem;
+  font-size: 1.25rem;
   font-family: "Muli", sans-serif;
 }
 
@@ -47,7 +47,7 @@ a.wow-electromag-on-what-topic {
   font-weight: 400 !important;
   color: var(--primary-color);
   display: inline-block;
-  font-size: 1.245rem;
+  font-size: 1.25rem;
   border-radius: 0.3rem;
 }
 

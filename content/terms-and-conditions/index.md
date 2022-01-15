@@ -107,7 +107,7 @@ We shall not be hold responsible for any content that appears on your Website. Y
 
 ## Your Privacy
 
-Please read Privacy Policy < add link here
+Please read <a href="/privacy-policy/" class="links-to-article" > Privacy Policy</a>
 
 ## Reservation of Rights
 

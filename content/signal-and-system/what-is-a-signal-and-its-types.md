@@ -3,12 +3,13 @@ title: "What Is a Signal and its Different Types In Electronics And Communicatio
 postdate: November 30, 2021
 image: "/images/signals_6 (2).jpg"
 description: "A signal is a function of an independent variable (e.g. of space, time, or density) that carries information representing a physical phenomenon. So anything that carries information is considered a signal"
-alt: ""
+alt: "What Is a Signal and its Different Types"
 weight: "16"
 author: Mohammad Abdul
 categorylink: /categories/signals-and-system
 categories: ["Signals and System"]
 type: posts
+Google_Ads: true
 mathjax: true
 wordcount: false
 draft: false
@@ -55,7 +56,7 @@ Even and odd signal
 Energy and power signal
 </li>
 <li>
-Casual, anti-casual and non-casual signal
+causal, anti-causal and non-causal signal
 </li>
 
 </ul>
@@ -165,12 +166,12 @@ $$\int_{-∞}^{∞} |x(t)|^{2} dt$$
 
 You can read more on what <a class="links-to-article" href="/signals-and-system/how-do-you-solve-energy-and-power-signals-problem/"> power and energy signals </a> are with some shortcut to help you know if a signal is a power or an energy signal.
 
-## Casual, Anti-casual and Non-casual signal
+## causal, Anti-causal and Non-causal signal
 
-{{< ste >}}Casual signal{{</ ste >}} is a signal that has zero value for all negative time.
+{{< ste >}}causal signal{{</ ste >}} is a signal that has zero value for all negative time.
 
-{{< ste >}}Anti-casual signal{{</ ste >}} is the opposite of casual as it has zero value for all positive time.
+{{< ste >}}Anti-causal signal{{</ ste >}} is the opposite of causal as it has zero value for all positive time.
 
-{{< ste >}}Non casual signal{{</ ste >}} has no zero values in both the positive and negative time.
+{{< ste >}}Non causal signal{{</ ste >}} has no zero values in both the positive and negative time.
 
 <img loading="lazy" src="/images/signals_9.jpg" alt="non-deterministic (or random) signals">

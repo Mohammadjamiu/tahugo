@@ -9,6 +9,7 @@ author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: false
 mathjax: true
 draft: true
@@ -22,10 +23,14 @@ draft: true
 
 ## Derivation of frequency modulation (FM) formula
 
-In general, angle modulated signal is represented as S(t) = Ac cos(thetai(t)) and the instantaneous frequency (i.e. the frequency at each instance) is defined as fi(t) = fc + kfm(t).
+In general, angle modulated signal $S(t)$ is represented as $S(t) = A_{c}cos[\theta_{i}(t)]$ and the instantaneous frequency (i.e. the frequency at each instance) is defined as $f_{i}(t) = f_{c} + k_{f}m(t)$.
+
+Also, $m(t) = A_{m}\cos\omega(t)$ is the message or original signal.
 
 From this, here are few things to understand;
 
-The instantaneous frequency has the combination of the frequency of the carrier wave itself, the message signal m(t) and frequency sensitivity kf. But as the angle modulated wave is a function of theta, we need to express frequency in terms of theta.
+The instantaneous frequency has the combination of the frequency of the carrier wave itself, the message signal $m(t)$ and frequency sensitivity kf. But as the angle modulated wave is a function of theta, we need to express frequency in terms of theta.
 
-Recall that angular frequency w = the derivative of theta, so to get theta we need to integrate bothside. Also recall that w=2pif and substitute.
+Recall that angular frequency is equal to the derivative of theta $\omega = \frac{\text{d}\theta}{\text{d}t}$, so to get theta we need to integrate bothside. Also recall that $\omega(t) = 2\pi f$ and substitute.
+
+=2\pi[f_{c}(t) + \frac{k_{f}A_{m}\sin \omega_{m}(t)}{\omega_{m}(t)}]

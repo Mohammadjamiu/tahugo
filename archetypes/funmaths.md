@@ -9,7 +9,8 @@ author: {{ .Site.Params.author }}
 categorylink: /categories/maths-and-fun
 categories: ["Maths and Fun"]
 type: posts
-mathjax: true
+Google_Ads: false
+mathjax: false
 wordcount: false
 draft: false
 ---

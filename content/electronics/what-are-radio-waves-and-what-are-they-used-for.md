@@ -3,12 +3,13 @@ title: "What are radio waves? What are radio waves used for? All you need to kno
 postdate: December 11, 2021
 image: "/images/radio.jpg"
 description: "Radio waves are part of the electromagnetic spectrum family with frequencies in the range of 3Khz to 300Ghz which consist of radio frequency RF waves and microwaves. They are called wireless wave because the word radio is used to signify wireless communication"
-alt: ""
+alt: "explanation of radio waves"
 weight: "19"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
 type: posts
+Google_Ads: true
 wordcount: false
 draft: false
 ---

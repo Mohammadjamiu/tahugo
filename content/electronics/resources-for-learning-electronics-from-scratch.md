@@ -4,12 +4,13 @@ postdate: October 29, 2021
 image: "/images/learnelectronics.jpg"
 description: "Learning electronics can be fun sometimes but other times can be really frustrating.
 So having good resources around can help reduce those frustrations and enhance your knowledge on how to build circuits or even how to troubleshoot electronic gadgets."
-alt: ""
+alt: "electronics resources"
 weight: "12"
 author: Mohammad Abdul
 categorylink: /categories/electronics
 categories: ["Electronics"]
-type: posts
+type: posts 
+Google_Ads: true
 wordcount: false
 draft: false
 ---
@@ -88,7 +89,7 @@ Mjlorton also have great videos on how to use an oscilloscope, a power supply an
 <li>
 <a class="links-to-others" target="_blank" href="https://www.youtube.com/c/mcwhorpj/featured">Paul McWhorter </a>
 <br>
-As building circuit with microcontroller is becoming popular and well used, having a knowledge on how to use Arduino or Raspberry Pie is really essential in your journey of becoming an electronics hobbyist. 
+As building circuit with microcontroller is becoming popular and well used, having a knowledge on how to use Arduino or Raspberry Pie is really essential in your journey of becoming an electronics hobbyist.
 
 <br>
 Because microcontroller are the key kit or electronic gadgets that IOT (internet of things) revolves around, also it allows you to build circuits fast without having to do everything from scratch.
