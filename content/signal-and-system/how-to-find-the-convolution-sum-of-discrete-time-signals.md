@@ -12,7 +12,7 @@ type: posts
 Google_Ads: true
 mathjax: true
 wordcount: false
-draft: false
+draft: true
 ---
 
 Convolution of two discrete time signal can be achieved using the convolution sum.
