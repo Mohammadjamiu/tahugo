@@ -52,7 +52,7 @@ $dB = 20\log_{10}{\frac{2}{4}} = -6dB$.
 
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
-<p class="quote-text">In the context of power -3dB is means half of the reference or transmitted power. While in voltage -6dB refers to half of the reference value.</blockquote>
+<p class="quote-text">In the context of power -3dB is means half of the reference or transmitted power. While in voltage -6dB refers to half of the reference value.</p></blockquote>
 <br>
 
 However when you see -3dB, it doesn’t simply mean there is a power loss or -6db means there is a voltage loss because dB is just a unit that does not simply elaborate in what context it need to be used or mean.
