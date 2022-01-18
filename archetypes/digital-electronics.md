@@ -6,7 +6,7 @@ description: ""
 alt: ""
 weight: ""
 author: {{ .Site.Params.author }}
-categorylink: /categories/electronics
+categorylink: /categories/digital-electronics/
 categories: ["Digital Electronics"]
 type: posts
 Google_Ads: false

@@ -6,7 +6,7 @@ description: "PAL is said to be a PLD with a programmable AND array and a fixed 
 alt: ""
 weight: "34"
 author: Mohammad Abdul
-categorylink: /categories/electronics
+categorylink: /categories/digital-electronics/
 categories: ["Digital Electronics"]
 type: posts
 Google_Ads: false
