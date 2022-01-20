@@ -226,6 +226,7 @@ header nav a:focus {
 footer {
   background-color: var(--footer-color);
   padding: 4rem 0 2rem 0rem;
+width: 100%;
 }
 
 .footer-content-block {
@@ -233,6 +234,8 @@ footer {
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   gap: 2rem;
   margin: 0 2rem 2rem 2rem;
+
+
 }
 
 footer h2 {
