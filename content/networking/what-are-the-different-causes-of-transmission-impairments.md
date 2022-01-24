@@ -15,6 +15,7 @@ mathjax: false
 draft: false
 ---
 
+
 {{< ste >}} Transmission impairment {{</ ste >}} is as a result of imperfections in a transmission medium. It occurs when the signal at the receiving end is different from the signal been sent (at the transmitting end).
 
 <blockquote class="blockquote">
@@ -25,12 +26,14 @@ draft: false
 
 ## Causes of transmission impairments
 
-There are three types of transmission impairments which you can recall as {{< ste >}} DAN {{</ ste >}}. As in “DAN is the cause of transmission impairment”. Where D is distortion, A is attenuation and N is noise, so let discuss each below;
+There are three types of transmission impairments which you can recall as {{< ste >}} DAN {{</ ste >}}. As in “DAN is the cause of transmission impairment”. Where D is distortion or dispersion, A is attenuation and N is noise, so let discuss each below;
 
 1. {{< ste >}} Distortion {{</ ste >}}
 
    Distortion means a deformation in the shape of a signal.
    It can occur due to different signals mixing up and the rate at which they travel are different which leads to different phase (hence different waveforms).
+
+   In optics fiber communication, distortion can be termed to be <a class="links-to-article" href="/networking/what-is-dispersion-in-optical-fiber-and-the-types/">dispersion</a> loss.
 
    <img loading="lazy" src="/images/distortion_1.webp" alt="transmission impairment due to distortion">
 
