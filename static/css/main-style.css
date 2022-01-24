@@ -180,6 +180,11 @@ h2.curious-more-r::after {
   /* margin-bottom: 4rem; */
 }
 
+/* post learn is to add the height of 32 rem */
+.post-learn {
+  height: 32rem;
+}
+
 .post-more-r {
   display: flex;
   height: 15rem;
