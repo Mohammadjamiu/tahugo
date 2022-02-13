@@ -82,6 +82,8 @@ This sequence number also help to figure out if there is a missing packet.
 
 If there is a missing packet, it sends an acknowledgement seeking for the missing packet.
 
+This type of technique is used in the Internet
+
 Packet switching is further divided into two;
 
 <ul class="ul-in-post">
@@ -126,4 +128,4 @@ Message arrives in the order that it is been sent.
 
 3. If a packet is lost, sender needs to resend the missing packet.
 
-4. The protocol or rule for packet switching are quite complex.
+4. The protocol for packet switching are quite complex.
