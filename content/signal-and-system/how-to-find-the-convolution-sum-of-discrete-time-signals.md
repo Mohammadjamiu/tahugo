@@ -21,15 +21,15 @@ Convolution of two discrete time signal can be achieved using the convolution su
 
 It is defined as:
 
-$ X(n) = X1(n) \circledast X2(n)$ which can be calculated using
+$ Y(n) = x*{1}(n) \circledast x*{2}(n) $ which can be calculated using
 
-X(n) = summation of k ; X1(k)X2(n-k)
+$ Y(n) = \sum*{k=0} x*{1}(k)x\_{2}(n-k) $
 
-In essence one of the signal maybe x1(n) is kept the way it is while the other is shifted and the sum of their products results in the convolution sum of two signals.
+In essence one of the signal maybe $ x\_{1}(n)$ is kept the way it is while the other is shifted and the sum of their products results in the convolution sum of two signals.
 
-Notice that instead of x1(n) and x2(n), x1(k) and x2(n-k) is used. The ‘n’ in the discrete time signal is changed to k, in the convolution domain while the n that is still appearing in x(n-k) is used for the shifting of x2(n), also the (-k) simply means that the x2(n) is folded or reversed.
+Notice that instead of $ x*{1}(n)$ and $ x*{2}(n) $, $x_{1}(k)$ and $x_{2}(n-k)$ is used. The $‘n‘$ in the discrete time signal is changed to $k$, in the convolution domain while the n that is still appearing in $x(n-k)$ is used for the shifting of $ x*{2}(n) $, also the $(-k)$ simply means that the $ x*{2}(n) $ is folded or reversed.
 
-Hence x1(n) is x1(k) and x2(n) is x2(-k + n). don’t worry we will solve some problems so you can understand it better.
+Hence $ x*{1}(n) $ is $x*{1}(k)$ and $ x*{2}(n) $ is $x*{2}(-k + n)$. don’t worry we will solve some problems so you can understand it better.
 
 ## Types (and method) of convolution sum
 
@@ -55,7 +55,7 @@ The properties entail the operation that can be done on a signal that needs to b
 {{< ste >}} Commutative{{</ ste>}}
 <br>
 
-If two signals x1(n) and x2(n) are convoluted, then it can be said that x2(n) is convoluted with x1(n). just like 2 _ 3 = 3 _ 2;
+If two signals $ x*{1}(n) $ and $ x*{2}(n) $ are convoluted, then it can be said that $ x*{2}(n) $ is convoluted with $ x*{1}(n) $. Just like 2 _ 3 = 3 _ 2;
 
 {{< ste >}} Associative{{</ ste>}}
 <br>
@@ -65,23 +65,27 @@ Signals can be grouped and convoluted just as (2 _ 3) _ 2 can be rewritten as (2
 {{< ste >}} Distributive{{</ ste>}}
 <br>
 
-It says if we have two signals are added together and are then convoluted with a third signal, it is same as taking the convolution of each signal with the third signal.
+It says if we have two signals added together and are then convoluted with a third signal, it is same as taking the convolution of each signal with the third signal. $ [x_{1}(n) + x_{2}(n)] \circledast x*{3}(n) $ = $ [x*{1}(n) \circledast x*{3}(n)] + [x*{2}(n) \circledast x\_{3}(n)] $
 
 ## How to solve the convolution sum of two sequences (or discrete signals)?
 
-Given that x(n) = { 0, 0(origin), 1, 1, 1 } and h(n) = { 0, 1, 2(origin), 3, 0 } find y(n) = x(n) \_ h(n)
+Given that $x(n) = [ 0, 0(origin), 1, 1, 1 ] $ and
+
+$h(n) = [ 0, 1, 2(origin), 3, 0 ]$
+
+find $ y(n) = x(n) \circledast h(n)$
 
 {{< ste >}} Step 1:{{</ ste >}}
 <br>
 
 Draw the signal; noting that the values in the { } are the amplitude of the signal while the arrow below it signifies the origin of the signal and anything before the origin goes to negative time axis while anything after the origin goes to the positive side of the time axis.
 
-Also, n will be now k so we have x(k) and h(k)
+Also, $n$ will be now $k$ so we have $x(k)$ and $h(k)$
 After drawing the signal as shown above, note the point on the time axis for each signal at which a tangible value exists other than one.
 
-As in the case of our example, the tangible value for x(n) starts at one on time axis with value of one while for h(n) the tangible value starts at -1 on the time axis because it has a value of 1.
+As in the case of our example, the tangible value for $x(n)$ starts at one on time axis with value of one while for $h(n)$ the tangible value starts at -1 on the time axis because it has a value of 1.
 
-Then as it is known that for x(n), tangible value starts at 1 and -1 for h(n) on the time axis. So in order to know where the third signal will start from, you just need to add the values together i.e. 1 + (-1) = 0.
+Then as it is known that for x(n), tangible value starts at 1 and for h(n) it starts at -1 on the time axis. So in order to know where the third signal will start from, you just need to add the values together i.e. 1 + (-1) = 0.
 
 So the third signal will be starting at 0.
 
@@ -90,7 +94,7 @@ So the third signal will be starting at 0.
 
 Count the length of x(n) and h(n).
 
-The length for x(n) is 3 (i.e. 1,1,1) as 0,0 is not a tangible value also the length for h(n) is also 3 (i.e. 1,2,3) as the beginning and ending zero is useless.
+The length for $x(n)$ is 3 (i.e. 1,1,1) as 0,0 is not a tangible value also the length for h(n) is also 3 (i.e. 1,2,3) as the beginning and ending zero are useless.
 
 Note that had it been that x(n) is {0,0,1,1,0,1} then its length will be 4 (i.e. 1,1,0,1) but you might be wondering that why do we count the zero also. It needs to be counted as it is surrounded by tangible values but for the rest they are just left alone at the beginning or the end.
 Now after getting the length, just add them together hence we have L = 3 + 3 = 6.
@@ -106,18 +110,18 @@ h(k) needs to be reversed as h(-k) then after that, you start utilizing the inte
 
 For n = 0, h(-k + n) = h(-k + 0) = h(-k)
 So you need not to shift h(-k) as it is same as what we have already drawn so just multiply amplitude of x(n) \_ h(-k) and add them. Make sure that each time on axis matches
-So y(0) = x(n) \_ h(-k) = (0)(3) + (0)(2) + (1)(1) = 1
+So y(0) = x(k) \_ h(-k) = (0)(3) + (0)(2) + (1)(1) = 1
 
 For n = 1, h(-k + n) = h(-k + 1); so you need to shift h(-k) forward once.
-then y(1) = x(n) \* h(-k + 1) = (0)(3) + (1)(2) + (1)(1) + (1)(0) = 2 + 1 = 3
+then y(1) = x(k) \* h(-k + 1) = (0)(3) + (1)(2) + (1)(1) + (1)(0) = 2 + 1 = 3
 
 For n = 2, h(-k + n) = h(-k + 2); so you need to shift h(-k) forward twice.
-then y(2) = x(n) \* h(-k + 2) = (0)(0) + (1)(3) + (1)(2) + (1)(1) = 3 + 2 + 1 = 6
+then y(2) = x(k) \* h(-k + 2) = (0)(0) + (1)(3) + (1)(2) + (1)(1) = 3 + 2 + 1 = 6
 
 For n = 3, h(-k + n) = h(-k + 3); so you need to shift h(-k) forward thrice.
-then y(3) = x(n) \* h(-k + 3) = (1)(0) + (1)(3) + (1)(2) + … = 3 + 2 = 5
+then y(3) = x(k) \* h(-k + 3) = (1)(0) + (1)(3) + (1)(2) + … = 3 + 2 = 5
 
 For n = 4, h(-k + n) = h(-k + 3); so you need to shift h(-k) forward thrice.
-then y(4) = x(n) \* h(-k + 4) = (1)(0) + (1)(0) + (1)(3) + … = 3
+then y(4) = x(k) \* h(-k + 4) = (1)(0) + (1)(0) + (1)(3) + … = 3
 
 therefore, y(n) = {1, 3, 6, 5, 3}
