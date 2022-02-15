@@ -227,7 +227,7 @@ table {
   font-size: 1.64rem;
   min-width: 30rem;
   border-radius: 0.5rem 0.5rem 0 0;
-  overflow: hidden;
+  overflow-x: auto;
   box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
 }
 table thead tr {
