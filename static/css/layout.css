@@ -221,12 +221,48 @@ header nav a:focus {
   color: var(--primary-color);
 }
 
+table {
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 1.64rem;
+  min-width: 30rem;
+  border-radius: 0.5rem 0.5rem 0 0;
+  overflow: hidden;
+  box-shadow: 0 0 0.2rem rgba(0, 0, 0, 0.15);
+}
+table thead tr {
+  /* background-color: var(--primary-color); */
+  background-color: var(--telecoms-color);
+  color: #fff;
+  text-align: left;
+  font-family: "MuliBold", sans-serif;
+  text-transform: capitalize;
+}
+
+table th,
+table td {
+  padding: 1.2rem 1.5rem;
+  font-family: "Muli", sans-serif;
+  text-transform: capitalize;
+}
+
+table tbody tr {
+  border-bottom: 0.1rem solid #071b336e;
+  /* background-color: hsla(215, 77%, 54%, 0.15); */
+}
+table tbody tr:nth-of-type(even) {
+  background-color: #091b3115;
+}
+table tbody tr:last-of-type {
+  border-bottom: 0.15rem solid var(--telecoms-color);
+}
+
 /* ! Footer section */
 
 footer {
   background-color: var(--footer-color);
   padding: 4rem 0 2rem 0rem;
-width: 100%;
+  width: 100%;
 }
 
 .footer-content-block {
@@ -234,8 +270,6 @@ width: 100%;
   grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
   gap: 2rem;
   margin: 0 2rem 2rem 2rem;
-
-
 }
 
 footer h2 {
