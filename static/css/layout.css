@@ -226,9 +226,9 @@ table {
   margin: 25px 0;
   font-size: 1.64rem;
   /* min-width: 25rem; */
-  max-width: 28rem;
+  min-width: 28rem;
   border-radius: 0.5rem 0.5rem 0 0;
-  overflow-x: scroll;
+
   box-shadow: 0 0 0.2rem rgba(153, 111, 111, 0.15);
 }
 table thead tr {
@@ -250,6 +250,7 @@ table td {
 table tbody tr {
   border-bottom: 0.1rem solid #071b336e;
   /* background-color: hsla(215, 77%, 54%, 0.15); */
+  overflow-x: auto;
 }
 table tbody tr:nth-of-type(even) {
   background-color: #091b3115;
