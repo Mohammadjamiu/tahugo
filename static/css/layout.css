@@ -323,6 +323,12 @@ img.footer-icon {
 
 .trademark {
   padding-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background: #2223251c; */
+  /* border-top: 0.2rem solid #2223251c; */
 }
 
 .trademark p {
@@ -331,9 +337,12 @@ img.footer-icon {
   text-align: center;
   line-height: 1.6;
 }
+.trademark p:last-of-type {
+  margin-top: 0;
+}
 
 .trademarkplus {
-  background: #2223251c;
+  /* background: #2223251c; */
   font-size: 1.4rem;
   font-family: "Muli", sans-serif;
   display: flex;
@@ -342,7 +351,9 @@ img.footer-icon {
   justify-content: center;
   line-height: 1.6;
   flex-wrap: wrap;
-  padding: 2rem;
+  padding: 2.5rem ;
+  border-top: 0.1rem solid #2223251c;
+  border-bottom: 0.1rem solid #2223251c;
 }
 
 .trademarkplus a {
