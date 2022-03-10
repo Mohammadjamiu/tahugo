@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{/* head */}}
+  <head>
+{{ partial "analytics_mainstyles" .}}
+
+
+{{ $onboarStyle := "/css/on-board.css" }}
+<link rel="stylesheet" href={{ $onboarStyle }} />
+{{ $articlesStyle := "/css/postpage-style.css" }}
+<link rel="stylesheet" href={{ $articlesStyle }} />
+{{ partial "metatags.html" .}}
+  </head>
+
+  <body>
+    {{ partial "header.html" .}}
+<div class="we-get-back-body" >
+    <div class="container" >
+
+        <h1 style="color: #fff; font-family: Muli,sans-serif; font-size: 2.5rem;">Oops! We couldn't found that page</h1>
+       
+       <br> <h2 style="color: #fff; font-family: Muli, sans-serif; font-size: 2rem;">But we got you covered - by looking through this category</h2>
+      <div class="tag-to-others">
+
+
+
+<li><a class="tto-telecoms" href="/categories/productivity-and-guides/"> Productivity + guides</a></li>
+<li><a class="tto-telecoms" href="/categories/circuit-analysis/"> Circuit Analysis </a></li>
+<li><a class="tto-emag" href="/categories/electromagnetics/"> Electromagnetics </a></li>
+
+<li><a class="tto-telecoms" href="/categories/maths-and-fun/"> Maths For Noobs </a></li>
+<li><a class="tto-telecoms" href="/categories/electronics/"> Electronics </a></li>
+
+</div>
+    <br>
+    <a href="/" class="on-board">Back to homepage</a> </div>
+    
+  </div>
+
+{{ partial "footer.html" . }}
+{{ partial "js.html" . }}
+   
+</body>
+
+</html>
