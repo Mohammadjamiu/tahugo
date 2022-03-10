@@ -7,7 +7,6 @@ h2 {
   line-height: 1.35;
 }
 
-<<<<<<< HEAD
 h3 {
   font-size: 1.9rem;
   font-family: "MuliBold", sans-serif;
@@ -17,8 +16,6 @@ h3 {
   line-height: 1.35;
 }
 
-=======
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 p {
   font-size: 1.65rem;
   font-family: "Muli", sans-serif;
@@ -215,10 +212,6 @@ img {
   padding: 0.1rem;
   box-shadow: 0px 1px 4px hsla(213, 69%, 11%, 0.199);
   border-radius: 0.4rem;
-<<<<<<< HEAD
-=======
-  
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 }
 
 .hide-show-image {
@@ -272,8 +265,7 @@ button.see-answer {
   height: 16rem;
 }
 
-<<<<<<< HEAD
-iframe {
+/* iframe {
   border: 0.1rem solid var(--slidebar-color);
   padding: 0.1rem;
   box-shadow: 0px 1px 4px hsla(213, 69%, 11%, 0.199);
@@ -281,10 +273,8 @@ iframe {
   display: block;
   overflow: auto;
   white-space: nowrap;
-}
+} */
 
-=======
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 /* !Media queries */
 
 @media (min-width: 770px) {

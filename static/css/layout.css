@@ -181,20 +181,13 @@ header nav {
   /* display: none; */
 
   position: fixed;
-<<<<<<< HEAD
 
   background-color: var(--footer-color);
   height: calc(48vh - 5rem);
   top: 5rem;
   width: 100vw;
   z-index: 3000;
-=======
-  background-color: rgb(255, 255, 255);
-  height: calc(50vh - 5rem);
-  top: 5rem;
-  width: 100vw;
-  z-index: -44000;
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
+
   /* left: -100vw; */
   top: -100%;
   transition: top 200ms ease-in-out;
@@ -237,16 +230,10 @@ table {
   /* min-width: 25rem; */
   min-width: 25rem;
   border-radius: 0.5rem 0.5rem 0 0;
-<<<<<<< HEAD
-
   box-shadow: 0 0 0.2rem rgba(153, 111, 111, 0.15);
   display: block;
   overflow-x: auto;
   white-space: nowrap;
-=======
-  overflow-x: auto !important;
-  box-shadow: 0 0 0.2rem rgba(153, 111, 111, 0.15);
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 }
 table thead tr {
   /* background-color: var(--primary-color); */
@@ -333,19 +320,17 @@ img.footer-icon {
   border: 0;
   background-color: transparent;
 }
-<<<<<<< HEAD
+
 .trademark {
   padding-top: 2rem;
 }
-=======
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
+
 .trademark p {
   font-size: 1.4rem;
   font-family: "Muli", sans-serif;
   text-align: center;
   line-height: 1.6;
 }
-<<<<<<< HEAD
 
 .trademarkplus {
   background: #2223251c;
@@ -365,8 +350,6 @@ img.footer-icon {
   color: #222325;
 }
 
-=======
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 .logo-footer {
   text-align: center;
   margin-top: 2rem;
@@ -400,7 +383,7 @@ img.footer-icon {
     max-width: 80rem;
     margin: 0 0 0 4.5rem;
   }
-<<<<<<< HEAD
+
   /* 
   .menu-icon {
     display: none;
@@ -414,14 +397,6 @@ img.footer-icon {
 
 @media (min-width: 1100px) {
   /* ! Header style for desktop   */
-=======
-
-  .menu-icon {
-    display: none;
-  }
-
-  /* ! Hedaer style for desktop   */
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 
   header {
     display: flex;
@@ -464,12 +439,10 @@ img.footer-icon {
     color: var(--primary-color);
   }
 
-<<<<<<< HEAD
   .menu-icon {
     display: none;
   }
 
-=======
   /*! Hero - Hero say little adjustment */
   .hero .hero-say {
     width: 60%;
@@ -477,7 +450,6 @@ img.footer-icon {
 }
 
 @media (min-width: 1100px) {
->>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
   .desktop-sidebar {
     background-color: cornflowerblue;
     z-index: -2;
