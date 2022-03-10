@@ -66,7 +66,11 @@ The device that can be found in layer 3 is a router.
 
 The transport layer is the fourth layer in the OSI Model and it is responsible for managing the delivery of packets. In other words, it sends an acknowledgement when data is received (Yey! it is successful) or when data is lost or missing.
 
+<<<<<<< HEAD
 This layer uses a TCP (Transmission Control Protocol) and UDP (User Datagram Protocol) protocols. The TCP is quite similar to the UDP and it is used for error handling and sequencing to ensure that there are no missing packets or data.
+=======
+This layer uses a TCP and UDP protocols. The TCP is quite similar to the UDP and it is used for error handling and sequencing to ensure that there is no missing packets or data.
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 
 ## Session Layer
 
@@ -82,6 +86,7 @@ It is also used for encryption/decryption and compression/decompression of data.
 
 The application layer which is the top layer and it is the layer that allows users and applications to communicate. In other words, it is responsible for managing the communication between applications.
 
+<<<<<<< HEAD
 This layer supports different protocols such as SMTP (which allows sending of email), HTTP (which is an application layer protocol for transmitting hypermedia document), FTP etc.
 
 ## summary
@@ -99,3 +104,6 @@ This layer supports different protocols such as SMTP (which allows sending of em
 6. Presentation layer is the layer 6 and it deals with translation of data.
 
 7. Application layer is the layer 7 and it helps in managing the communication between application with the end user.
+=======
+This layer supports different protocols such as SMTP (which allows sending of email), HTTP, FTP etc.
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde

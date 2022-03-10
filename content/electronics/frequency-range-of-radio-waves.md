@@ -17,6 +17,7 @@ draft: false
 
 The frequency range of radio waves are specified in the table below with the EM spectrum (band) and their respective application.
 
+<<<<<<< HEAD
 | s/n | frequency range | EM spectrum (Band)      | Application                                   |
 | :-- | :-------------- | :---------------------- | --------------------------------------------- |
 | 1.  | 30Hz - 300Hz    | ELF                     | Power line communications                     |
@@ -29,6 +30,20 @@ The frequency range of radio waves are specified in the table below with the EM 
 | 8.  | 300Mhz - 3GHz   | UHF                     | cellular, TV communication                    |
 | 9.  | 3Ghz - 30GHz    | SHF                     | Microwave communication                       |
 | 10. | 30Ghz - 300GHz  | EHF                     | Radar, satellite communication                |
+=======
+| frequency range | EM spectrum (Band)      | Application                                   |
+| :-------------- | :---------------------- | --------------------------------------------- |
+| 30Hz - 300Hz    | ELF                     | Power line communications                     |
+| 300Hz - 3KHz    | Voice/ speech Frequency | Speech, voice communication                   |
+| 3KHz - 30KHz    | VLF                     | Long-range radio navigation                   |
+| 30KHz - 300KHz  | LF                      | navigational locator, submarine communication |
+| 300KHz - 3MHz   | MF                      | AM Radio                                      |
+| 3Mhz - 30MHz    | HF                      | Ship/Aircraft                                 |
+| 30Mhz - 300MHz  | VHF                     | FM broadcasting                               |
+| 300Mhz - 3GHz   | UHF                     | cellular, TV communication                    |
+| 3Ghz - 30GHz    | SHF                     | Microwave communication                       |
+| 30Ghz - 300GHz  | EHF                     | Radar, satellite communication                |
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 
 Note:
 

@@ -1,6 +1,10 @@
 section.pagebody {
   margin: 2rem 0;
+<<<<<<< HEAD
   overflow-x: auto;
+=======
+  overflow-x: hidden;
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 }
 section.pagebody .container {
   display: flex;

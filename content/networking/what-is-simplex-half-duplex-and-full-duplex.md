@@ -23,12 +23,15 @@ draft: false
 
 In simplex mode, the direction at which devices communicate is unidirectional i.e. one can only send while the other can receive and not the other way round.
 
+<<<<<<< HEAD
 Examples of device that use simplex mode;
 
 1. Keyboard
 1. Monitor
 1. Speaker
 
+=======
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 For example, a keyboard can only send to a monitor, and a monitor can only display the information on its screen.
 
 ## Half duplex mode of communication
@@ -37,6 +40,7 @@ In half-duplex, each device can both transmit and receive information or communi
 
 Another example is if computer A is sending to computer B, computer B has to wait until computer A is done sending before it can send.
 
+<<<<<<< HEAD
 In half-duplex, since communication is one way there is high rate of collision which can be controlled by using CSMA/CD (Carrier Sense Multiple Access with Collision Detection).
 
 Examples of device that use half duplex mode is Walkie-talkie.
@@ -47,6 +51,13 @@ In full-duplex which can be called duplex for short, devices can both transmit a
 
 Examples of device that use full duplex mode is the
 telephone network.
+=======
+In half-duplex, since communication is one way there is high rate of collision which can be controlled by using CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
+
+## Full duplex mode of communication
+
+In full-duplex which can be called duplex for short, devices can both transmit and receive information or communicate with one another simultaneously. Just as in the telephone network.
+>>>>>>> 2a18e4ad34a21db51b657d643ac4c27c80f98dde
 
 As oppose to half-duplex, full-duplex is a two way communication that does not need CSMA/CD.
 
