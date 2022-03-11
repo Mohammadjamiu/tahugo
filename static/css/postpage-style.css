@@ -52,7 +52,7 @@ div.tag-to-others {
   color: var(--primary-color);
   background: rgba(45, 121, 228, 0.3);
   display: inline-block;
-  width: 24rem;
+  /* width: 24rem; */
   padding: 0.5rem;
   border-radius: 0.2rem;
   margin: 0.3em;
@@ -64,7 +64,7 @@ div.tag-to-others {
   color: rgb(228, 152, 45);
   background: rgba(228, 152, 45, 0.3);
   display: inline-block;
-  width: 24rem;
+  /* width: 24rem; */
   padding: 0.5rem;
   border-radius: 0.2rem;
   margin: 0.3rem;
@@ -75,7 +75,7 @@ div.tag-to-others {
   padding-right: 2rem;
   /* background: rgba(45, 121, 228, 0.35); */
   background: rgba(57, 68, 85, 0.253);
-  width: 24rem;
+  /* width: 24rem; */
   color: var(--primary-color);
   display: inline-block;
 
@@ -89,7 +89,7 @@ div.tag-to-others {
   color: rgb(116, 167, 230);
   background: rgba(41, 94, 160, 0.4);
   display: inline-block;
-  width: 24rem;
+  /* width: 24rem; */
   padding: 0.5rem;
   border-radius: 0.2rem;
   margin: 0.3rem;

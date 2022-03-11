@@ -7,6 +7,7 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 paginate = 10
+summaryLength = 2
 ################################# Default parameters ##########################
 
 
@@ -39,8 +40,8 @@ paginate = 10
         url = "/posts/"
         weight = 2
     [[menu.main]]
-        name = "Learn Circuit Analysis"
-        url = "/learnca/"
+        name = "Contact"
+        url = "/contact/"
         weight = 3
   
     [[menu.main]]

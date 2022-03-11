@@ -1,10 +1,12 @@
 
     <nav>
+
+         
         <ul>
           
             {{ range .Site.Menus.main}}
             {{ $text := .Name | safeHTML }}
-            {{ $lca := "Learn Circuit Analysis"  }}
+            {{ $lca := "Posts"  }}
             {{ if ne $text $lca }}
             <li><a  href="{{ .URL }}">{{ $text }}</a></li>
            
