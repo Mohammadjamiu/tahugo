@@ -66,6 +66,7 @@ section .overlay {
   margin-bottom: 0.6rem;
   font-family: "MuliBold", sans-serif;
   color: #fff;
+  text-align: center;
 }
 
 .hero .limit::after {
@@ -83,6 +84,7 @@ section .overlay {
   margin-bottom: 0.6rem;
   font-family: "MuliBold", sans-serif;
   color: #fff;
+  text-align: center;
 }
 
 .hero .stuff::after {
@@ -304,6 +306,12 @@ section.ask-ta {
 
   background-color: #152c49;
 }
+section.about-ta-homepage .container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 section.about-ta-homepage {
   /* margin: 5rem 0 0 0; */
   padding: 4rem 0;
@@ -334,7 +342,7 @@ h2.do-you-want::after {
 h2.problem-solved {
   text-transform: capitalize;
   color: #fff;
-  font-size: 2.2rem;
+  font-size: 2.3rem;
   margin-bottom: 0.6rem;
   font-family: "MuliBold", sans-serif;
 }
@@ -352,7 +360,7 @@ h2.about-ta-homepage-headline {
   text-transform: capitalize;
   color: #fff;
   font-size: 2.05rem;
-
+  align-self: flex-start;
   font-family: "MuliBold", sans-serif;
 }
 
@@ -836,7 +844,7 @@ h2.one-fold::after {
   h2.curious,
   h2.one-fold,
   h2.curious-more-r {
-    font-size: 2.5rem;
+    font-size: 2.2rem;
     text-transform: capitalize;
   }
   .posts,
@@ -901,12 +909,16 @@ h2.one-fold::after {
     line-height: 1.5;
   }
 
+  h2.about-ta-homepage-headline {
+    font-size: 2.2rem;
+  }
+
   /* ! Wow electromag style */
 
   h2.the-next,
   h2.the-next-electromag,
   h2.still-pending {
-    font-size: 2.4rem;
+    font-size: 2.2rem;
   }
 
   h2.the-next::after {
