@@ -374,14 +374,12 @@ h2.about-ta-homepage-headline::after {
 }
 
 h3.about-ta-homepage-content {
- 
-font-family: "Muli", sans-serif;
-font-size: 1.68rem;
-font-weight: 500;
-line-height: 1.6;
-color: #f1f1f1;
-margin: 2.5rem 0 2rem;
-
+  font-family: "Muli", sans-serif;
+  font-size: 1.68rem;
+  font-weight: 500;
+  line-height: 1.6;
+  color: #f1f1f1;
+  margin: 2.5rem 0 2rem;
 }
 
 .ask-ta p {

@@ -5,6 +5,7 @@ section.pagebody {
 section.pagebody .container {
   display: flex;
   flex-direction: column;
+
   justify-content: center;
   align-items: flex-start;
 }
@@ -38,6 +39,7 @@ p.description {
 p.descriptionfrontmatter {
   font-size: 1.25rem;
   font-family: "Muli", sans-serif;
+
   font-weight: 500;
   display: flex;
   flex-direction: row;
@@ -50,6 +52,7 @@ a.one-fold-on-what-topic,
 a.wow-electromag-on-what-topic {
   text-transform: capitalize;
   font-family: "Muli", sans-serif;
+
   /* font-weight: 400 !important; */
   padding: 0 0.5rem;
   color: var(--primary-color);

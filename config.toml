@@ -7,10 +7,12 @@ enableRobotsTXT = true
 canonifyURLs = true
 
 paginate = 10
+
 ################################# Default parameters ##########################
 
 
 [params]
+
   author = "Mohammad Jamiu"
   og_image = "/images/tabluelogopng.png"
  

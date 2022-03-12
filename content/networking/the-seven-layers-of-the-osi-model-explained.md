@@ -99,3 +99,22 @@ This layer supports different protocols such as SMTP (which allows sending of em
 6. {{< ste >}} Presentation layer {{</ ste >}} is the layer 6 and it deals with translation of data.
 
 7. {{< ste >}} Application layer {{</ ste >}} is the layer 7 and it helps in managing the communication between application with the end user.
+
+8. Physical layer is the layer 1 and it deals with bits.
+
+9. Data-link layer is the layer 2 and it deals with putting packet of bits into frames.
+
+10. Network layer is the layer 3 and it deals with routing and addressing of packets of data.
+
+11. Transport layer is the layer 4 and it deals with managing the delivery of packets of data.
+
+12. Session layer is the layer 5 and it deals with setting up and terminating of session.
+
+13. Presentation layer is the layer 6 and it deals with translation of data.
+
+14. Application layer is the layer 7 and it helps in managing the communication between application with the end user.
+
+This layer supports different protocols such as SMTP (which allows sending of email), HTTP, FTP etc.
+
+> > > > > > > 2a18e4ad34a21db51b657d643ac4c27c80f98dde
+> > > > > > > dfcbf542e3eb9a6d7996423b3a883500116082c5

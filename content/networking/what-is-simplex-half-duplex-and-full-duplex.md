@@ -48,6 +48,12 @@ In full-duplex which can be called duplex for short, devices can both transmit a
 Examples of device that use full duplex mode is the
 telephone network.
 
+In half-duplex, since communication is one way there is high rate of collision which can be controlled by using CSMA/CD (Carrier Sense Multiple Access with Collision Detection)
+
+## Full duplex mode of communication
+
+In full-duplex which can be called duplex for short, devices can both transmit and receive information or communicate with one another simultaneously. Just as in the telephone network.
+
 As oppose to half-duplex, full-duplex is a two way communication that does not need CSMA/CD.
 
 ## Summary

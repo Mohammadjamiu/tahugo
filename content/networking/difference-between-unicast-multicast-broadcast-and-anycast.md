@@ -20,6 +20,11 @@ draft: false
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
 <p class="quote-text">
+<<<<<<< HEAD
+The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.
+
+
+
 The term cast is referred to as the streams of bits (called packets) which are transmitted from the client side to the recipent side over a communication link or channel.
 
 </p>
