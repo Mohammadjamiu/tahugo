@@ -1,0 +1,53 @@
+{{ define "main"}}
+<section class="ourpost-foreground">
+    <div class="container">
+      <h2> {{ .Params.Title }}</h2>
+    
+
+      {{ $readingTime := .ReadingTime }}
+      {{ $readingTime := print $readingTime "mins" | safeHTML }}
+    
+      <p class="description-lca">
+        {{ if .Params.WordCount}}
+        {{.WordCount}}
+       {{end}}
+       By {{ .Params.author }} | {{ .Params.PostDate }} | 
+        <a class="on-what-topic-lca" href="{{.Params.Categorylink}}">{{if isset .Params "categories" }}{{ delimit .Params.Categories " " }}{{end}}</a> | Estimated Reading Time - {{ $readingTime }}
+         
+      </p>
+    </div>
+  </section>
+
+  <section class="pagebody">
+    <div class="container">
+     
+{{ .Content }}
+<a data-az-l="ed7eb2d8-ae9b-4f3c-a934-a97ebd6954fb" class="feedback-distinguish">Leave us with a
+  feedback if any
+  - on how this article helps or tell us your own thought.</a>
+ 
+  {{partial "socialshare.html" . }}
+<div>
+
+  <div class="lca-navigation">
+    {{with .PrevInSection }}
+    <a href="{{.RelPermalink}}" class="lca-nav-next">
+      {{.Title}}
+    </a>
+    {{end}}
+    {{with .NextInSection }}
+    <a href="{{.RelPermalink}}" class="lca-nav-prev">
+      {{.Title}} </a>
+    {{end}}
+</div>
+
+</div>
+    </div>
+  </section>
+
+
+
+
+
+
+{{end}}
