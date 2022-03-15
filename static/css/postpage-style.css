@@ -107,23 +107,38 @@ section.content-section .our-post h2 {
 h2.curious::after {
   content: "";
   background-color: var(--primary-color);
-  height: 0.2rem;
+
   width: 15rem;
-  display: block;
+ 
   border-radius: 0.1rem;
   color: var(--black-shade);
+
+  height: 0.5rem;
+ 
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: 1px;
+  z-index: -10;
+  border-radius: 0.1rem;
 }
 
 h2.the-next::after {
   content: "";
 
-  height: 0.2rem;
   width: 15rem;
-  display: block;
+
   border-radius: 0.1rem;
   color: var(--black-shade);
 
   background-color: var(--complementary-color);
+
+  display: inline-block;
+  position: absolute;
+  left: 0;
+  bottom: -7px;
+  z-index: -10;
+  border-radius: 0.1rem;
 }
 
 section.telecoms-in-one-fold {

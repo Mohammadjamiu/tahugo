@@ -8,7 +8,15 @@ h2 {
 }
 
 h3 {
-  font-size: 1.9rem;
+  font-size: 2rem;
+  font-family: "MuliBold", sans-serif;
+  margin: 1rem 0;
+  text-transform: capitalize;
+  color: var(--slidebar-color);
+  line-height: 1.35;
+}
+h4 {
+  font-size: 1.7rem;
   font-family: "MuliBold", sans-serif;
   margin: 1rem 0;
   text-transform: capitalize;
@@ -80,6 +88,25 @@ p {
 }
 
 .quote-text {
+  margin: 0.6rem 0;
+  font-size: 1.5rem;
+  font-family: "MuliItalic", sans-serif;
+  font-style: italic;
+  color: var(--slidebar-color);
+}
+
+blockquote {
+  /* border: 0.1rem solid var(--primary-color); */
+  background-color: hsla(215, 77%, 54%, 0.15);
+  border-left: 0.6rem solid var(--primary-color);
+  padding: 1rem 1.5rem 1rem 2rem;
+
+  border-radius: 0.2rem;
+  font-family: "Muli", sans-serif;
+  margin: 1rem auto 2rem;
+}
+
+blockquote > p {
   margin: 0.6rem 0;
   font-size: 1.5rem;
   font-family: "MuliItalic", sans-serif;
