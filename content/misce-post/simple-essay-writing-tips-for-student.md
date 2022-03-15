@@ -15,10 +15,10 @@ wordcount: false
 draft: false
 ---
 
-<p class="description">
+<!-- <p class="description">
 NB: This post contains an affliate link - which means TA might get a
 commission as you subscribe but, at no extra cost to you.
-</p>
+</p> -->
 
 <img loading="lazy" src="/images/studentessay.jpg" alt="Simple essay writing tips to help students write better essays and have good grades">
 

@@ -14,12 +14,12 @@ categories: ["Productivity and guides"]
 type: posts 
 Google_Ads: true
 draft: false
----
+--- 
 
-<p class="description">
+<!-- <p class="description">
 NB: This post contains some affliate links - which means TA might get a
 commission as you subscribe but, at no extra cost to you.
-</p>
+</p> -->
 <img loading="lazy" src="/images/payoff_2.jpg" alt="">
 <div class="content">
 <p>

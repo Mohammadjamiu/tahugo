@@ -12,7 +12,7 @@ type: posts
 Google_Ads: false
 wordcount: false
 mathjax: false
-draft: false
+draft: true
 ---
 
 **Logic gates** are electronic circuits or devices that forms the basic building block for combinational circuits. It can be used to implement boolean expressions such as addition, subtraction etc.
