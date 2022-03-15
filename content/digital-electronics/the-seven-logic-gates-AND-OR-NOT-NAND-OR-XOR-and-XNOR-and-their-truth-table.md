@@ -12,7 +12,7 @@ type: posts
 Google_Ads: false
 wordcount: false
 mathjax: false
-draft: true
+draft: false
 ---
 
 **Logic gates** are electronic circuits or devices that forms the basic building block for combinational circuits. It can be used to implement boolean expressions such as addition, subtraction etc.
@@ -51,11 +51,15 @@ Before discussing on each logic gates, their symbol, function and truth table, w
 
 A NOT gate is a basic logic gate which is used to perform an inversion or complementation.
 
-#### Symbol
+#### Symbol of a NOT gate
 
-#### Operation:
+<img loading="lazy" src="/images/logicgate_3.webp" alt="A not gate">
+
+#### Operation of a NOT gate
 
 > A NOT gate is used to invert the input applied to it i.e. when a HIGH is applied at the input it results in a LOW and when a LOW is applied to the input it results in a HIGH.
+
+<img loading="lazy" src="/images/logicgate_1.webp" alt="inputs to an inverter gate">
 
 #### Truth table - For a NOT gate
 
@@ -66,8 +70,10 @@ A NOT gate is a basic logic gate which is used to perform an inversion or comple
 
 #### Application of a NOT gate
 
-It can be used to construct a circuit which produces 1’s complement of an 8-bit binary number.
-The bit is applied to the input of the invert and a resulting 1’s complement is available at the output.
+It can be used to construct a circuit which produces 1’s complement of an 4-bit binary number.
+The bit is applied to the input of the NOT gate and a resulting 1’s complement is available at the output.
+
+<img loading="lazy" src="/images/logicgate_4.webp" alt="ones complement">
 
 </br>
 
@@ -75,7 +81,9 @@ The bit is applied to the input of the invert and a resulting 1’s complement i
 
 An AND gate is a basic logic gate which is used to perform an AND operation or logical multiplication.
 
-#### Symbol
+#### Symbol of an AND gate
+
+<img loading="lazy" src="/images/andgate_1.webp" alt="An AND gate">
 
 <br>
 
@@ -86,6 +94,8 @@ The way an AND gate operates is quite similar to the normal multiplication we ar
 > Furthermore, An AND gate produces a HIGH output only when all of the inputs are HIGH. When any of the inputs is LOW, the output is LOW.
 
 Therefore, the purpose of an AND gate can be said to check when a certain condition is simultaneously HIGH so it produce a HIGH.
+
+<img loading="lazy" src="/images/logicand_1.webp" alt="inputs to an AND gate">
 
 #### Truth table - For a 2 input AND gate
 
@@ -102,19 +112,25 @@ It can be used to make an Enable/Inhibit i.e. to allow the flow or passage of pu
 
 The function of an AND gate in this case is to output a HIGH when the clock signal is applied and the enable signal is also HIGH. If the enable is off, then there will be no clock to clock the counter.
 
+<img loading="lazy" src="/images/logicgate_8.webp" alt="Application of an AND gate">
+
 </br>
 
 ### OR gate
 
 An OR gate is another basic logic gate which is used to perform an OR operation or logical addition.
 
-#### Symbol
+#### Symbol of an OR gate
+
+<img loading="lazy" src="/images/logicgate_7.webp" alt="An OR gate">
 
 #### Operation of an OR Gate
 
 The way an OR gate operates is similar to normal addition but in this case its addition is with logical Booleans. i.e. if a one is added to another one it results in one. Also, if a one is added to a zero it yields a one.
 
 > Furthermore, An OR gate produces a HIGH output if any of its input is HIGH but will produce a LOW only if all its input is LOW
+
+<img loading="lazy" src="/images/logicgate_2.webp" alt="input to an OR gare">
 
 #### Truth table - For a 2 input OR gate
 
@@ -131,6 +147,8 @@ It can be used in simple intrusion detection and alarm system. The OR gate can b
 
 If it is open, it results in a HIGH which will in turn trigger the alarm but if both the door and the window is closed then the output of the OR gate will be LOW which means that the alarm will not be triggered.
 
+<img loading="lazy" src="/images/logicgate_6.webp" alt="application of OR gate">
+
 </br>
 
 ### NAND gate
@@ -139,11 +157,15 @@ A NAND gate is a contraction of the word (NOT-AND). It is a universal gate and c
 
 #### Symbol of a NAND gate
 
+<img loading="lazy" src="/images/logicgate_5.webp" alt="A NAND gate">
+
 #### Operation of a NAND gate
 
 The operation of a NAND gate is just an opposite of an AND gate. In other words, the output of an AND gate which is inverted is the output of a NAND gate.
 
 > If both inputs of a NAND gate is HIGH, it outputs a LOW while if one or all of its input is LOW, it outputs a HIGH.
+
+<img loading="lazy" src="/images/logicgate_10.webp" alt="input to NAND gate">
 
 #### Truth table - For a 2 input NAND gate
 
@@ -166,11 +188,15 @@ The NOR gate is also a universal gate as it can be used for performing an AND, O
 
 #### Symbol of a NOR gate
 
+<img loading="lazy" src="/images/logicgate_9.webp" alt="A NOR gate">
+
 #### Operation of a NOR gate
 
 Just as the NAND gate and the AND gate, a NOR gate’s output is opposite to that of the OR gate.
 
 > i.e. if any of the input is HIGH, a LOW is outputted but if all the input is LOW then it will output a HIGH.
+
+<img loading="lazy" src="/images/logicgate_14.webp" alt="input to a NOR gate">
 
 #### Truth table - For a 2 input NOR gate
 
@@ -187,11 +213,15 @@ Just as the NAND gate and the AND gate, a NOR gate’s output is opposite to tha
 
 A XOR gate is a logic gate which is formed from the combination of other gates.
 
-#### Symbol
+#### Symbol of a XOR gate
 
-#### Operations
+<img loading="lazy" src="/images/logicgate_11.webp" alt="A XOR gate">
+
+#### Operations of a XOR gate
 
 > When both inputs are different (i.e. HIGH and LOW or vice-versa) the output will be HIGH while if both inputs are same, it will output a LOW.
+
+<img loading="lazy" src="/images/logicgate_16.webp" alt="input to a XOR gate">
 
 #### Truth table - For a 2 input XOR gate
 
@@ -208,11 +238,17 @@ A XOR gate is a logic gate which is formed from the combination of other gates.
 
 A XNOR gate is a logic gate which is also formed from the combination of other gates.
 
-#### Operations
+#### Symbol of a XNOR gate
+
+<img loading="lazy" src="/images/logicgate_12.webp" alt="A XNOR gate">
+
+#### Operations of a XNOR gate
 
 The output of a XNOR is an opposite to the output of a XOR gate.
 
 > When both inputs are different (i.e. HIGH and LOW or vice versa) the output will be LOW while if both inputs are same, it will output a HIGH.
+
+<img loading="lazy" src="/images/logicgate_15.webp" alt="input to a XNOR gate">
 
 #### Truth table - For a 2 input XNOR gate
 

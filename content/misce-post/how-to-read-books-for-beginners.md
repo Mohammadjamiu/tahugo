@@ -112,4 +112,4 @@ As technology has advanced, books have been transcribed or recorded as audio whi
 
 ## Conclusion
 
-I hope these tips will help you through in reading more books effectively and fun.
+I hope these tips will help you through in reading more books effectively with fun.
