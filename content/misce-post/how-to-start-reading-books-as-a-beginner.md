@@ -1,5 +1,5 @@
 ---
-title: "How to Read Books for Beginners"
+title: "How to start reading books as a beginner (11 Tips on how to read 2 books a week)."
 postdate: March 14, 2022
 image: ""
 description: "Most people are frightened out and unmotivated when they hear people say I used to read three books a week or I read 100 books a year. With the point that is shared in this post, reading a book will become fun."
@@ -23,7 +23,7 @@ The truth of the matter is that yes most people are able to do so but in reality
 
 and that’s why in this post I will be answering questions such as “how to read books for beginners? or how do I start reading books as a beginner? or where should I start from? or even so what is the easiest way to read books?”
 
-**Here are some list of points on how to read books for beginners:**
+**Here are 11 tips on how to start reading books as a beginner:**
 
 1. Read the title well and see recommendations
 

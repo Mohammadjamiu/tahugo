@@ -41,7 +41,7 @@ Programmable logic device (PLD) can be thought of as a blank slate device that c
 
 1. PAL denotes programmable array logic while PLA denotes programmable logic array.
 
-2. PAL has a simpler structure as it contains a programmable AND array but has flexibility issue as it contains fixed OR array while PLA is flexible but not simpler than PAL in terms of structure as it contains programmable AND followed by programmable OR array.
+2. while PLA is flexible but not simpler than PAL in terms of structure as it contains programmable AND followed by programmable OR array.
 
 3. The cost of PAL is low compared to PLA
 

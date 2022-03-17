@@ -15,7 +15,7 @@ mathjax: false
 draft: false
 ---
 
-{{< ste >}} OSI Model {{</ ste >}} which is termed as Open System Interconnection is a model which is used for standardizing communication across network.
+{{< ste >}} OSI Model {{</ ste >}} which is termed as Open System Interconnection is a model which is used for standardizing communication across network or it can be said to be a standard architecture which is used for designing network.
 
 It helps to make troubleshooting of network problem easily as it breaks a complex network into several manageable segments. The OSI model consist of 7 layers.
 
@@ -38,6 +38,18 @@ The seven layers of an OSI model is as follows;
 1). Physical Layer
 
 The layers can be memorized or remembered with a mnemonics starting from top to bottom as {{< ste >}} (All People Seems To Need Data Processing) {{</ ste >}} or from bottom to top as {{< ste >}} (Please Do Not Throw Sausage Pie Away) {{</ ste >}}.
+
+## Table showing the OSI model layers and their fuctions
+
+| no. | Layers             | Function                                                        |
+| :-- | :----------------- | --------------------------------------------------------------- |
+| 7   | Application Layer  | responsible for managing the communication between applications |
+| 6   | Presentation Layer | responsible for translating data                                |
+| 5   | Session Layer      | responsible for setting-up or terminating of sessions           |
+| 4   | Transport Layer    | responsible for managing the delivery of packets                |
+| 3   | Network Layer      | responsible for addressing and routing                          |
+| 2   | Data link Layer    | responsible for putting streams of bit into frames              |
+| 1   | Physical Layer     | responsible for the conveying of bits across network            |
 
 ## Physical Layer
 
@@ -99,22 +111,3 @@ This layer supports different protocols such as SMTP (which allows sending of em
 6. {{< ste >}} Presentation layer {{</ ste >}} is the layer 6 and it deals with translation of data.
 
 7. {{< ste >}} Application layer {{</ ste >}} is the layer 7 and it helps in managing the communication between application with the end user.
-
-8. Physical layer is the layer 1 and it deals with bits.
-
-9. Data-link layer is the layer 2 and it deals with putting packet of bits into frames.
-
-10. Network layer is the layer 3 and it deals with routing and addressing of packets of data.
-
-11. Transport layer is the layer 4 and it deals with managing the delivery of packets of data.
-
-12. Session layer is the layer 5 and it deals with setting up and terminating of session.
-
-13. Presentation layer is the layer 6 and it deals with translation of data.
-
-14. Application layer is the layer 7 and it helps in managing the communication between application with the end user.
-
-This layer supports different protocols such as SMTP (which allows sending of email), HTTP, FTP etc.
-
-> > > > > > > 2a18e4ad34a21db51b657d643ac4c27c80f98dde
-> > > > > > > dfcbf542e3eb9a6d7996423b3a883500116082c5
