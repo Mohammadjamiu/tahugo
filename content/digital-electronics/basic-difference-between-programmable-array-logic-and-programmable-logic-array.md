@@ -9,7 +9,7 @@ author: Mohammad Abdul
 categorylink: /categories/digital-electronics/
 categories: ["Digital Electronics"]
 type: posts
-Google_Ads: false
+Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: "How to start reading books as a beginner (11 Tips on how to read 2 books a week)."
+title: "How to start reading books as a beginner (11 Tips on how to read 2 books a week)"
 postdate: March 14, 2022
 image: ""
 description: "Most people are frightened out and unmotivated when they hear people say I used to read three books a week or I read 100 books a year. With the point that is shared in this post, reading a book will become fun."
@@ -9,7 +9,7 @@ author: Mohammad Jamiu
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
-Google_Ads: false
+Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
