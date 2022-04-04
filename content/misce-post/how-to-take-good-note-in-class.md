@@ -2,9 +2,9 @@
 title: "How to Take Good Note in Class"
 postdate: April 04, 2022
 image: ""
-description: ""
+description: "Taking good notes in class can not only enhance your study performance but also increase your academic points "
 alt: ""
-weight: ""
+weight: "49"
 author: Mohammad Jamiu
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
@@ -15,7 +15,7 @@ mathjax: false
 draft: false
 ---
 
-Taking good notes in class can not only enhance your study performance but also increase your academic points.
+**Taking good notes in class can not only enhance your study performance but also increase your academic points**.
 
 That’s why to take good notes is vital as a student because there are times whereby you write down some things in your note, studied it and understood it well but as exams approaches,
 
