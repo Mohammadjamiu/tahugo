@@ -1,10 +1,10 @@
 ---
-title: "Thevenin's Theorem Explain With Solved Examples"
+title: "Thevenin's Theorem Explained With Solved Examples"
 postdate: May 16, 2022
-image: ""
-description: ""
+image: "/images/thev_1.webp"
+description: "Thevenin theorem is a theorem used to model complex circuits into a simple circuit with an equivalent voltage source and resistance."
 alt: ""
-weight: ""
+weight: "8"
 author: Mohammad Jamiu
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
@@ -55,7 +55,6 @@ There are different variations but at the end of the day, the output of those ch
    Also if there is R<sub>L</sub> then, you need to replace the open terminal a &#8594; b with R<sub>L</sub> as shown below and lastly find the current that flow through R<sub>L</sub> as the current that flows through it is not I<sub>sc</sub>.
 
 <img loading="lazy" src="/images/thev_10.webp" alt="thevenin equivalent short circuit">
-
 
 Lets solve some examples to understand the concept better.
 
