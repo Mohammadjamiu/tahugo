@@ -9,7 +9,7 @@ author: Mohammad Jamiu
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
 layout: learnca
-Google_Ads: false
+Google_Ads: true
 mathjax: true
 wordcount: false
 draft: false
