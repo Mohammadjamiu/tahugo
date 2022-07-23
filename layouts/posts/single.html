@@ -101,10 +101,11 @@
 </div>
 {{end}}
 
-<div style="width: 100%;height: 5rem;position: sticky;bottom: 0vh; background-color: red;">
-  {{ partial "stickybottomads.html" . }}
-
-</div>
+<div style="width: 100%;max-height: 5rem;position: sticky;z-index: 345475747;
+bottom: 0vh; background-color: transparent; display: flex; flex-direction: column; align-items: center;">
+    {{ partial "stickybottomads.html" . }}
+  
+  </div>
 
 
 {{ partial "footer.html" . }}
