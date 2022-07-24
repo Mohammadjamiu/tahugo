@@ -30,9 +30,9 @@ One of the major difference between a step index fiber and a graded index fiber 
    <img loading="lazy" src="/images/fiberoptics_4.webp" alt="single mode and multimode">
 1. The single mode step index fiber which is also called mono-mode step index fiber has a core diameter in the order of 2 – 10um while the multimode step index fiber has a core diameter greater than 50um(micro meter).
 1. Light propagates in step index fiber in a zig-zag form.
-1. In single mode step index fiber, there is the presence of low intermodal dispersion (i.e. there is less pulse broadening) while in multimode step index fiber, because of many rays of light propagates through the fiber there is the presence of pulse broadening.
+1. In single mode step index fiber, there is the presence of low intermodal <a class="links-to-article" href="/networking/what-is-dispersion-in-optical-fiber-and-the-types/">dispersion</a> (i.e. there is less pulse broadening) while in multimode step index fiber, because of many rays of light propagates through the fiber there is the presence of pulse broadening.
 1. Because of pulse broadening, multimode has low bandwidth and it can be used in low bandwidth application while single mode has a higher bandwidth than multimode.
-1. Also due to the low bandwidth of the multimode step index fiber, it has more attenuation that that of the single-mode step index fiber.
+1. Also due to the low bandwidth of the multimode step index fiber, it has more <a class="links-to-article" href="/networking/what-are-the-different-causes-of-transmission-impairments/">attenuation</a> that that of the single-mode step index fiber.
 1. Step index fiber is often used for short distance communication.
 
 ### Graded index fiber

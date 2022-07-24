@@ -56,7 +56,7 @@ These impurities are of two types; those with pentavalent (or 5 valence electron
 <p class="little-nugget">Note</p>
 <p class="quote-text">
 A doped silicon semiconductor is referred to as an extrinsic semiconductor.
-</blockquote>
+</p></blockquote>
 <br>
 
 When a silicon semiconductor is doped with a pentavalent element or atom (e.g. phosphorus - which has an atomic number of 15 and valence electron of 5), the 4 valence electron of the silicon combines with the 5 valence electrons of phosphorus which results in an extra electron from the phosphorus.
@@ -85,7 +85,7 @@ It is just as saying, rubbing a rod with a cloth is the same as rubbing a cloth 
 <br>
 <br>
 So both hole or electron flow constitutes electricity basically.
-</blockquote>
+</p></blockquote>
 <br>
 
 After doping the silicon with either a pentavalent or trivalent impurity, it is cut into little or light sheets. These light sheets (also called wafers) are what a solar cell is made up of. But the solar cells don't just have a p-type or n-type sheet only but rather both.
@@ -104,7 +104,7 @@ The depletion region or layer is the driving force that causes electrons (from t
 <p class="little-nugget">Note</p>
 <p class="quote-text">
 In the depletion region, electrons and holes stick together, and also the electrons in the depletion region align themselves near the p-type side while the holes in the depletion region align themselves near the n-type side. 
-</blockquote>
+</p></blockquote>
 <br>
 
 Now you might think that since the electrons in the depletion region lie near to the p-type, or the holes in the depletion region lie near the n-type, they will attract each other according to the principle that {{< ste >}}like charges repel and unlike charges attract{{</ ste >}}.
@@ -115,7 +115,7 @@ Also, these electrons and holes that align themselves to the ends of the depleti
 <blockquote class="blockquote">
 <p class="little-nugget">Note</p>
 <p class="quote-text">
-The n-type sheet is heavily doped hence, it is a light sheet and has a small depletion region why the p-type is lightly doped hence, has a larger depletion region.</blockquote>
+The n-type sheet is heavily doped hence, it is a light sheet and has a small depletion region why the p-type is lightly doped hence, has a larger depletion region.</p></blockquote>
 <br>
 
 <img loading="lazy" src="/images/solarcell_14.jpg" alt="">
