@@ -9,7 +9,7 @@ author: Mohammad Jamiu
 categorylink: /categories/productivity-and-guides
 categories: ["Productivity and guides"]
 type: posts
-Google_Ads: false
+Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
