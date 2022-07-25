@@ -9,7 +9,7 @@ author: Mohammad Jamiu
 categorylink: /categories/networking-and-communication
 categories: ["Networking and Communication"]
 type: posts
-Google_Ads: false
+Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
