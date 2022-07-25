@@ -3,8 +3,8 @@ title: "What Is Optical Amplifier and Its Types?"
 postdate: July 24, 2022
 image: ""
 description: "Optical amplifiers are used to amplify signal soa s to reduce signal attenuation as the signal travels along the fiber. SOA, RFA and EDFA are the most important types of optical amplifiers "
-alt: "53"
-weight: ""
+alt: ""
+weight: "53"
 author: Mohammad Jamiu
 categorylink: /categories/networking-and-communication
 categories: ["Networking and Communication"]
