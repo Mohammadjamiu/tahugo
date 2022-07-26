@@ -1,3 +1,8 @@
+h3{
+  font-family: "Muli", sans-serif;
+  font-size: 1.6rem;
+  font-weight: 500;
+}
 section.ourpost-foreground {
   background-color: var(--slidebar-color);
 
@@ -199,3 +204,4 @@ a.get-in-touch {
 .donate a {
   color: var(--primary-color);
 }
+

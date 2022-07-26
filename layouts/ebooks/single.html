@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+    {{/* head */}}
+  <head>
+{{ partial "analytics_mainstyles" .}}
+
+{{ $learncaStyle := "/css/learnca-style.css" }}
+<link rel="stylesheet" href={{ $learncaStyle }} />
+{{ $articlesStyle := "/css/articles-styles.css" }}
+<link rel="stylesheet" href={{ $articlesStyle }} />
+
+{{ partial "metatags.html" .}}
+  </head>
+
+  <body>
+{{ partial "tagmanager_closetag.html" .}}
+{{ partial "header.html" .}}
+{{ block "main" . }}
+<section class="pagebody">
+  <div class="container">
+    <div class="frontline">
+      <span style="color: #2d79e4;">{{ .Params.PostDate }} </span>
+      <h1>
+        {{ .Params.Title }}
+      </h1>
+      <!-- <h3 class="on-what-topic">Telecoms / Networking</h3> -->
+      <p class="descriptionfrontmatter">
+        {{ $readingTime := .ReadingTime }}
+        {{ $readingTime := print $readingTime "mins" | safeHTML }}
+      
+        {{ if .Params.WordCount}}
+    {{.WordCount}}
+   {{end}}
+   
+        By {{ .Params.author }} | #{{.Params.weight}} | 
+        <a class="on-what-topic" href="{{.Params.Categorylink}}">{{if isset .Params "categories" }}{{ delimit .Params.Categories " " }}{{end}}</a> | Estimated Reading Time - {{ $readingTime }}
+       
+        
+       
+      </p>
+
+   
+   
+       
+        
+     
+    </div>
+    <div class="bar-style"></div>
+    <div class="content">
+
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7879769699553347"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7879769699553347"
+     data-ad-slot="6282128625"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+    {{ .Content }}
+
+</div>
+
+
+ 
+<a data-az-l="ed7eb2d8-ae9b-4f3c-a934-a97ebd6954fb" class="feedback-distinguish">Leave us with a
+  feedback if any
+  - on how this article helps or tell us your own thought.</a>
+  
+{{partial "newsocialshare.html" . }}
+  
+       
+        <div class="readmore-recommend">
+        <br>
+          <h2>More For You</h2>
+          
+      <!-- {{ $related:=  (.Site.RegularPages.Related .) | first 4 }} -->
+      {{ $related:=  (.Site.RegularPages.Related .) | shuffle | first 5 }}
+     
+      {{ range $related }}
+          <ul class="ul-in-post">
+            <li><a class="links-to-others" href="{{.RelPermalink}}">{{.Title}}</a></li>
+           
+          </ul>
+          {{end}}
+        </div>
+
+
+  </div>
+
+
+
+  <!-- <li><a href="{{.RelPermalink}}">{{.Title}}</a></li> -->
+
+<div class="desktop-sidebar">
+
+</div>
+
+
+</section>
+
+
+
+{{ end }}
+{{if .Params.Customads_grammarly}}
+<div class="container">
+  <a href="https://www.kqzyfj.com/click-100490785-12490443" target="_top" style="margin: 0 auto">
+    <img loading="lazy" src="/images/grammarlyads.jpg" width="auto" height="100%" alt="make your writings error free with Grammarly" style="margin: 2rem auto 4rem;"/></a>
+
+
+</div>
+{{end}}
+
+<!-- <div style="width: 100%;max-height: 5rem;position: sticky;z-index: 345475747;
+bottom: 0vh; background-color: transparent; display: flex; flex-direction: column; align-items: center;">
+    {{ partial "stickybottomads.html" . }}
+  
+  </div> -->
+
+
+{{ partial "footer.html" . }}
+{{ partial "js.html" . }}
+   
+</body>
+
+</html>
+
