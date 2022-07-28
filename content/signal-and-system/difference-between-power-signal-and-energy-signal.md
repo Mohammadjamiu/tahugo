@@ -15,7 +15,7 @@ wordcount: false
 draft: false
 ---
 
-In one of our previous post we discuss about how to solve energy and power signal problems step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.
+In one of our previous post we discuss about how to solve <a class="links-to-article" href="/signal-and-system/how-do-you-solve-energy-and-power-signals-problem/">energy and power signal problems</a> step by step with tips and shortcut and we briefly talk about what power and energy signal is. But in this post we would be discussing about the differences between power signal and energy signal.
 
 ## Difference between power signal and energy signal
 
