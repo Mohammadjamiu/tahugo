@@ -1,5 +1,6 @@
 ---
 title: "Free Ebooks"
 layout: ebooks
-_categories: ["Electronics-ebook"]
+_ebookcategories: ["Electrical engineering",
+"Telecommunications engineering"]
 ---
