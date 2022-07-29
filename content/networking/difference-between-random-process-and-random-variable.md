@@ -31,10 +31,21 @@ For example, tossing a coin will either yield a head or tail. The tossing of the
 S = {H, T} where S is the sample space holding all the possible outcome.
 P(X=head) – this is the probability that a head will be gotten, where X is the random variable.
 
-## Type of random processes
+## Difference between random process and random variable
 
-{{< ste >}} Strict sense stationary random process {{</ ste >}}
-A random process is said to be strict sense stationary or simply stationary if none of its statistics is affected by a shift in time origin. i.e. the occurrence of a function x(t1) at t1 is same at x(t2) when there is a shift from 1 to 2.
+### Random process
 
-{{< ste >}} Wide sense random process {{</ ste >}}
-A random process is said to be wide sense stationary if two of its statistics (mean and autocorrelation) is not affected by a shift in time origin or do not vary with a shift in time.
+1. it is denoted with a capital X(t)
+
+2. it is associated with time
+3. it is the collection of several random variables
+4. it is also called stochastics process
+5. it is used to denoted random signal such as noise in communication
+
+### Random variable
+
+1. it is denoted with a capital X without the t. and it consist of small x's which serves as the random values.
+   for instance the value of apple in a basket store in a random variable called valueOfApple
+
+2. it is not associated with time rather with values
+3. it is the collection of several random value
