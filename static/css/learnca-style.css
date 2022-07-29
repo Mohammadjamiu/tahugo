@@ -231,7 +231,7 @@ li br {
 
 img {
   margin: 3rem auto;
-  min-width: 38rem;
+  width: 38rem;
   /* min-height: 17rem;
   max-height: 25rem; */
   height: 30rem;
