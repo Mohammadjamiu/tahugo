@@ -22,6 +22,7 @@ In one of our previous post we discuss about how to solve <a class="links-to-art
 ### Power signal
 
 1. Power signal has finite power
+
 2. It has an infinite energy
 3. If the amplitude of a signal is constant as the function tends to infinity at time (t) the, that signal is a power signal
 4. Periodic signals are power signals
@@ -30,6 +31,7 @@ In one of our previous post we discuss about how to solve <a class="links-to-art
 ### Energy signal
 
 1. Energy signal has finite energy
+
 2. It has a zero power
 3. If the amplitude of a signal is zero as the function tends to infinity at time (t) the, that signal is an energy signal
 4. Non-periodic signals are energy signals

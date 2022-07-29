@@ -231,9 +231,10 @@ li br {
 
 img {
   margin: 3rem auto;
-  max-width: 100%;
-  min-height: 17rem;
-  max-height: 25rem;
+  width: 40rem;
+  /* min-height: 17rem;
+  max-height: 25rem; */
+  height: 30rem;
   display: block;
   border: 0.1rem solid var(--slidebar-color);
   padding: 0.1rem;
