@@ -6,13 +6,14 @@ description: ""
 alt: ""
 weight: "26"
 author: Mohammad Abdul
-categorylink: /categories/electronics
-ebookcategories: ["Electrical engineering"]
+categorylink: /ebookcategories/electrical-engineering
+ebookcategories: ["Electrical-engineering"]
 type: ebooks
+layout: ebooks
 Google_Ads: true
 wordcount: false
 mathjax: true
-draft: true
+draft: false
 ---
 
 bnm,.

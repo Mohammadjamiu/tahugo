@@ -42,7 +42,7 @@
      
 
 
-      {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "ebook-files"  }} 
+      {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "ebooks"  }} 
   {{ range (.Paginate $pag).Pages }}
      
     
