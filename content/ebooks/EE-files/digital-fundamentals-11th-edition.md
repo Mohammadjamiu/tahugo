@@ -2,9 +2,9 @@
 title: "[PDF] Digital Fundamentals 11th Edition by Thomas L. Floyd"
 postdate: July 31, 2022
 image: "/images/thomaslfloyd.png"
-description: ""
+description: "Digital fundamentals pdf free download by Thomas L. Floyd"
 alt: ""
-weight: ""
+weight: "1"
 author: Mohammad Jamiu
 categorylink: /ebookcategories/electrical-engineering
 ebookcategories: ["Electrical engineering"]
@@ -70,6 +70,7 @@ Data Processing and Control
 **CHAPTER 15**
 Integrated Circuit Technologies
 
+</br>
 </br>
 </br>
 

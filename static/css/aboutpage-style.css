@@ -243,10 +243,11 @@ border: none;
 
 .post-ebook h3{
   padding-left: 2rem;
-  font-size: 1.85rem;
-  padding-top: 1rem;
+  padding-right: 1rem;
+  font-size: 1.80rem;
+  padding-top: .4rem;
   font-family: "MuliBold", sans-serif;
-  font-weight: 800;
+  font-weight: 700;
 }
 
 img{
