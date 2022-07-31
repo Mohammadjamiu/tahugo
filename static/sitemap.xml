@@ -184,11 +184,6 @@
   
 
   <url>
-    <loc>https://www.tooabstractive.com/ee-files/newers/</loc>
-  </url>
-  
-
-  <url>
     <loc>https://www.tooabstractive.com/electronics/19-steps-for-learning-electronics-as-a-beginner/</loc>
   </url>
   
@@ -359,7 +354,17 @@
   
 
   <url>
+    <loc>https://www.tooabstractive.com/networking/what-is-smtp-used-for/</loc>
+  </url>
+  
+
+  <url>
     <loc>https://www.tooabstractive.com/</loc>
+  </url>
+  
+
+  <url>
+    <loc>https://www.tooabstractive.com/ebooks/ee-files/digital-fundamentals-11th-edition/</loc>
   </url>
   
 
@@ -410,11 +415,6 @@
 
   <url>
     <loc>https://www.tooabstractive.com/terms-and-conditions/</loc>
-  </url>
-  
-
-  <url>
-    <loc>https://www.tooabstractive.com/networking/what-is-smtp-used-for/</loc>
   </url>
   
 </urlset>

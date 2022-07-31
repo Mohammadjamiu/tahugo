@@ -1,14 +1,58 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    {{ partial "tagmanager_closetag.html" .}}
-{{ partial "header.html" .}}
-<div></div>
-</body>
-</html>
+{{ define "main"}}
+<section class="ourpost-foreground">
+    <div class="container">
+      <h2> {{ .Params.Title }}</h2>
+    
+
+      {{ $readingTime := .ReadingTime }}
+      {{ $readingTime := print $readingTime "mins" | safeHTML }}
+    
+      <p class="description-lca">
+        {{ if .Params.WordCount}}
+        {{.WordCount}}
+       {{end}}
+       By {{ .Params.author }} | {{ .Params.PostDate }} | 
+        <a class="on-what-topic-lca" href="{{.Params.Categorylink}}">{{if isset .Params "ebookcategories" }}{{ delimit .Params.Ebookcategories " " }}{{end}}</a> | Estimated Reading Time - {{ $readingTime }}
+         
+      </p>
+    </div>
+  </section>
+
+  <section class="pagebody">
+    <div class="container">
+     
+{{ .Content }}
+
+<div class="disclaimer">
+ <h2>&#9888; disclaimer</h2>
+ <p>The books available are meant for educational purpose and we aim not to violate the rights of others.</p>
+ <p>So for any copyright infringement, email us to report at tooabstractive@gmail.com so we can remove the document.</p>
+</div>
+
+
+ 
+ 
+<div>
+
+  <div class="lca-navigation">
+    {{with .PrevInSection }}
+    <a href="{{.RelPermalink}}" class="lca-nav-next">
+      {{.Title}}
+    </a>
+    {{end}}
+    {{with .NextInSection }}
+    <a href="{{.RelPermalink}}" class="lca-nav-prev">
+      {{.Title}} </a>
+    {{end}}
+</div>
+
+</div>
+    </div>
+  </section>
+
+
+
+
+
+
+{{end}}

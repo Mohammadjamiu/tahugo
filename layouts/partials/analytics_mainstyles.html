@@ -91,9 +91,15 @@
 <link rel="stylesheet" href={{ $aboutPageStyle }} />
 
 {{ else if (eq .Section "ebooks") }}
+{{ $learncaStyle := "/css/learnca-style.css" }}
+<link rel="stylesheet" href={{ $learncaStyle }} />
 
 {{ $aboutPageStyle := "/css/aboutpage-style.css" }}
 <link rel="stylesheet" href={{ $aboutPageStyle }} />
+
+{{ $postPageStyle := "/css/postpage-style.css" }}
+<link rel="stylesheet" href={{ $postPageStyle }} />
+
 
 {{ else if (eq .Layout "privacy-policy") }}
 

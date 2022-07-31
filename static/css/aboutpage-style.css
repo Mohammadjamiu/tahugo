@@ -205,3 +205,68 @@ a.get-in-touch {
   color: var(--primary-color);
 }
 
+/* post ebook */
+.post-ebook {
+  display: block;
+  /* height: 32rem; */
+  height: 18rem;
+  max-width: 100%;
+  box-shadow: 1px 6px 10px rgba(0, 0, 0, 0.2);
+  /* box-shadow: 2px 2px  var(--primary-color); */
+  background-color: #f8f8f8;
+  background-color: #fbfafa;
+  border-radius: 0.4rem;
+  /* padding: 2rem 1.5rem; */
+  line-height: 1.5;
+  position: relative;
+  text-transform: capitalize;
+  font-family: "MuliBold", sans-serif;
+  /* margin-bottom: 4rem; */
+ display: flex;
+ flex-direction: row;
+
+
+}
+
+.post-ebook img {
+  max-width:36%;
+  /* display: none; */
+border: none;
+  height: 18rem;
+  object-fit: cover;
+  /* border-bottom: 0.1rem solid var(--primary-color); */
+  /* padding: 0.4rem 0.1rem 0 0.1rem; */
+  /* border-radius: 0.3rem; */
+ 
+  margin: 0;
+}
+
+.post-ebook h3{
+  padding-left: 2rem;
+  font-size: 1.85rem;
+  padding-top: 1rem;
+  font-family: "MuliBold", sans-serif;
+  font-weight: 800;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+
+.disclaimer{
+  background-color: rgb(223, 28, 28);
+  border-radius: 0.5rem;
+  margin: 5rem auto 3rem;
+  padding: 1.5rem;
+  color: #fff;
+
+}
+.disclaimer h2{
+
+  color: #fff;
+}
+.disclaimer p{
+
+  color: #fff;
+}

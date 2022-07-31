@@ -2,9 +2,9 @@
 
 <section class="ourpost-foreground">
   <div class="container">
-    <h2>All Posts</h2>
+    <h2>Free Ebooks</h2>
     <h3>
-      Get the thoughts out post that can enhance and upskill knowledge.
+      Curated list of ebooks that can enhance and upskill knowledge.
     </h3>
   </div>
 </section>
@@ -15,19 +15,18 @@
 
 
 
-<li><a class="tto-emag" href="/categories/electromagnetics/"> Electromagnetics </a></li>
-<li><a class="tto-pfe" href="/categories/productivity-and-guides/"> Productivity + guides</a></li>
-<li><a class="tto-ca" href="/categories/circuit-analysis/"> Circuit Analysis </a></li>
-<li><a class="tto-pfe" href="/categories/maths-and-fun/"> Maths For Noobs </a></li>
-<li><a class="tto-ca" href="/categories/electronics/"> Electronics </a></li>
-<li><a class="tto-pfe" href="/categories/networking-and-communication/"> Networking and Comm.</a></li>
-<li><a class="tto-ca" href="/categories/signals-and-system"> Signals and System </a></li>
+<li><a class="tto-emag" href="/ebookcategories/electrical-engineering/"> Electrical Engineering </a></li>
+<li><a class="tto-pfe" href="/ebookcategories/productivity-and-guides/"> </a></li>
+<li><a class="tto-ca" href="/ebookcategories/circuit-analysis/"> </a></li>
+<li><a class="tto-pfe" href="/ebookcategories/maths-and-fun/"> </a></li>
+<li><a class="tto-ca" href="/ebookcategories/electronics/">  </a></li>
+<li><a class="tto-pfe" href="/ebookcategories/networking-and-communication/"> Networking and Comm.</a></li>
+<li><a class="tto-ca" href="/ebookcategories/signals-and-system">  </a></li>
 
 
 </div>
 
 </div>
-
 
 
 
@@ -35,19 +34,19 @@
 
     
   <div class="container">
-    <h2 class="curious">It's Miscellaneous.</h2>
+    <h2 class="curious">Electrical Engineering</h2>
     <div class="posts">
     
   
      
+     
 
-
-      {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse ".Type" "eq" "ebooks"  }} 
+      {{$pag :=  where $.Site.RegularPages.ByWeight.Reverse "Type"  "ebooks"  }} 
   {{ range (.Paginate $pag).Pages }}
      
-    
-      <a href="{{ .RelPermalink }}" class="post post-1">
-          <!-- <img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.alt }}" /> -->
+
+      <a href="{{ .RelPermalink }}" class="post-ebook">
+          <img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.alt }}" />
           <h3>
             {{.Title}}
           </h3>
@@ -67,49 +66,12 @@
  <br>
  {{partial "pagination.html" . }}
   </div>
+ 
 
        
   </section>
 
 
-    <section  class="wow-electromag">
-
-    
-<div class="container">
-  <h2 class="the-next">It's Still Abstractive.</h2>
-  <!-- <h1 class="category-h1">All posts for {{.Type | singularize }} "{{.Title}}"</h1> -->
-
-
-  <div class="wposts">
-  
-
-    
-   
-    {{range where .Site.RegularPages.ByWeight.Reverse ".Type" "eq" "em-post" }} 
-   
-  
-    <a href="{{ .RelPermalink }}" class="wpost wpost-1">
-        <!-- <img loading="lazy" src="{{ .Params.image }}" alt="{{ .Params.alt }}" /> -->
-        <h3>
-          {{.Title}}
-        </h3>
-      
-        <div class="wpost-1-more">
-          <svg xmlns="http://www.w3.org/2000/svg" width="13" height="15" viewBox="0 0 13 15">
-            <path id="Polygon_2" data-name="Polygon 2" d="M7.5,0,15,13H0Z" transform="translate(13) rotate(90)"
-              fill="#E4982D" />
-          </svg>
-        </div>
-      </a>
-
-      {{end}}
-
-       
-  
-</div>
-</div>
-     
-</section>
 
 
 {{end}}
