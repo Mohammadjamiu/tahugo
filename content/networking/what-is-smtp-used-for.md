@@ -2,16 +2,16 @@
 title: "What Is SMTP (Simple Mail Transfer Protocol) Used For?"
 postdate: July 30, 2022
 image: ""
-description: "SMTP stands for simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet."
+description: "SMTP stands for simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet"
 alt: ""
 weight: "60"
 author: Mohammad Jamiu
 categorylink: /categories/networking-and-communication
-categories: ["Networking and Communication"]
+categories:["Networking and Communication"]
 type: posts
 Google_Ads: true
-wordcount: false
 mathjax: false
+wordcount: false
 draft: false
 ---
 
