@@ -542,3 +542,10 @@ img.footer-icon {
     /* margin-left: 4rem; */
   }
 }
+
+
+#google-ad{
+  height: 250px;
+  max-width: 100%;
+  /* background-color: red; */
+}
