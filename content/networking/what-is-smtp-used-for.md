@@ -15,7 +15,7 @@ mathjax: false
 draft: false
 ---
 
-**SMTP** stands for simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.
+**SMTP** stands for Simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.
 
 This protocol is used in two stages, one is from the client sending the mail to the sender server and from this server to another server close to the recipient of the mail.
 <img src="/images/smtpserver.png" alt="smtp for mail transfer" loading="lazy">
