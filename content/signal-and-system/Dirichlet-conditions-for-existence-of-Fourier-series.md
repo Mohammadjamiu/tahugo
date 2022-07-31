@@ -40,4 +40,4 @@ In the first figure there is finite discontinuities while in the second figure t
 
 ### Condition 3:
 
-Periodic signal should be absolutely enterable over the range of time period.
+Periodic signal should be absolutely integrable over the range of time period.
