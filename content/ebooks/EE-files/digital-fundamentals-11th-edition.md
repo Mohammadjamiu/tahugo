@@ -14,6 +14,7 @@ Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
+Downloadlink: https://www.dropbox.com/s/681ybfgrwfhunos/%5BThomas_L._Floyd%5D_Digital_Fundamentals%28BookZZ.org%29.pdf?dl=0
 ---
 
 <img loading="lazy" src="/images/thomaslfloyd.png" alt="How to study smart in engineering and have better grades without over stressing.">
@@ -79,6 +80,5 @@ Integrated Circuit Technologies
 | Author's Name | Thomas L. Floyd |
 | Format | PDF |
 | File Size |24 MB |
-| link | <a class="links-to-others" href="https://www.dropbox.com/s/681ybfgrwfhunos/%5BThomas_L._Floyd%5D_Digital_Fundamentals%28BookZZ.org%29.pdf?dl=0">Download</a> |
 
 <!-- | tag | Digital Electronics |   -->
