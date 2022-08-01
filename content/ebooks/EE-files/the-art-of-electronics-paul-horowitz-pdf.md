@@ -1,7 +1,7 @@
 ---
 title: "[PDF] The Art of Electronics By Paul Horowitz And Winfield Hill"
 postdate: July 31, 2022
-image: "/images/paulhorowitz.png"
+image: "/images/paulhorowitz.webp"
 description: "The Art of Electronics By Paul Horowitz And Winfield Hill pdf free download"
 alt: ""
 weight: "5"
@@ -14,10 +14,11 @@ Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
+AmazonLink: https://amzn.to/3oJGQQP
 Downloadlink: https://www.dropbox.com/s/gs4c4h4m4w5egqp/The%20Art%20of%20Electronics%20By%20Paul%20Horowitz%20%28Tooabstractive.com%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/paulhorowitz.png" alt="The Art of Electronics By Paul Horowitz And Winfield Hill pdf free download">
+<img loading="lazy" src="/images/paulhorowitz.webp" alt="The Art of Electronics By Paul Horowitz And Winfield Hill pdf free download">
 
 </br>
 </br>

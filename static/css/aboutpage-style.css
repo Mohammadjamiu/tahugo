@@ -282,3 +282,21 @@ img{
   padding: 1rem;
   margin-top: 2rem;
 }
+.ebook-amazon-link{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #e4982d;
+  border-radius: .5rem;
+  padding: 1rem;
+  margin-top: 2rem;
+  background-color:#e4982d ;
+}
+
+.ebook-download-link a{
+  color: #295ea0;
+}
+.ebook-amazon-link a{
+  color: #fff;
+}

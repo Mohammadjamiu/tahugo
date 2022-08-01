@@ -1,7 +1,7 @@
 ---
 title: "[PDF] Analog and Digital Electronics By U.A Bakshi A.P Godse"
 postdate: July 31, 2022
-image: "/images/analogbakshi.png"
+image: "/images/analogbakshi.webp"
 description: "Analog and Digital Electronics By U.A Bakshi A.P Godse pdf free download"
 alt: ""
 weight: "2"
@@ -15,9 +15,10 @@ wordcount: false
 mathjax: false
 draft: false
 Downloadlink: https://www.dropbox.com/s/qy2uxn7fjds57fm/Analog-and-Digital-Electronics-U-a-Bakshi-A-P-Godse%20%28Tooabstractive.com%29.pdf?dl=0
+AmazonLink: https://amzn.to/3zMVg96
 ---
 
-<img loading="lazy" src="/images/analogbakshi.png" alt="anaolg electronics by u.a bakshi">
+<img loading="lazy" src="/images/analogbakshi.webp" alt="anaolg electronics by u.a bakshi">
 
 </br>
 </br>

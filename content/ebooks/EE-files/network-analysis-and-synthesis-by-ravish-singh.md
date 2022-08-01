@@ -1,7 +1,7 @@
 ---
 title: "[PDF] Network Analysis and Synthesis by Ravish R. Singh"
 postdate: July 31, 2022
-image: "/images/networkanalysisbysingh.png"
+image: "/images/networkanalysisbysingh.webp"
 description: "Network Analysis and Synthesis by Ravish R. Singh PDF free download "
 alt: ""
 weight: "4"
@@ -17,7 +17,7 @@ draft: false
 Downloadlink: https://www.dropbox.com/s/x7b4g3eoj1n2qh8/Singh%20-%20Network%20Analysis%20And%20Synthesis-Mc%20Graw%20Hill%20India%20%28Tooabstractive.com%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/networkanalysisbysingh.png" alt="Network analysis and synthesis by singh free pdf download">
+<img loading="lazy" src="/images/networkanalysisbysingh.webp" alt="Network analysis and synthesis by singh free pdf download">
 
 </br>
 </br>

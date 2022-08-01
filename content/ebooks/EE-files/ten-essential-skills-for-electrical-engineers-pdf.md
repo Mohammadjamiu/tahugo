@@ -1,7 +1,7 @@
 ---
 title: "[PDF] Ten Essential Skills for Electrical Engineers by Barry L. Dorr"
 postdate: July 31, 2022
-image: "/images/essentialdorr.png"
+image: "/images/essentialdorr.webp"
 description: "Ten Essential Skills for Electrical Engineers by Barry L. Dorr Pdf Free Download"
 alt: ""
 weight: "6"
@@ -14,10 +14,11 @@ Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
+AmazonLink: https://amzn.to/3PRtoWV
 Downloadlink: https://www.dropbox.com/s/se2rigb4z56ie8h/Ten%20Essential%20Skills%20for%20Electrical%20Engineers%20by%20Barry%20L.%20Dorr%20%28Tooabstractive.com%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/essentialdorr.png" alt="Ten Essential Skills for Electrical Engineers by Barry L. Dorr Pdf Free Download">
+<img loading="lazy" src="/images/essentialdorr.webp" alt="Ten Essential Skills for Electrical Engineers by Barry L. Dorr Pdf Free Download">
 
 </br>
 </br>

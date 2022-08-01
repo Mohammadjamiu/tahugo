@@ -15,6 +15,7 @@ wordcount: false
 mathjax: false
 draft: false
 Downloadlink: 
+AmazonLink:
 ---
 
 <img loading="lazy" src="/images/thomaslfloyd.png" alt="">
@@ -33,6 +34,6 @@ Downloadlink:
 
 |  
  | :-------- | :-------------------------------- |
-| Author's Name | Thomas L. Floyd |
+| Author's Name | |
 | Format | PDF |
 | File Size |24 MB |

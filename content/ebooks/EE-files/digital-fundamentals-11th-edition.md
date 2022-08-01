@@ -1,7 +1,7 @@
 ---
 title: "[PDF] Digital Fundamentals 11th Edition by Thomas L. Floyd"
 postdate: July 31, 2022
-image: "/images/thomaslfloyd.png"
+image: "/images/thomaslfloyd.webp"
 description: "Digital fundamentals pdf free download by Thomas L. Floyd"
 alt: ""
 weight: "1"
@@ -14,10 +14,11 @@ Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
+AmazonLink: https://amzn.to/3Jo63dc
 Downloadlink: https://www.dropbox.com/s/681ybfgrwfhunos/%5BThomas_L._Floyd%5D_Digital_Fundamentals%28BookZZ.org%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/thomaslfloyd.png" alt="How to study smart in engineering and have better grades without over stressing.">
+<img loading="lazy" src="/images/thomaslfloyd.webp" alt="How to study smart in engineering and have better grades without over stressing.">
 
 </br>
 </br>

@@ -1,7 +1,7 @@
 ---
 title: "[PDF] Circuit Theory by U.A Bakshi and A.V Bakshi"
 postdate: July 31, 2022
-image: "/images/cktbakshi.png"
+image: "/images/cktbakshi.webp"
 description: "Circuit Theory by U.A Bakshi and A.V Bakshi Pdf free Download"
 alt: ""
 weight: "3"
@@ -14,10 +14,11 @@ Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
+AmazonLink: https://amzn.to/3zMVg96
 Downloadlink: https://www.dropbox.com/s/hpcoksubx6o3gs0/Circuit-Theory-By-U.A-Bakshi%20and%20A.V%20Bakshi%20%28Tooabstractive.com%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/cktbakshi.png" alt="[PDF] Circuit Theory by U.A Bakshi and A.V Bakshi">
+<img loading="lazy" src="/images/cktbakshi.webp" alt="[PDF] Circuit Theory by U.A Bakshi and A.V Bakshi">
 
 </br>
 </br>
