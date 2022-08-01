@@ -18,7 +18,7 @@ draft: false
 **SMTP** stands for Simple Mail transfer protocol and it is a protocol used for the sending of mails from one client to another over the internet.
 
 This protocol is used in two stages, one is from the client sending the mail to the sender server and from this server to another server close to the recipient of the mail.
-<img src="/images/smtpserver.png" alt="smtp for mail transfer" loading="lazy">
+<img src="/images/smtpserver.webp" alt="smtp for mail transfer" loading="lazy">
 The email can then be retrieved by the client receiving the email from the server using the POP3 or IMAP protocol.
 
 The protocol SMTP uses is the <a class="links-to-article" href="/networking/what-is-tcp-ip-and-how-it-is-different-from-osi-model/">Transmission Control Protocol (TCP)</a>. TCP is a connection oriented protocol that ensures the successful delivery of packets and has an error-checking feature.
