@@ -59,8 +59,7 @@ Downloadlink: https://www.dropbox.com/s/aw98dw38lz1v5sj/Engineering%20Electromag
 
 ## Book Description
 
-|  
- | :-------- | :-------------------------------- |
+| :-------- | :-------------------------------- |
 | Author's Name | William Hayt and Jr John H. Buck |
 | Format | PDF |
 | File Size |9.5 MB |
