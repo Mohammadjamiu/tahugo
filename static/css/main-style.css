@@ -52,8 +52,8 @@ section .overlay {
   z-index: -100;
   background: linear-gradient(
     167deg,
-    rgba(23, 73, 134, 0.8),
-    rgba(23, 73, 134, 0.6) /* rgba(228, 153, 47, 0.4) */
+    rgba(23, 73, 134, 0.89),
+    rgba(9, 57, 116, 0.849) /* rgba(228, 153, 47, 0.4) */
       /* 170deg,
     rgba(23, 73, 134, 0.35),
     rgba(23, 73, 134, 0.6) rgba(228, 153, 47, 0.4) */
@@ -209,8 +209,8 @@ h2.curious-more-r::after {
   max-width: 100%;
   box-shadow: 1px 6px 10px rgba(0, 0, 0, 0.2);
   /* box-shadow: 2px 2px  var(--primary-color); */
-  background-color: #f8f8f8;
-  /* background-color: #fbfafa; */
+  /* background-color: #f8f8f8; */
+  background-color: #182c44;
   border-radius: 0.4rem;
   /* padding: 2rem 1.5rem; */
   line-height: 1.5;
@@ -248,7 +248,7 @@ h2.curious-more-r::after {
 }
 
 .post-more-r .div-more-r {
-  width: 22rem;
+  width: 40%;
   height: 15rem;
 
   /* border-right: 0.2rem solid var(--primary-color); */
@@ -260,6 +260,7 @@ h2.curious-more-r::after {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+
 }
 
 .post-more-r .img-more-r {
@@ -274,7 +275,7 @@ h2.curious-more-r::after {
 }
 .post-more-r .img-more-r-1 {
   height: 9rem;
-  width: 8rem;
+  width: 100%;
   object-fit: cover;
 
   background-image: url(/images/lightup2.svg);
@@ -284,9 +285,10 @@ h2.curious-more-r::after {
 }
 .post h3 {
   height: 16rem;
-  font-size: 1.65rem;
-  color: var(--slidebar-color);
+  font-size: 1.68rem;
+  color:#fff;
   padding: 2rem 1.5rem;
+  max-width: 100%;
 }
 
 .post-more-r h3 {
@@ -316,6 +318,48 @@ h2.curious-more-r::after {
   font-size: 1.7rem;
   font-family: "MuliBold", sans-serif;
 }
+
+
+.cat-sec-1{
+  width: 100%;
+  height: 15rem;
+  /* padding: 1rem; */
+  display: flex;
+  flex-direction: row;
+  background-color: #182c44;
+  position: relative;
+}
+.cat-sec-1-img{
+/* max-width: 40%; */
+width: 15rem;
+height: 100%;
+/* background-color: var(--complementary-color); */
+
+object-fit: cover;
+background-size: 8rem;
+background-repeat: no-repeat;
+display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+.cat-sec-1-img img{
+  width: 7rem;
+  height: auto;
+}
+.cat-sec-1 a{
+  background-color: var(--slidebarb-color);
+width: 70%;
+padding: 2rem;
+display: inline-block;
+font-size: 2rem;
+color: #fff;
+font-family: "MuliBold", sans-serif;
+
+}
+
 
 /* ! Ask Ta style */
 

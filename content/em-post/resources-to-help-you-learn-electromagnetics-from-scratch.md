@@ -8,7 +8,7 @@ engineering student trying to desperately learn electromagnetics field theory be
 with you it’s a difficult but interesting course."
 
 weight: "2"
-type: em-post
+type: posts
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"

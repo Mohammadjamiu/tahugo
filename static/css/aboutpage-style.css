@@ -213,8 +213,8 @@ a.get-in-touch {
   max-width: 100%;
   box-shadow: 1px 6px 10px rgba(0, 0, 0, 0.2);
   /* box-shadow: 2px 2px  var(--primary-color); */
-  background-color: #f8f8f8;
-  background-color: #fbfafa;
+ 
+  background-color: #fafafa;
   border-radius: 0.4rem;
   /* padding: 2rem 1.5rem; */
   line-height: 1.5;

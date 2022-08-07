@@ -6,7 +6,7 @@ description: "As an electrical engineering student, we all have that one course 
 is electromagnetics field theory sometimes called engineering electromagnetics. But with how difficult it is, there is still a better way to study it."
 alt: "how do you learn electromagnetics"
 weight: "3"
-type: em-post
+type: posts
 author: Mohammad Abdul
 categories: ["Electromagnetics"]
 categorylink: "/categories/electromagnetics/"

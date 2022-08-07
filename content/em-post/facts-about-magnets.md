@@ -5,7 +5,7 @@ image: "/images/scrubandfiremagnet_4.jpg"
 description: "If you break a magnet into two, you will still get a north and south pole and that why it is said that there are no monopole magnets. You can kill a magnet and stop it from magnetizing material by burning it with fire."
 alt: "magnets and magnetic field"
 weight: "3"
-type: em-post
+type: posts
 Google_Ads: true
 author: Mohammad Abdul
 categories: ["Electromagnetics"]

@@ -7,7 +7,7 @@ alt: ""
 weight: "65"
 author: Mohammad Jamiu
 categorylink: /categories/how-to-tech
-categories: ["How-to-tech"]
+categories: ["How to tech"]
 type: posts
 Google_Ads: true
 wordcount: false
