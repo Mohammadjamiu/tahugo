@@ -21,9 +21,9 @@ There are just 3 steps to create a QR code for a website or in page in Microsoft
 
 1. **Step 2** : On the website, right click on the page and go to "Create QR cpde for this page".
 
-<img loading="lazy" src="/images/qredge1.jpg" alt="On the website, right click on the page and go to Create QR cpde for this page">
+   <img loading="lazy" src="/images/qredge1.jpg" alt="On the website, right click on the page and go to Create QR cpde for this page">
 
 1. **Step 3** : Lastly, download or scan the QR code.
    <img loading="lazy" src="/images/qredge2.jpg" alt="download or scan the QR code">
 
-   Apart from creating a QR code for the page you are currentlu on, you can edit the URL before downloading and put a new URL of your choice and then download to your device or scan.
+   Apart from creating a QR code for the page you are currently on, you can edit the URL before downloading and put a new URL of your choice and then download to your device or scan.
