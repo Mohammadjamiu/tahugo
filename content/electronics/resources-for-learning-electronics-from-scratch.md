@@ -15,6 +15,7 @@ wordcount: false
 draft: false
 ---
 
+
 <img loading="lazy" src="/images/learnelectronics.jpg" alt="how to learn electronics from scratch or on your own">
 
 Learning electronics can be fun sometimes but for other times can be really frustrating.
