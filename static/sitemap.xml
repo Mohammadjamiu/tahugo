@@ -29,11 +29,6 @@
   
 
   <url>
-    <loc>https://www.tooabstractive.com/lca-post/how-to-learn-circuit-analysis-basics/</loc>
-  </url>
-  
-
-  <url>
     <loc>https://www.tooabstractive.com/learnca/what-is-voltage-current-and-resistance/</loc>
   </url>
   
@@ -454,11 +449,6 @@
   
 
   <url>
-    <loc>https://www.tooabstractive.com/lca-post/</loc>
-  </url>
-  
-
-  <url>
     <loc>https://www.tooabstractive.com/learnca/</loc>
   </url>
   
@@ -470,6 +460,11 @@
 
   <url>
     <loc>https://www.tooabstractive.com/terms-and-conditions/</loc>
+  </url>
+  
+
+  <url>
+    <loc>https://www.tooabstractive.com/learnca/how-to-learn-circuit-analysis-basics/</loc>
   </url>
   
 </urlset>

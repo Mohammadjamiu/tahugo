@@ -5,12 +5,12 @@ image: "/images/jolt_1(1).jpg"
 description: "Among the best way of learning to analyze circuits is, to write down the problem or question
 from the textbook and try to solve it independently without looking at the solution first and if things does
 go wrong, dont worry you can look at how to solve it."
-weight: "2"
+weight: "0"
 alt: "how to learn circuit analysis"
 author: Mohammad Abdul
 categories: ["Circuit analysis"]
 categorylink: /categories/circuit-analysis
-type: posts 
+layout: learnca 
 Google_Ads: true
 draft: false
 ---

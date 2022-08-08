@@ -18,7 +18,7 @@ AmazonLink: https://amzn.to/3zMVg96
 Downloadlink: https://www.dropbox.com/s/1ps30vi5565px27/Electrical%20And%20Electronics%20Engineering%20By%20U.%20Bakshi%2C%20V.%20Bakshi%20%28Tooabstractive.com%29.pdf?dl=0
 ---
 
-<img loading="lazy" src="/images/eandebakshi.webp.webp" alt="Electrical And Electronics Engineering By U.A Bakshi and V.U Bakshi pdf free download">
+<img loading="lazy" src="/images/eandebakshi.webp" alt="Electrical And Electronics Engineering By U.A Bakshi and V.U Bakshi pdf free download">
 
 </br>
 </br>
