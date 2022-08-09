@@ -347,7 +347,7 @@ align-items: center;
 
 .cat-sec-1-img img{
   width: 7rem;
-  height: auto;
+  height: 9rem;
 }
 .cat-sec-1 a{
   background-color: var(--slidebarb-color);
