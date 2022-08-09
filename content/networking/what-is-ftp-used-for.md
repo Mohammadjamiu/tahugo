@@ -55,13 +55,19 @@ To access a file on a server using FTP, all you need to do is the IP address or 
 
 1. FTP is simple and easy to use.
 
+1. Speed at which data can be transferred.
+
 1. It allows the accessing, uploading, downloading etc. of file across a server.
 
 ## Disadvantage(s) of FTP
 
 1. Data are transmitted in plain text or format.
 
-2. There is no data encryption hence, often result in data bridges.
+1. There is limit to the file size that can be transferred.
+
+1. It does not support multiple receivers.
+
+1. There is no data encryption hence, often result in data bridges.
 
 In order to make FTP safe and secured, some layers of security are added and it results in a new type or version of FTP which is called FTPs.
 
