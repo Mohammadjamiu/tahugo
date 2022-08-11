@@ -9,7 +9,7 @@ author: Mohammad Jamiu
 categorylink: /categories/networking-and-communication
 categories: ["Networking and Communication"]
 type: posts
-Google_Ads: false
+Google_Ads: true
 wordcount: false
 mathjax: false
 draft: false
@@ -62,3 +62,4 @@ _You can read more on why <a class="links-to-article" href="/networking/what-is-
 | 7   | It consists of 48-bits or 6 bytes which is seperated by either a semi-colon(:) or dash(-) For example, 2A:23:12:10:12:4A or 2A-23-12-10-12-4A. | It consists of 32-bits which is seperated by dots. For example, 192.168.48.5.    |
 | 8   | There are three types of MAC address, unicast, multicast and broadcast MAC address.                                                            | There are two versions of IP address, IPv4 and IPv6 address.                     |
 | 9   | MAC address can be used to resolve IP address issues.                                                                                          | IP address cannot be used to resolve MAC address issues.                         |
+| 10  | MAC address identifies a device                                                                                                                | IP address identifies a connection to a device                                   |

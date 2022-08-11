@@ -95,4 +95,4 @@ Another version of FTP is TFTP.
 
 It is a simple form of FTP which is not used to transfer file over the internet but on a Local Area Network.
 
-The kind of files which can be transferred using TFTP is a Configuration files often sohortened as Config files.
+The kind of files which can be transferred using TFTP is a Configuration files often shortened as Config files.
