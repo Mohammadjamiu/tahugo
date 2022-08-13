@@ -32,12 +32,12 @@ paginate = 10
 
 [menu]
     [[menu.main]]
-        name = "Home"
+        name = "Home &#127968;"
         url = "/"
         weight = 1
  
     [[menu.main]]
-        name = "Posts"
+        name = "Posts &#128221;"
         url = "/posts/"
         weight = 2
     [[menu.main]]
@@ -45,16 +45,16 @@ paginate = 10
         url = "/learnca/"
         weight = 3
     [[menu.main]]
-        name = "Ebooks"
+        name = "Ebooks &#128218;"
         url = "/ebooks/"
         weight = 4
     [[menu.main]]
-        name = "Contact"
+        name = "Contact &#9742;"
         url = "/contact/"
         weight = 5
   
     [[menu.main]]
-        name = "About"
+        name = "About &#8505;"
         url = "/about/"
         weight = 6
 

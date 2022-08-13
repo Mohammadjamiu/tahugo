@@ -33,10 +33,9 @@
    {{end}}
    
         By {{ .Params.author }} | #{{.Params.weight}} | 
-        <a class="on-what-topic" href="{{.Params.Categorylink}}">{{if isset .Params "categories" }}{{ delimit .Params.Categories " " }}{{end}}</a> | Estimated Reading Time - {{ $readingTime }}
+        <a class="on-what-topic" href="{{.Params.Categorylink}}">{{if isset .Params "categories" }}{{ delimit .Params.Categories " " }}{{end}}</a> | Est. Reading &#128352; - {{ $readingTime }}
        
-        
-       
+
       </p>
 
    

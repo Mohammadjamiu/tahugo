@@ -248,7 +248,7 @@ img {
   margin: 3rem auto;
   width: 100%;
  
- aspect-ratio: 1 / 1;
+ aspect-ratio: 1 / 0.84;
 
   display: block;
   border: 0.1rem solid var(--slidebar-color);

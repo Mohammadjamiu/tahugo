@@ -32,12 +32,18 @@ Maxima is the highest amplitude or peak and minima is the lowest amplitude or pe
 
 In the second figure, it can be seen that the maxima and minima is not constant and the time period has some inconsistency hence the signal is discontinuous or infinite.
 
+<img loading="lazy" src="/images/dirichlet_3.webp" alt="Finite maxima and minima">
+
 ### Condition 2:
 
 Periodic signal should have finite number of discontinuities over the range of time period. The discontinuities are the high to low or low to high transition.
+
+<img loading="lazy" src="/images/dirichlet_1.webp" alt="finite discpntinuities">
 
 In the first figure there is finite discontinuities while in the second figure there is infinite discontinuities as the width and height is changing randomly and the discontinuities present can tend to infinity.
 
 ### Condition 3:
 
 Periodic signal should be absolutely integrable over the range of time period.
+
+<img loading="lazy" src="/images/dirichlet_2.webp" alt="absolutely integrable">
