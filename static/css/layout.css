@@ -151,6 +151,7 @@ header svg {
   /* background-color: coral; */
   height: 50%;
   z-index: 3000;
+cursor: pointer;
 }
 
 .menu-line-one,
