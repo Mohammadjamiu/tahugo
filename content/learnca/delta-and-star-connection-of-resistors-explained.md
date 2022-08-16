@@ -174,7 +174,7 @@ opposite to the resistor we are looking for. And in this case R<sub>b</sub> and 
 <img loading="lazy" src="/images/ex1and2_1.jpg" alt="Example on delta to star conversion">
 <p>Firstly, we need to put the star network into the delta network and apply the corresponding formula
 
-<img loading="lazy" src="/images/ex1and2_2.jpg" alt="solution on delta to star conversion"></p>
+<img loading="lazy" src="/images/ex1and2_2.webp" alt="solution on delta to star conversion"></p>
 
 <h2>Example on star to delta conversion</h2>
 <p><span class="text-emphasis">Ex.2</span>  let’s convert the star network gotten from Ex.1 back to the delta equivalent.</p>

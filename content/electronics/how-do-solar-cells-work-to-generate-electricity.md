@@ -40,7 +40,7 @@ But silicon is widely used due to fact that the number of shells in the silicon 
 
 So at slight increase in temperature, germanium will become unstable as compared to silicon.
 
-<img loading="lazy" src="/images/20element_2.jpg" alt="">
+<img loading="lazy" src="/images/20element_2.webp" alt="20 elements">
 
 Silicon is an element with an atomic number of 14 on the periodic table which made it have 4 valence electrons at the outer-most shell.
 
