@@ -58,6 +58,11 @@ paginate = 10
         url = "/about/"
         weight = 6
 
+    [[menu.main]]
+        name = "Write For Us &#9997;"
+        url = "/about/#write"
+        weight = 7
+
 
 [related]
     threshold = 0
