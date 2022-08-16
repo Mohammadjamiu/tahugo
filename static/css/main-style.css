@@ -118,6 +118,7 @@ section .overlay {
   background-color: var(--primary-color);
   color: #fff;
   box-shadow: 1px 4px 8px rgba(45, 121, 228, 0.089);
+  display: block;
 }
 
 .hero .svg-reading-box {
