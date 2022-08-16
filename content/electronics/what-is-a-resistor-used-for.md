@@ -23,7 +23,7 @@ A resistor is an electronics component that limits (or reduce) the flow of curre
 In other words, it main purpose or function in a circuit is to control current flow.
 Here is how a resistor looks like, With it schematic symbol in circuit as
 
-<img loading="lazy" src="/images/resistorucolor_6.jpg" alt="">
+<img loading="lazy" src="/images/resistorucolor_6.webp" alt="">
 
 In electronics, the resistance value of a resistor is quantified with the unit ohms
 And it is one of the reason we have ohm’s law because the current that flows through a resistor and the voltage across it can all be determined and analyzed using this formula. More on <a class="links-to-article" href="/learnca/what-is-ohms-law">ohm’s law</a> and <a class="links-to-article" href="/learnca/electronics-circuit-components-explained">electronics component</a>.

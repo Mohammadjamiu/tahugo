@@ -94,7 +94,7 @@ of negative ion (electrons), which means it's in a balance state.
 called <span class="text-italics">voltage</span> to push the
 electrons inside the wire and as soon as electron flows or moves, we
 get current.</p>
-<img loading="lazy" src="/images/electron-wire_1.jpg" alt="" />
+<img loading="lazy" src="/images/electron-wire_1.webp" alt="" />
 <p>
 Since electron is the negative ion which means if we connect a
 battery to a device like a torch, current flows from the negative

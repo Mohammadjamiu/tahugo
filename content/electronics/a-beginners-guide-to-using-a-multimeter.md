@@ -111,7 +111,7 @@ Another thing which is the most important aspect of why I love to use a multimet
 
 It is called the continuity tester, when you shift the knob to that part, you can test if a wire or conductor is broken.
 
-<img loading="lazy" src="/images/ctestdiode_2.jpg" alt="">
+<img loading="lazy" src="/images/ctestdiode_2.webp" alt="">
 
 If it is broken, it will make no sound but if the wire is okay, it will make some buzzing noise.
 

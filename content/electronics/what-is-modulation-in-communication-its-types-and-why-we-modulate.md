@@ -158,7 +158,7 @@ Angle modulation is further subdivided into frequency modulation FM and phase mo
 
 In {{< ste >}}Frequency Modulation{{</ ste >}}, the frequency of the carrier is varied in accordance to the frequency of the baseband signal while keeping it amplitude and phase constant.
 
-<img loading="lazy" src="/images/modulation_4.jpg" alt="Frequency modulation">
+<img loading="lazy" src="/images/modulation_4.webp" alt="Frequency modulation">
 
 Also, In {{< ste >}} Phase Modulation {{</ ste >}} the phase of the carrier is varied in accordance to the phase of the baseband signal while keeping the amplitude and frequency constant.
 
