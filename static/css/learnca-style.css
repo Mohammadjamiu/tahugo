@@ -248,7 +248,7 @@ img {
   margin: 3rem auto;
   width: 100%;
  
- aspect-ratio: 1 / 0.84;
+ aspect-ratio: 1 / 0.6;
 
   display: block;
   border: 0.1rem solid var(--slidebar-color);
@@ -337,8 +337,8 @@ button.see-answer {
 
   img {
     margin: 3rem auto;
-    aspect-ratio: 1 / .45;
-    
+    aspect-ratio: 1 / 0.55;
+    max-width: 62%;
     display: block;
     border: 0.1rem solid var(--slidebar-color);
     padding: 0.1rem;

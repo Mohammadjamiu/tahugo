@@ -101,7 +101,7 @@ section .overlay {
 
 .hero .hero-say {
   margin: 2.5rem 0;
-  max-width: 75%;
+  max-width: 340px;
   font-family: "Muli", sans-serif;
   font-size: 1.68rem;
   font-weight: 500;
@@ -938,6 +938,7 @@ h2.one-fold::after {
 
   .hero .hero-say {
     margin: 3rem 0;
+    max-width: 450px;
   }
 
   .hero-btn {
