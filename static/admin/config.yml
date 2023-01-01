@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+media_folder: "static/images"
+public_folder: "/images"
+#for local testing
+local_backend: true
+editor:
+  preview: false
+collections:
+  - name: "signal-and-system"
+    label: signal and system
+    folder: "content/signal-and-system"
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Body
+        name: body
+        widget: markdown
+
+  - name: learnca
+    label: learnca
+    folder: content/learnca
+    create: true
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Date
+        name: date
+        widget: datetime
+      - label: Body
+        name: body
+        widget: markdown
