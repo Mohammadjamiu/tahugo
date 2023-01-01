@@ -10,7 +10,6 @@ editor:
   preview: false
 collections:
   - name: "signal-and-system"
-    preview_path: signal-and-system/{{year}}/{{month}}/{{title}}
     label: signal and system
     folder: "content/signal-and-system"
     create: true
@@ -39,3 +38,9 @@ collections:
       - label: Body
         name: body
         widget: markdown
+
+  - name: pages
+    files:
+      - name: about
+        file: content/about
+        preview_path: about-the-project
