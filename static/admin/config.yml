@@ -40,7 +40,8 @@ collections:
         widget: markdown
 
   - name: pages
-      fields:
+    label: about
+    fields:
       - label: Title
         name: title
         widget: string
