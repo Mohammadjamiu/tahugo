@@ -1,18 +1,25 @@
 ---
-title: "How Do You Solve Energy and Power Signals Problem Step By Step With Tips and Shortcuts?"
-postdate: December 01, 2021
-image: "/images/signals_10.jpg"
-description: "Here are the few things to remember in order to quickly identify if a signal is a power or an energy signal - If the amplitude of the signal is zero at t tends to infinity, then the signal is an energy signal but if the amplitude of the signal is constant t at tends to infinity then the signal is a power signal "
-alt: "power and energy signal"
-weight: "17"
-author: Mohammad Abdul
-categorylink: /categories/signals-and-system
-categories: ["Signals and System"]
-type: posts
-Google_Ads: true
-mathjax: true
-wordcount: false
 draft: false
+wordcount: false
+alt: power and energy signal
+Google_Ads: true
+author: Mohammad Abdul
+postdate: December 01, 2021
+date: 2023-01-01T00:56:27.623Z
+categorylink: /categories/signals-and-system
+title: How Do You Solve Energy and Power Signals Problem Step By Step With Tips
+  and Shortcuts?
+weight: "17"
+mathjax: true
+type: posts
+image: /images/signals_10.jpg
+categories:
+  - Signals and System
+description: "Here are the few things to remember in order to quickly identify
+  if a signal is a power or an energy signal - If the amplitude of the signal is
+  zero at t tends to infinity, then the signal is an energy signal but if the
+  amplitude of the signal is constant t at tends to infinity then the signal is
+  a power signal "
 ---
 
 Before solving problems on energy and power signal, you need to understand what each of the signal means
