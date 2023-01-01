@@ -10,6 +10,7 @@ editor:
   preview: false
 collections:
   - name: "signal-and-system"
+    preview_path: signal-and-system/{{year}}/{{month}}/{{title}}
     label: signal and system
     folder: "content/signal-and-system"
     create: true
