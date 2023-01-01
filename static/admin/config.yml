@@ -53,5 +53,6 @@ collections:
         widget: markdown
     files:
       - name: about
+        label: about
         file: content/pages/about
         preview_path: about-the-project
